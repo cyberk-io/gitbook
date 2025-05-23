@@ -66,6 +66,7 @@
 ## How to Planning
 
 * [Mẫu Kế Hoạch Dự Án](how-to-planning/mau-ke-hoach.md)
+* [Mẫu Kế Hoạch Họp Retrospective](how-to-planning/retrospective-planning.md)
 
 ***
 
