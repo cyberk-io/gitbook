@@ -18,7 +18,7 @@ icon: bug
 * **Môi trường:** Một số bug chỉ xảy ra trên một số môi trường nhất định( hoặc trên 1 loại thiết bị, version) vì vậy hãy đảm bảo đủ thông tin để tiết kiệm thời gian điều tra bug nhé&#x20;
 * **Trạng thái của Bug:** Đừng quên vòng đời của bug bạn nhé.&#x20;
 
-<figure><img src="../.gitbook/assets/BugLifeCycle.jpeg" alt=""><figcaption><p><em><strong>Bug Life Cycle</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/BugLifeCycle.jpeg" alt=""><figcaption><p><em><strong>Bug Life Cycle</strong></em></p></figcaption></figure>
 
 _**Một số mẹo nhỏ khi làm:**_
 

@@ -8,7 +8,7 @@ icon: shield-check
 
 Tài liệu này nhằm cung cấp cho nhân viên mới các kiến thức cơ bản về bảo mật thông tin, giúp họ hiểu rõ tầm quan trọng của việc bảo vệ thông tin và thực hiện các biện pháp bảo mật phù hợp trong quá trình làm việc tại công ty.
 
-<figure><img src="../.gitbook/assets/Se1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Se1.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Tầm Quan Trọng Của Bảo Mật Thông Tin
 
@@ -32,7 +32,7 @@ Trong môi trường công ty IT, thông tin là tài sản vô cùng quan trọ
 * **Bật 2FA trên tất cả các tài khoản**: Xác thực hai yếu tố giúp tăng cường bảo mật bằng cách yêu cầu một mã xác thực bổ sung ngoài mật khẩu.
 * **Sử dụng các ứng dụng xác thực**: Google Authenticator hoặc Authy là những ứng dụng phổ biến cho việc xác thực hai yếu tố.
 
-<figure><img src="../.gitbook/assets/se2.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/se2.webp" alt=""><figcaption></figcaption></figure>
 
 #### 3.3. Cẩn Trọng Với Phishing
 

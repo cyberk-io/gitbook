@@ -10,7 +10,7 @@
 
 **Project Live Circle Overviews:**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Architect:** Là hoạt động thống nhất về công nghệ, kiến trúc dự án, cài đặt hạ tầng.
 

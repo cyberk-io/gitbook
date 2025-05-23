@@ -6,7 +6,7 @@ icon: globe-pointer
 
 > Đối với một startup công nghệ làm việc với đối tác nước ngoài, bao gồm Singapore và Úc, việc lựa chọn trang phục đi làm hàng ngày cần đảm bảo tính chuyên nghiệp, thoải mái, và thể hiện sự sáng tạo của môi trường startup. Chúng ta thường xuyên họp video-call với khách hàng nên trang phục cũng là một yếu tố quan trọng. Dưới đây có một vài gợi ý:
 
-<figure><img src="../.gitbook/assets/casual.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/casual.webp" alt=""><figcaption></figcaption></figure>
 
 1.  **Smart Casual**: Phù hợp với không khí startup nhưng vẫn giữ được vẻ lịch sự:
 

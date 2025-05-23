@@ -12,7 +12,7 @@ icon: file-lines
 
 * **Cover tối đa các trường hợp có thể xảy ra:** Hãy đảm bảo bạn nắm rõ tất cả các yêu cầu của khách hàng và thể hiện được chúng trong bộ testcase của mình
 
-<figure><img src="../.gitbook/assets/What-is-Test-Coverage_.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/What-is-Test-Coverage_.jpg" alt=""><figcaption></figcaption></figure>
 
 * **Tập trung vào các kịch bản quan trọng:** Hãy chắc chắn rằng test case của bạn bao phủ những tình huống có thể gây ra lỗi nghiêm trọng nhất. Ngoài những test case đơn lẻ được mô tả trong tài liệu, hãy cố gắng mô tả các test case mô phỏng các hành động thường gặp của end user. Các test case liên quan đến trigger của hệ thống cũng là một trong số những test case dễ gây lỗi cho sản phẩm(Đừng quên bổ sung chúng nhé!)
 * **Giảm thiểu phức tạp**: Test case cần dễ hiểu và rõ ràng. Tránh việc viết test case quá phức tạp hoặc khó hiểu. Hãy viết thành những câu đơn ngắn gọn với cấu trúc đơn giản để một tester mới không hiểu gì về dự án cũng có thể đọc hiểu và thực hiện test.
