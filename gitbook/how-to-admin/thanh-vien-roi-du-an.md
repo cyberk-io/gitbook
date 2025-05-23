@@ -1,6 +1,6 @@
 ---
 description: Quy trình xử lý khi thành viên rời khỏi dự án
-icon: fa-user-minus
+icon: person-remove
 ---
 
 # Thành viên rời dự án

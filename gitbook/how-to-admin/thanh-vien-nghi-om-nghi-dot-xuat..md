@@ -1,6 +1,6 @@
 ---
 description: Quy trình xử lý khi thành viên nghỉ ốm hoặc nghỉ đột xuất
-icon: fa-user-clock
+icon: clock
 ---
 
 # Thành viên Nghỉ Ốm / Nghỉ đột xuất.
