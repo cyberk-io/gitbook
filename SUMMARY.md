@@ -58,14 +58,7 @@
 
 ## How to Planning
 
-* [Kế Hoạch Dự Án Phát Triển Phần Mềm Cyberk](gitbook/how-to-planning/00-gioi-thieu-ke-hoach.md)
-* [Mục Tiêu Của Dự Án](gitbook/how-to-planning/01-muc-tieu-du-an.md)
-* [Thông Tin Chung Dự Án](gitbook/how-to-planning/02-thong-tin-chung.md)
-* [Phân Loại Tính Năng](gitbook/how-to-planning/03-phan-loai-tinh-nang.md)
-* [Quản Lý Rủi Ro](gitbook/how-to-planning/04-quan-ly-rui-ro.md)
-* [Danh Sách Việc Cần Làm](gitbook/how-to-planning/05-danh-sach-viec-can-lam.md)
-* [Chiến Lược Phát Triển Dự Án](gitbook/how-to-planning/06-chien-luoc-phat-trien.md)
-* [Lưu ý Chung](gitbook/how-to-planning/07-luu-y-chung.md)
+* [Mẫu Kế Hoạch Dự Án](gitbook/how-to-planning/mau-ke-hoach.md)
 
 ***
 
