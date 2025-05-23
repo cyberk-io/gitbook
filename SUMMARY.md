@@ -2,9 +2,18 @@
 
 ## OVERVIEWS
 
-* [Overviews](README.md)
+* [Tổng Quan](overviews/README.md)
+* [Tầm Nhìn & Sứ Mệnh](overviews/mission-vision.md)
+* [Giá Trị Cốt Lõi](overviews/core-value.md)
 * [How We Serve Clients](overviews/how-we-serve-clients.md)
-* [Giá trị cốt lõi](overviews/gia-tri-cot-loi.md)
+
+## MEMBER BENEFIT & POLICY
+
+* [Work From Home](member-benefit-and-policy/quickstart.md)
+* [Cơm Nhà](member-benefit-and-policy/com-nha.md)
+* [Overtime](member-benefit-and-policy/overtime.md)
+* [Lương](member-benefit-and-policy/luong.md)
+* [Nghỉ Phép](member-benefit-and-policy/nghi-phep.md)
 
 ## WORK PROCESS
 
@@ -38,13 +47,6 @@
 * [Bug report](how-to-be-a-cyberks-tester/openapi.md)
 * [Communication](how-to-be-a-cyberks-tester/communication.md)
 
-## MEMBER BENEFIT & POLICY
-
-* [Work From Home](member-benefit-and-policy/quickstart.md)
-* [Cơm Nhà](member-benefit-and-policy/com-nha.md)
-* [Overtime](member-benefit-and-policy/overtime.md)
-* [Lương](member-benefit-and-policy/luong.md)
-* [Nghỉ Phép](member-benefit-and-policy/nghi-phep.md)
 
 ## HOW TO BE CYBERK's PM
 
