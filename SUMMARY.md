@@ -20,7 +20,7 @@
 * [Workflow](work-process/workflow.md)
 * [Project Life-Circle](work-process/project-life-circle.md)
 * [Kick-off](work-process/kick-off.md)
-* [Daily Meeting Process](work-process/daily-meeting-process.md)
+* [Daily Demo Process](work-process/daily-demo-process.md)
 * [Retrospective Process](work-process/retrospective-process.md)
 * [Delivery](work-process/delivery.md)
 
