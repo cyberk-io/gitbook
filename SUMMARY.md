@@ -57,6 +57,12 @@
 * [Giao việc sao cho đúng](how-to-be-cyberks-pm/giao-viec-sao-cho-dung.md)
 * [Bí kíp thực thi (Draft)](how-to-be-cyberks-pm/bi-kip-thuc-thi-draft.md)
 
+## HOW TO ADMIN
+
+* [Thành viên mới ra nhập](how-to-admin/thanh-vien-moi-ra-nhap.md)
+* [Thành viên rời dự án](how-to-admin/thanh-vien-roi-du-an.md)
+* [Thành viên Nghỉ Ốm / Nghỉ đột xuất](how-to-admin/thanh-vien-nghi-om-nghi-dot-xuat..md)
+
 ## How to Planning
 
 * [Mẫu Kế Hoạch Dự Án](how-to-planning/mau-ke-hoach.md)
