@@ -51,7 +51,6 @@
 * [Trách Nhiệm của Quản Lý Dự Án (PM)](how-to-be-cyberks-pm/trach-nhiem-cua-quan-ly-du-an-pm.md)
 * [Việc của nhà quản lý](how-to-be-cyberks-pm/viec-cua-nha-quan-ly.md)
 * [Năng lực cần có](how-to-be-cyberks-pm/nang-luc-can-co.md)
-* [Project Life-Circle](how-to-be-cyberks-pm/project-life-circle.md)
 * [Tiếp Nhận CR như thế nào (Change Requests)](how-to-be-cyberks-pm/tiep-nhan-cr-nhu-the-nao-change-requests.md)
 * [Giao việc sao cho đúng](how-to-be-cyberks-pm/giao-viec-sao-cho-dung.md)
 * [Bí kíp thực thi (Draft)](how-to-be-cyberks-pm/bi-kip-thuc-thi-draft.md)
