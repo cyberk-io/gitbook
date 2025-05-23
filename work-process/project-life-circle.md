@@ -13,21 +13,27 @@ Project Life-life circle là vòng đời của một dự án (hoặc một Ver
 Project Life-Cirle (Vòng đời dự án ) là các **điểm chạm quan trọng** với khách hàng và Team members. Các điểm này giúp Quản lý dự án tập trung hơn vào các task quy trình (Process Tasks).
 {% endhint %}
 
-**Architect -> Kick-off -> Infrastructure -> Delivery**
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-23 at 17.39.33.png" alt=""><figcaption></figcaption></figure>
 
-**Project Live Circle Overviews:**
+\
+1\. Kick-off nội bộ:  Là hoạt động cả team cùng ngồi với nhau và lập kế hoạch dự án.  Cùng làm rõ các khái niệm trong dự án. Và Thống nhất về cách làm.&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+2, Kick-off với khách hàng: Là hoạt động team ngồi với khách hàng, để trình bày về kế hoạch, và cách tiếp cận làm sản phẩm.&#x20;
 
-**Architect:** Là hoạt động thống nhất về công nghệ, kiến trúc dự án, cài đặt hạ tầng.
-
-**Kick-off**: Là hoạt động settup trước khi dự án bắt đầu. Bao gồm Khách hàng và team member nhằm settup mục tiêu, timeline, tinh thần của dự án.
-
-**Delivery:** Là hoạt động report hàng ngày / Hàng tuần bao gồm **Daily Meeting** và **Release**
-
-**Terminate:** Là hoạt động kết thúc dự án. Nhằm mục đích bàn giao và kết thúc một dự án.\
+3. Dev days: Bao gồm Internal Daily demo [daily-demo-process.md](daily-demo-process.md "mention") và External Daily Demo.&#x20;
+4. Product Final: Là thời điểm đóng không nhận requirement mới để tập trung hoàn thành dự án.&#x20;
+5. Project Launch: Là hoạt động publish sản phẩm ra cộng đồng.&#x20;
+6. Kết thúc: là hoạt động bàn giao sản phẩm và kết thúc dịch vụ.&#x20;
 
 
-> Q: Dự án có nhiều Phases thì Life-Circle được chia như thế nào?
 
-> A: Mỗi một Phase cần có một kick-off từ đầu và đó được coi là 1 vòng đời dự án.
+
+
+&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-23 at 17.39.37.png" alt=""><figcaption></figcaption></figure>
+
+1. Develop:  Là hoạt động phát triển dự án (Tính từ buổi họp trước)
+2. Code review: Là hoạt động Review code cho developer.  Nhằm mục đích đảm bảo chất lượng source code đạt tiêu chuẩn trước khi được merge vào nhánh chính&#x20;
+3. Internal Demo: Là hoạt động daily demo: xem thêm ở [daily-demo-process.md](daily-demo-process.md "mention")
+4. Client Demo: Xem thêm:&#x20;

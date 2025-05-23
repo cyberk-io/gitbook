@@ -3,9 +3,10 @@ description: Tầm nhìn và sứ mệnh của Cyberk - Together we build dreams
 icon: telescope
 ---
 
-# Vision & Mission / Tầm nhìn & Sứ mệnh
+# Tầm Nhìn & Sứ Mệnh
 
 ## Slogan
+
 **Together we build dreams**
 
 {% hint style="info" %}
@@ -15,6 +16,7 @@ We believe that big dreams cannot be realized alone. The power of collaboration,
 {% endhint %}
 
 ## Mission / Sứ mệnh
+
 **Kiến Tạo Đột Phá**
 
 {% hint style="success" %}
@@ -34,21 +36,24 @@ The world is changing rapidly and will only accelerate. To survive and thrive in
 ## Diễn giải thêm / Further Elaboration
 
 {% hint style="info" %}
-### Đổi mới và Thích nghi / Innovation and Adaptation
-- Chúng tôi xem sự thay đổi là cơ hội, không phải thách thức
-- Cyberk chủ động đón nhận cái mới, thử nghiệm, và không ngại thất bại để tiến về phía trước
-- We see change as an opportunity, not a challenge
-- Cyberk proactively embraces the new, experiments, and is not afraid of failure to move forward
+#### Đổi mới và Thích nghi / Innovation and Adaptation
 
-### Học hỏi Liên tục / Continuous Learning
-- Đội ngũ của chúng tôi luôn học hỏi, cập nhật xu hướng
-- Sẵn sàng chuyển mình để đáp ứng mọi nhu cầu của khách hàng
-- Our team is always learning, staying updated with trends
-- Ready to transform to meet every client need
+* Chúng tôi xem sự thay đổi là cơ hội, không phải thách thức
+* Cyberk chủ động đón nhận cái mới, thử nghiệm, và không ngại thất bại để tiến về phía trước
+* We see change as an opportunity, not a challenge
+* Cyberk proactively embraces the new, experiments, and is not afraid of failure to move forward
 
-### Tạo Giá trị Bền vững / Creating Sustainable Value
-- Cyberk tin rằng, chỉ khi liên tục đổi mới và thích nghi, chúng ta mới có thể cùng nhau xây dựng những giá trị bền vững
-- Tạo ra ảnh hưởng tích cực cho xã hội
-- Cyberk believes that only by constantly innovating and adapting can we build sustainable value together
-- Create a positive impact on society
-{% endhint %} 
+#### Học hỏi Liên tục / Continuous Learning
+
+* Đội ngũ của chúng tôi luôn học hỏi, cập nhật xu hướng
+* Sẵn sàng chuyển mình để đáp ứng mọi nhu cầu của khách hàng
+* Our team is always learning, staying updated with trends
+* Ready to transform to meet every client need
+
+#### Tạo Giá trị Bền vững / Creating Sustainable Value
+
+* Cyberk tin rằng, chỉ khi liên tục đổi mới và thích nghi, chúng ta mới có thể cùng nhau xây dựng những giá trị bền vững
+* Tạo ra ảnh hưởng tích cực cho xã hội
+* Cyberk believes that only by constantly innovating and adapting can we build sustainable value together
+* Create a positive impact on society
+{% endhint %}

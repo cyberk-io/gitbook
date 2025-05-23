@@ -1,9 +1,8 @@
 ---
 description: Tổng quan về Cyberk - Together we build dreams
-icon: home
 ---
 
-# Tổng Quan về Cyberk
+# Tổng Quan
 
 {% hint style="info" %}
 Cyberk là đối tác công nghệ đáng tin cậy, chuyên cung cấp các giải pháp phần mềm sáng tạo và đột phá cho doanh nghiệp và các nhà khởi nghiệp.
@@ -16,37 +15,43 @@ Cyberk là công ty công nghệ với đội ngũ chuyên gia giàu kinh nghi�
 ## Điểm Mạnh của Chúng Tôi
 
 ### 1. Công Nghệ Tiên Tiến
-- Luôn cập nhật và áp dụng các công nghệ mới nhất
-- Tối ưu hóa quy trình phát triển phần mềm
-- Đảm bảo chất lượng sản phẩm cao nhất
+
+* Luôn cập nhật và áp dụng các công nghệ mới nhất
+* Tối ưu hóa quy trình phát triển phần mềm
+* Đảm bảo chất lượng sản phẩm cao nhất
 
 ### 2. Đội Ngũ Chuyên Nghiệp
-- Chuyên gia giàu kinh nghiệm
-- Tư duy sáng tạo và đổi mới
-- Cam kết với sự thành công của khách hàng
+
+* Chuyên gia giàu kinh nghiệm
+* Tư duy sáng tạo và đổi mới
+* Cam kết với sự thành công của khách hàng
 
 ### 3. Quy Trình Làm Việc
-- Agile và linh hoạt
-- Minh bạch và rõ ràng
-- Tối ưu hóa hiệu suất
+
+* Agile và linh hoạt
+* Minh bạch và rõ ràng
+* Tối ưu hóa hiệu suất
 
 ## Dịch Vụ của Chúng Tôi
 
 {% hint style="success" %}
-### Phát Triển Phần Mềm
-- Phát triển ứng dụng web
-- Phát triển ứng dụng di động
-- Giải pháp phần mềm tùy chỉnh
+#### Phát Triển Phần Mềm
 
-### Tư Vấn Công Nghệ
-- Tư vấn chiến lược số hóa
-- Tối ưu hóa quy trình
-- Đánh giá và cải tiến hệ thống
+* Phát triển ứng dụng web
+* Phát triển ứng dụng di động
+* Giải pháp phần mềm tùy chỉnh
 
-### Bảo Trì và Hỗ Trợ
-- Bảo trì hệ thống
-- Hỗ trợ kỹ thuật 24/7
-- Nâng cấp và cải tiến liên tục
+#### Tư Vấn Công Nghệ
+
+* Tư vấn chiến lược số hóa
+* Tối ưu hóa quy trình
+* Đánh giá và cải tiến hệ thống
+
+#### Bảo Trì và Hỗ Trợ
+
+* Bảo trì hệ thống
+* Hỗ trợ kỹ thuật 24/7
+* Nâng cấp và cải tiến liên tục
 {% endhint %}
 
 ## Cam Kết của Chúng Tôi
@@ -61,6 +66,7 @@ Cyberk là công ty công nghệ với đội ngũ chuyên gia giàu kinh nghi�
 ## Liên Hệ
 
 Để biết thêm thông tin chi tiết về dịch vụ của chúng tôi, vui lòng liên hệ:
-- **Email**: contact@cyberk.com
-- **Website**: www.cyberk.com
-- **Địa chỉ**: Cyberk Office 
+
+* **Email**: contact@cyberk.com
+* **Website**: www.cyberk.com
+* **Địa chỉ**: Cyberk Office
