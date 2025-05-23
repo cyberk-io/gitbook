@@ -1,10 +1,17 @@
+---
+description: Vòng đời của một dự án tại Cyberk
+icon: circle
+---
+
 # Project Life-Circle
 
-> Project Life-life circle là vòng đời của một dự án (hoặc một Version), Để làm tốt dự án, hãy đảm bảo bạn và các thành viên trong nhóm hiểu được quy trình này.
+{% hint style="info" %}
+Project Life-life circle là vòng đời của một dự án (hoặc một Version), Để làm tốt dự án, hãy đảm bảo bạn và các thành viên trong nhóm hiểu được quy trình này.
+{% endhint %}
 
-
-
-> Project Life-Cirle (Vòng đời dự án ) là các **điểm chạm quan trọng** với khách hàng và Team members. Các điểm này giúp Quản lý dự án tập trung hơn vào các task quy trình (Process Tasks).
+{% hint style="info" %}
+Project Life-Cirle (Vòng đời dự án ) là các **điểm chạm quan trọng** với khách hàng và Team members. Các điểm này giúp Quản lý dự án tập trung hơn vào các task quy trình (Process Tasks).
+{% endhint %}
 
 **Architect -> Kick-off -> Infrastructure -> Delivery**
 

@@ -4,8 +4,16 @@
 
 * [Overviews](README.md)
 * [How We Serve Clients](gitbook/overviews/how-we-serve-clients.md)
-* [Workflow](gitbook/overviews/workflow.md)
 * [Giá trị cốt lõi](gitbook/overviews/gia-tri-cot-loi.md)
+
+## WORK PROCESS
+
+* [Workflow](gitbook/work-process/workflow.md)
+* [Project Life-Circle](gitbook/work-process/project-life-circle.md)
+* [Kick-off](gitbook/work-process/kick-off.md)
+* [Daily Meeting Process](gitbook/work-process/daily-meeting-process.md)
+* [Retrospective Process](gitbook/work-process/retrospective-process.md)
+* [Delivery](gitbook/work-process/delivery.md)
 
 ## How to be a Cyberk's member
 
@@ -44,20 +52,10 @@
 * [Việc của nhà quản lý](gitbook/how-to-be-cyberks-pm/viec-cua-nha-quan-ly.md)
 * [Năng lực cần có](gitbook/how-to-be-cyberks-pm/nang-luc-can-co.md)
 * [Project Life-Circle](gitbook/how-to-be-cyberks-pm/project-life-circle.md)
-* [Kick-off](gitbook/how-to-be-cyberks-pm/kick-off.md)
-* [Delivery](gitbook/how-to-be-cyberks-pm/delivery.md)
 * [Architect](gitbook/how-to-be-cyberks-pm/architect.md)
-* [Daily meeting Process](gitbook/how-to-be-cyberks-pm/daily-meeting-process.md)
-* [Retrospective Process](gitbook/how-to-be-cyberks-pm/retrospective-process.md)
 * [Tiếp Nhận CR như thế nào (Change Requests)](gitbook/how-to-be-cyberks-pm/tiep-nhan-cr-nhu-the-nao-change-requests.md)
 * [Giao việc sao cho đúng](gitbook/how-to-be-cyberks-pm/giao-viec-sao-cho-dung.md)
 * [Bí kíp thực thi (Draft)](gitbook/how-to-be-cyberks-pm/bi-kip-thuc-thi-draft.md)
-
-## HOW TO ADMIN
-
-* [Thành viên mới ra nhập](gitbook/how-to-admin/thanh-vien-moi-ra-nhap.md)
-* [Thành viên rời dự án](gitbook/how-to-admin/thanh-vien-roi-du-an.md)
-* [Thành viên Nghỉ Ốm / Nghỉ đột xuất](gitbook/how-to-admin/thanh-vien-nghi-om-nghi-dot-xuat..md)
 
 ## How to Planning
 
