@@ -52,7 +52,6 @@
 * [Việc của nhà quản lý](how-to-be-cyberks-pm/viec-cua-nha-quan-ly.md)
 * [Năng lực cần có](how-to-be-cyberks-pm/nang-luc-can-co.md)
 * [Project Life-Circle](how-to-be-cyberks-pm/project-life-circle.md)
-* [Architect](how-to-be-cyberks-pm/architect.md)
 * [Tiếp Nhận CR như thế nào (Change Requests)](how-to-be-cyberks-pm/tiep-nhan-cr-nhu-the-nao-change-requests.md)
 * [Giao việc sao cho đúng](how-to-be-cyberks-pm/giao-viec-sao-cho-dung.md)
 * [Bí kíp thực thi (Draft)](how-to-be-cyberks-pm/bi-kip-thuc-thi-draft.md)
@@ -61,7 +60,7 @@
 
 * [Thành viên mới ra nhập](how-to-admin/thanh-vien-moi-ra-nhap.md)
 * [Thành viên rời dự án](how-to-admin/thanh-vien-roi-du-an.md)
-* [Thành viên Nghỉ Ốm / Nghỉ đột xuất](how-to-admin/thanh-vien-nghi-om-nghi-dot-xuat..md)
+* [Thành viên Nghỉ Ốm / Nghỉ đột xuất](how-to-admin/thanh-vien-nghi-om-nghi-dot-xuat.md)
 
 ## How to Planning
 
