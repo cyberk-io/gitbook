@@ -1,3 +1,8 @@
+---
+description: Quy trình xử lý khi thành viên rời khỏi dự án
+icon: fa-user-minus
+---
+
 # Thành viên rời dự án
 
 1. Đảm bảo tất cả tài nguyên, Mã nguồn (Source code) Tài khoản đã được xóa khỏi máy tính của Thành viên

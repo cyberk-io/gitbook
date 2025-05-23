@@ -1,3 +1,8 @@
+---
+description: Hướng dẫn quy trình khi có thành viên mới tham gia dự án
+icon: fa-user-plus
+---
+
 # Thành viên mới ra nhập
 
 Khi có thành viên ra nhập. Quản lý dự án cần làm một số điều sau để đảm bảo thành viên mới có thể tham gia phát triển dự án. Thành viên mới ra nhập có thể là một nhân viên mới vừa được tuyển dụng, hoặc người của Cyberk từ dự án khác chuyển sangPM cần làm một số thao tác sau:

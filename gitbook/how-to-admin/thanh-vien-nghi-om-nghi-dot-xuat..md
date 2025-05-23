@@ -1,3 +1,8 @@
+---
+description: Quy trình xử lý khi thành viên nghỉ ốm hoặc nghỉ đột xuất
+icon: fa-user-clock
+---
+
 # Thành viên Nghỉ Ốm / Nghỉ đột xuất.
 
 1. **Gọi điện hỏi thăm Member**, Hỏi thăm tình trạng sức khỏe, và thông báo cho các thành viên khác trong team

@@ -47,14 +47,17 @@
 * [Kick-off](gitbook/how-to-be-cyberks-pm/kick-off.md)
 * [Delivery](gitbook/how-to-be-cyberks-pm/delivery.md)
 * [Architect](gitbook/how-to-be-cyberks-pm/architect.md)
-* [Thành viên mới ra nhập](gitbook/how-to-be-cyberks-pm/thanh-vien-moi-ra-nhap.md)
-* [Thành viên rời dự án](gitbook/how-to-be-cyberks-pm/thanh-vien-roi-du-an.md)
-* [Thành viên Nghỉ Ốm / Nghỉ đột xuất.](gitbook/how-to-be-cyberks-pm/thanh-vien-nghi-om-nghi-dot-xuat..md)
 * [Daily meeting Process](gitbook/how-to-be-cyberks-pm/daily-meeting-process.md)
 * [Retrospective Process](gitbook/how-to-be-cyberks-pm/retrospective-process.md)
 * [Tiếp Nhận CR như thế nào (Change Requests)](gitbook/how-to-be-cyberks-pm/tiep-nhan-cr-nhu-the-nao-change-requests.md)
 * [Giao việc sao cho đúng](gitbook/how-to-be-cyberks-pm/giao-viec-sao-cho-dung.md)
 * [Bí kíp thực thi (Draft)](gitbook/how-to-be-cyberks-pm/bi-kip-thuc-thi-draft.md)
+
+## HOW TO ADMIN
+
+* [Thành viên mới ra nhập](gitbook/how-to-admin/thanh-vien-moi-ra-nhap.md)
+* [Thành viên rời dự án](gitbook/how-to-admin/thanh-vien-roi-du-an.md)
+* [Thành viên Nghỉ Ốm / Nghỉ đột xuất](gitbook/how-to-admin/thanh-vien-nghi-om-nghi-dot-xuat..md)
 
 ## How to Planning
 
