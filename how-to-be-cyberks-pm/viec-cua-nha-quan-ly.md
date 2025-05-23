@@ -1,6 +1,6 @@
 ---
 description: Các công việc cụ thể mà một PM cần thực hiện hàng ngày
-icon: list-checks
+icon: bowl-scoop
 ---
 
 # Việc của nhà quản lý

@@ -1,3 +1,7 @@
+---
+icon: right-from-bracket
+---
+
 # Giao việc sao cho đúng
 
 > Giao việc đúng cho member là khi đó member phải cảm thấy chưa đủ sức để làm, cần cố gắng 1 chút nữa mới có thể hoàn thành tốt công việc. Nếu giao việc đúng thì member sẽ liên tục tiến bộ từng ngày. Giao việc đúng là member không phải overtime một cách không có chủ đích vì thiếu effort. Giao việc đúng là khi làm bắt buộc member phải dành sự tập trung vào công việc mới có thể hoàn thành.

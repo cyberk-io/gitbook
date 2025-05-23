@@ -1,3 +1,7 @@
+---
+icon: hand-fist
+---
+
 # Năng lực cần có
 
 Xác định vấn đề Tự viết PRD đầu tiên Với chat GPT

@@ -1,6 +1,8 @@
 ---
-description: Triết lý và phương pháp tiếp cận của chúng ta trong việc hợp tác và mang lại giá trị tối đa cho khách hàng.
-icon: users-cog
+description: >-
+  Triết lý và phương pháp tiếp cận của chúng ta trong việc hợp tác và mang lại
+  giá trị tối đa cho khách hàng.
+icon: arrows-to-circle
 ---
 
 # How We Serve Clients
@@ -18,7 +20,6 @@ Ba trụ cột chính trong triết lý phục vụ của chúng ta bao gồm:
 
 **Diễn giải:** Tư duy "founder" thúc đẩy mỗi chúng ta làm việc với tinh thần trách nhiệm cao nhất, chủ động tìm kiếm giải pháp tối ưu, và không ngừng nỗ lực để sản phẩm không chỉ hoàn thành về mặt chức năng mà còn thực sự mang lại giá trị kinh doanh bền vững và đạt được mục tiêu chiến lược mà khách hàng đề ra.
 {% endhint %}
-
 
 ### 2. Coi Mình Là Chuyên Gia Công Nghệ Của Họ
 
@@ -41,15 +42,14 @@ Ba trụ cột chính trong triết lý phục vụ của chúng ta bao gồm:
 {% hint style="success" %}
 **Mục đích tối thượng của chúng ta:** **Đảm bảo thành công về mặt công nghệ cho dự án của khách hàng.**
 
-**Diễn giải:**
+**Diễn giải:**\
 Thành công về mặt công nghệ không chỉ đơn thuần là việc giao một sản phẩm phần mềm hoạt động đúng chức năng theo yêu cầu. Đối với chúng ta, đó là một khái niệm rộng lớn hơn, bao gồm:
 
-*   **Giải pháp phù hợp:** Lựa chọn và triển khai công nghệ đáp ứng chính xác nhu cầu hiện tại của khách hàng và có khả năng mở rộng trong tương lai cho họ.
-*   **Chất lượng bền vững:** Xây dựng sản phẩm với mã nguồn sạch, kiến trúc tốt, dễ bảo trì và phát triển tiếp cho khách hàng.
-*   **Hiệu suất tối ưu:** Đảm bảo ứng dụng hoạt động nhanh chóng, ổn định và mang lại trải nghiệm tốt nhất cho người dùng cuối của khách hàng.
-*   **An toàn và bảo mật:** Áp dụng các tiêu chuẩn và thực hành tốt nhất để bảo vệ dữ liệu và hệ thống của khách hàng.
-*   **Sự đồng hành chiến lược:** Chúng ta không chỉ "code and forget". Chúng ta mong muốn trở thành đối tác công nghệ dài hạn, sẵn sàng tư vấn, hỗ trợ và cùng khách hàng thích ứng với những thay đổi và cơ hội mới trong tương lai.
+* **Giải pháp phù hợp:** Lựa chọn và triển khai công nghệ đáp ứng chính xác nhu cầu hiện tại của khách hàng và có khả năng mở rộng trong tương lai cho họ.
+* **Chất lượng bền vững:** Xây dựng sản phẩm với mã nguồn sạch, kiến trúc tốt, dễ bảo trì và phát triển tiếp cho khách hàng.
+* **Hiệu suất tối ưu:** Đảm bảo ứng dụng hoạt động nhanh chóng, ổn định và mang lại trải nghiệm tốt nhất cho người dùng cuối của khách hàng.
+* **An toàn và bảo mật:** Áp dụng các tiêu chuẩn và thực hành tốt nhất để bảo vệ dữ liệu và hệ thống của khách hàng.
+* **Sự đồng hành chiến lược:** Chúng ta không chỉ "code and forget". Chúng ta mong muốn trở thành đối tác công nghệ dài hạn, sẵn sàng tư vấn, hỗ trợ và cùng khách hàng thích ứng với những thay đổi và cơ hội mới trong tương lai.
 
 Chúng ta cam kết sử dụng toàn bộ kiến thức, kinh nghiệm và sự tận tâm của mình để biến mục đích này thành hiện thực cho mọi khách hàng hợp tác cùng công ty.
 {% endhint %}
-

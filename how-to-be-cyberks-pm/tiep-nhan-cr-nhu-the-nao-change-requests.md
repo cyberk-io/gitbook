@@ -1,3 +1,7 @@
+---
+icon: lightbulb-exclamation-on
+---
+
 # Tiếp Nhận CR như thế nào (Change Requests)
 
 Trong quá trình làm dự án không tránh khỏi các Change Request (CR), các CR này nhằm mục đích sửa đổi để cho dự án phù hợp với nhu cầu mới phát sinh, vì thế CR là một điều tốt và cần thiết. Tuy nghiên khi tiếp nhận các CR này ta thường chưa có sự chuyển bị cần thiết, dẫn đến gặp một số vấn đề phát sinh trong quá trình này:

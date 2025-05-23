@@ -1,5 +1,7 @@
 # Table of contents
 
+* [README](README.md)
+
 ## OVERVIEWS
 
 * [Tổng Quan](overviews/README.md)
@@ -47,7 +49,6 @@
 * [Bug report](how-to-be-a-cyberks-tester/openapi.md)
 * [Communication](how-to-be-a-cyberks-tester/communication.md)
 
-
 ## HOW TO BE CYBERK's PM
 
 * [Trách Nhiệm của Quản Lý Dự Án (PM)](how-to-be-cyberks-pm/trach-nhiem-cua-quan-ly-du-an-pm.md)
@@ -55,7 +56,7 @@
 * [Năng lực cần có](how-to-be-cyberks-pm/nang-luc-can-co.md)
 * [Tiếp Nhận CR như thế nào (Change Requests)](how-to-be-cyberks-pm/tiep-nhan-cr-nhu-the-nao-change-requests.md)
 * [Giao việc sao cho đúng](how-to-be-cyberks-pm/giao-viec-sao-cho-dung.md)
-* [Bí kíp thực thi (Draft)](how-to-be-cyberks-pm/bi-kip-thuc-thi-draft.md)
+* [Bí kíp thực thi](how-to-be-cyberks-pm/bi-kip-thuc-thi-draft.md)
 
 ## HOW TO ADMIN
 
