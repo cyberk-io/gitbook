@@ -1,6 +1,6 @@
 ---
 description: Hướng dẫn quy trình khi có thành viên mới tham gia dự án
-icon: fa-user-plus
+icon: face-smile-beam
 ---
 
 # Thành viên mới ra nhập
