@@ -8,6 +8,7 @@
 * [Tầm Nhìn & Sứ Mệnh](overviews/mission-vision.md)
 * [Giá Trị Cốt Lõi](overviews/core-value.md)
 * [How We Serve Clients](overviews/how-we-serve-clients.md)
+* [Triết Lý Quản Trị](overviews/triet-ly-quan-tri.md)
 
 ## MEMBER BENEFIT & POLICY
 
