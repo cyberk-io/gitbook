@@ -37,16 +37,12 @@ Triết Lý làm việc:
 
 **Mục tiêu hơn là Nhiệm Vụ (Project Goal hơn là Personal tasks )**
    - Giải thích: Tại Cyberk, chúng tôi khuyến khích mỗi thành viên tập trung vào mục tiêu cuối cùng của dự án hơn là chỉ hoàn thành các nhiệm vụ cá nhân được giao. Điều này có nghĩa là bạn cần hiểu rõ "vì sao" mình làm công việc này, nó đóng góp như thế nào vào thành công chung. Thay vì chỉ đợi việc, hãy chủ động tìm hiểu, đề xuất và làm những gì cần thiết để đạt được mục tiêu lớn, ngay cả khi nó vượt ra ngoài mô tả công việc ban đầu.
-   - *Ví dụ minh họa:* Câu chuyện về Hiếu là một minh chứng rõ ràng. Mặc dù trách nhiệm chính của Hiếu là lập trình và quản lý kỹ thuật, bạn đã không ngần ngại tham gia vào việc chuẩn bị pitching deck và trình bày nó để giúp dự án của khách hàng huy động vốn thành công. Mục tiêu của Hiếu là sự thành công toàn diện của dự án, chứ không chỉ là hoàn thành các dòng code.
 
 **Trách nhiệm hơn Quy Trình**
    - Giải thích: Quy trình được tạo ra để hỗ trợ công việc, nhưng không phải là giới hạn cho sự chủ động và trách nhiệm. Chúng tôi tin rằng khi một người nhận lãnh trách nhiệm về kết quả, họ sẽ tìm ra cách tốt nhất để đạt được nó, kể cả khi cần linh hoạt điều chỉnh hoặc vượt lên trên quy trình hiện có. Điều quan trọng là giữ vững cam kết và đảm bảo chất lượng, đồng thời không ngại đề xuất cải tiến quy trình nếu thấy cần thiết.
-   - *Ví dụ minh họa:* Hiếu đã chủ động đề xuất các phương pháp tiếp cận mới và làm việc trực tiếp với khách hàng để giải quyết vấn đề, thể hiện trách nhiệm cao độ với thành công của dự án, thay vì chỉ làm theo các yêu cầu đã được định sẵn trong quy trình.
 
 **Minh bạch và đồng bộ thông tin**
    - Giải thích: Thông tin rõ ràng, kịp thời và được chia sẻ rộng rãi là nền tảng cho sự hợp tác hiệu quả và ra quyết định đúng đắn. Mọi người được khuyến khích chia sẻ cởi mở về tiến độ, khó khăn, rủi ro và cả những thành công. Điều này giúp cả đội nắm bắt tình hình, hỗ trợ lẫn nhau và cùng hướng về mục tiêu chung.
-   - *Ví dụ minh họa:* Mặc dù câu chuyện không trực tiếp nói về việc Hiếu báo cáo, nhưng việc bạn cùng khách hàng chuẩn bị và trình bày pitching deck ngầm hiểu rằng đã có sự trao đổi thông tin minh bạch và đồng bộ giữa Hiếu và khách hàng, cũng như có thể là với team Cyberk, để đi đến quyết định và hành động đó. (Chúng ta có thể làm rõ thêm điểm này nếu cần).
 
 **Học hỏi liên tục thay vì chờ được đào tạo**
    - Giải thích: Thế giới công nghệ thay đổi không ngừng, và khả năng tự học hỏi, tự cập nhật kiến thức là một năng lực cốt lõi. Cyberk tạo điều kiện để mọi người phát triển, nhưng chúng tôi đề cao tinh thần chủ động tìm tòi, học từ dự án, từ đồng nghiệp, từ thất bại và thành công. Đừng chờ đợi một khóa học chính thức, hãy xem mỗi ngày là một cơ hội để học điều mới.
-   - *Ví dụ minh họa:* Việc Hiếu tham gia vào việc xây dựng pitching deck – một công việc có thể không hoàn toàn thuộc chuyên môn lập trình ban đầu – cho thấy tinh thần sẵn sàng học hỏi và thử thách bản thân ở những lĩnh vực mới để đóng góp cho mục tiêu chung.
