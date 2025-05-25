@@ -1,5 +1,6 @@
 ---
 description: Giới thiệu về mẫu kế hoạch dự án phát triển phần mềm Cyberk.
+icon: clipboard-list
 ---
 
 # Mẫu Kế Hoạch Dự Án

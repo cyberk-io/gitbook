@@ -3,57 +3,94 @@ description: Quy trình khởi động dự án tại Cyberk
 icon: rocket
 ---
 
-# Kick-off
+# Internal Kickoff Meeting
 
-{% hint style="info" %}
-Kick off là bước khởi động dự án, đảm bảo mọi thành viên và khách hàng đều hiểu rõ mục tiêu và cách thức làm việc
-{% endhint %}
+## Ý Nghĩa của Kick Off Meeting
 
-## Các thành phần của Kick-off
+Internal Kickoff Meeting là buổi họp khởi động nội bộ, diễn ra trước khi bắt tay vào phát triển. Mục tiêu chính bao gồm:
 
-### 1. Thống nhất DOD (Definition of Done)
-{% hint style="info" %}
-Là **hoạt động gửi email** cho khách hàng thông báo Dự án được kick hoạt bao gồm:
-* Điều kiện được coi là 1 task được hoàn thành
-* Điều kiện 1 bugs được chấp nhận
-* SLA nếu có
-{% endhint %}
+* **Hiểu rõ yêu cầu:** Toàn bộ thành viên hiểu đúng và thống nhất về PRD, phạm vi và yêu cầu tính năng
+* **Hiểu sản phẩm:** Cả team nắm được sản phẩm là gì, giải quyết vấn đề nào cho ai
+* **Hoàn thành Planning Report:** Thảo luận và điền vào Planning Template – phân rõ task, deadline, và người phụ trách
+* **Đồng bộ kỳ vọng:** Mọi người cùng hiểu mục tiêu, cách phối hợp, timeline, và trách nhiệm từng vai trò
 
-### 2. Internal Kick-off Meeting
-Là các buổi offline meeting với team members của dự án nhằm thống nhất:
+## Yếu Tố Tạo Nên Buổi Kick-off Thành Công
 
-#### a. Giới thiệu Vai trò
-* Project Manager là ai?
-* Technical Lead là ai?
-* Supporter là ai?
-* Stack công nghệ là gì?
-* Overtime hay không?
+* **Leader chuẩn bị kỹ:** Có overview sản phẩm rõ ràng, nắm vững yêu cầu và dẫn dắt buổi họp mạch lạc
+* **Team tham gia đầy đủ và chủ động:** Mọi người đọc trước PRD, sẵn sàng đặt câu hỏi và góp ý vào plan
+* **Đảm bảo Key-member tham gia:** Các thành viên chính phải có mặt đầy đủ
+* **Thảo luận tập trung:** Không lan man, mỗi phần đều có kết luận rõ ràng (ai làm, khi nào xong)
+* **Hoàn thành Planning Report ngay:** Kế hoạch có thể gửi khách hàng/Anderson trong ngày
+* **Xác định sớm rủi ro:** Follow-up với khách hàng kịp thời về các điểm chưa rõ
 
-#### b. Mục tiêu dự án
-* Thời gian, Milestone lúc nào xong?
-* Tinh thần dự án là gì? khách hàng như thế nào?
-* Chúng ta học hỏi điều gì mới?
+## Những Điều Cần Tránh
 
-### 3. Customer Kick-off Meeting
-{% hint style="info" %}
-Là cuộc họp online hoặc offline với khách hàng nhằm:
-* Giới thiệu các thành viên và vai trò của các member trong team
-* Khách hàng trình bày và giới thiệu dự án (theo góc nhìn của khách hàng)
-* Lắng nghe khách hàng, và xây dựng sự liên kết với khách hàng
-{% endhint %}
+> Các lỗi thường gặp có thể ảnh hưởng nghiêm trọng đến hiệu quả của buổi kick-off:
 
-## Quy trình Kick-off Meeting
+* Không có người dẫn dắt (facilitator)
+* Chưa đọc trước PRD
+* Không ghi chú và phân công rõ ràng
+* Chưa xác định rủi ro
+* Không gửi kế hoạch cho khách hàng sau họp
 
-1. Settup Calendy với khách hàng
-2. Thống nhất lịch họp và thông báo 1 lần nữa với khách hàng thông qua email
-3. Gửi Agenda nội dung kick-off cho khách hàng trong email
+## Quy Trình Thực Hiện
 
-## Kick Off Check List
+### Step 1: Chuẩn Bị
 
-{% hint style="success" %}
-- [ ] Đã gửi Project DOD
-- [ ] Đã tổ chức Internal Project Kick off meeting
-- [ ] Toàn bộ Các thành viên đã nắm được Timeline, Milestone của dự án
-- [ ] Toàn bộ các thành viên đã Nắm được tinh thần của dự án
-- [ ] Toàn bộ các thành viên Nắm được Mục tiêu của dự án
-{% endhint %}
+**Mục tiêu:**
+* Tiết kiệm thời gian họp
+* Tăng hiệu quả đầu ra
+
+**Gợi ý thực hiện:**
+* Leader gửi PRD cho team đọc và comment trước
+* Leader chuẩn bị Planning template phù hợp với dự án
+* Tổ chức họp ở không gian phù hợp, tránh xa khu vực làm việc
+* Giải thích rõ ý nghĩa của buổi kick-off
+
+### Step 2: Tìm Hiểu Sản Phẩm
+
+**Mục tiêu:**
+* Hiểu bối cảnh dự án và mục tiêu sản phẩm
+* Nắm rõ giá trị mang lại cho người dùng
+* Hiểu được tầm nhìn của nhà sáng lập
+
+**Gợi ý thực hiện:**
+* Leader trình bày tổng quan về sản phẩm
+* Sử dụng slide, sơ đồ user flow hoặc demo sản phẩm
+* Thảo luận về vấn đề cốt lõi cần giải quyết
+
+### Step 3: Đọc và Giải Thích PRD
+
+**Mục tiêu:**
+* Đảm bảo team hiểu đúng yêu cầu dự án
+* Làm rõ logic nghiệp vụ và phạm vi
+
+**Gợi ý thực hiện:**
+* Mỗi người đọc và ghi chú điểm chưa rõ
+* Leader/BA giải thích chi tiết từng phần
+* Thảo luận nhóm về các điểm cần làm rõ
+
+### Step 4: Lập Kế Hoạch Dự Án
+
+**Mục tiêu:**
+* Xây dựng kế hoạch chi tiết với sự đồng thuận của team
+* Phân công công việc và xác định timeline
+
+**Gợi ý thực hiện:**
+* PM/Leader hướng dẫn điền Planning Template
+* Dev/QA đóng góp ý kiến chuyên môn
+* Chia nhóm thảo luận chi tiết từng module
+
+### Step 5: Gửi Planning Report
+
+**Mục tiêu:**
+* Hoàn thiện kế hoạch chính thức
+* Đảm bảo stakeholders nắm được tiến độ
+
+**Gợi ý thực hiện:**
+* Tổng hợp template thành file PDF/Google Doc
+* Kiểm tra kỹ nội dung và format
+* Gửi qua các kênh chính thức (email, workspace)
+* Gửi PDF qua Telegram cho khách hàng và Anderson
+
+
