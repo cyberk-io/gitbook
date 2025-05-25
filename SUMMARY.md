@@ -64,10 +64,10 @@
 * [Thành viên rời dự án](how-to-admin/thanh-vien-roi-du-an.md)
 * [Thành viên Nghỉ Ốm / Nghỉ đột xuất](how-to-admin/thanh-vien-nghi-om-nghi-dot-xuat.md)
 
-## How to Planning
+## Templates
 
-* [Mẫu Kế Hoạch Dự Án](how-to-planning/mau-ke-hoach.md)
-* [Mẫu Kế Hoạch Họp Retrospective](how-to-planning/retrospective-planning.md)
+* [Mẫu Kế Hoạch Dự Án](templates/project-planning-template.md)
+* [Mẫu Kế Hoạch Họp Retrospective](templates/retrospective-planning.md)
 
 ***
 
