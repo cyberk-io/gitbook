@@ -1,6 +1,6 @@
 ---
 description: Hướng dẫn quy trình khi có thành viên mới tham gia
-icon: person-add
+icon: face-kiss-beam
 ---
 
 # Thành viên mới ra nhập
