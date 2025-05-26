@@ -4,7 +4,6 @@
 
 ## OVERVIEWS
 
-* [Tổng Quan](overviews/README.md)
 * [Tầm Nhìn & Sứ Mệnh](overviews/mission-vision.md)
 * [Giá Trị Cốt Lõi](overviews/core-value.md)
 * [How We Serve Clients](overviews/how-we-serve-clients.md)
@@ -69,7 +68,3 @@
 
 * [Mẫu Kế Hoạch Dự Án](templates/project-planning-template.md)
 * [Mẫu Kế Hoạch Họp Retrospective](templates/retrospective-planning.md)
-
-***
-
-* [Page 1](page-1.md)
