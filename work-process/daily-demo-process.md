@@ -11,7 +11,7 @@ icon: airplay
 
 ## Quy Trình Thực Hiện Daily Demo
 
-### 1. Trình Chiếu Sản Phẩm và Cập Nhật Tiến Độ
+### 1. Trình Bày Sản Phẩm và Cập Nhật Tiến Độ
 
 **Nội dung:**
 Cả team sẽ cùng tập trung. Lần lượt từng thành viên sẽ trình chiếu (demo) trực tiếp những phần sản phẩm hoặc công việc mình đã hoàn thành kể từ buổi Daily Demo trước. Các cập nhật có thể bao gồm:

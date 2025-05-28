@@ -13,7 +13,6 @@ icon: ranking-star
 #### **Thông tin**
 
 * **Trang web:** [Cyberk.io](https://cyberk.io)
-* **Pass nhà**: 0108
 * **Wifi password:** 02342019
 * **Hệ thống email:** Liên hệ NgocTQ (Nathan) để được cấp email và passoword
 
