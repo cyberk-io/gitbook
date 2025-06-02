@@ -5,7 +5,6 @@
 ## OVERVIEWS
 
 * [Tầm Nhìn & Sứ Mệnh](overviews/mission-vision.md)
-* [Giá Trị Cốt Lõi](overviews/core-value.md)
 * [How We Serve Clients](overviews/how-we-serve-clients.md)
 * [Triết Lý Quản Trị](overviews/triet-ly-quan-tri.md)
 
@@ -56,7 +55,6 @@
 * [Năng lực cần có](how-to-be-cyberks-pm/nang-luc-can-co.md)
 * [Tiếp Nhận CR như thế nào (Change Requests)](how-to-be-cyberks-pm/tiep-nhan-cr-nhu-the-nao-change-requests.md)
 * [Giao việc sao cho đúng](how-to-be-cyberks-pm/giao-viec-sao-cho-dung.md)
-* [Bí kíp thực thi](how-to-be-cyberks-pm/bi-kip-thuc-thi-draft.md)
 
 ## HOW TO ADMIN
 
