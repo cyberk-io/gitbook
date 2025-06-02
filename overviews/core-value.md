@@ -3,88 +3,44 @@ description: Giá trị cốt lõi định hình văn hóa và cách làm việc
 icon: heart
 ---
 
-# Giá Trị Cốt Lõi
+# Core Values / Giá trị cốt lõi
+
+## 1. Cầu / Curiosity
+
+Cầu thị là tinh thần ham học hỏi, luôn sẵn sàng tiếp thu những điều mới và lắng nghe ý kiến khác biệt. Người có giá trị này không ngại thừa nhận mình chưa biết, luôn tìm kiếm cơ hội để phát triển bản thân và tôn trọng những người đi trước.
 
 {% hint style="info" %}
-Giá trị cốt lõi là kim chỉ nam cho mọi hoạt động và quyết định tại Cyberk. Chúng định hình văn hóa công ty và cách chúng tôi làm việc mỗi ngày.
+Curiosity is the spirit of learning, always open to new things and willing to listen to different opinions. Those with this value are not afraid to admit what they don't know, always seeking opportunities to grow and respecting those who came before.
 {% endhint %}
 
-## 1. Sáng Tạo & Đổi Mới
+## 2. Nghệ / Craftsmanship
 
-{% hint style="success" %}
-#### Innovation & Creativity
-
-* Luôn tìm kiếm giải pháp mới
-* Không ngừng học hỏi và cập nhật
-* Dám nghĩ, dám làm, dám thử nghiệm
-{% endhint %}
-
-## 2. Chất Lượng & Cam Kết
-
-{% hint style="warning" %}
-#### Quality & Commitment
-
-* Đặt chất lượng lên hàng đầu
-* Cam kết với deadline và kết quả
-* Luôn vượt kỳ vọng của khách hàng
-{% endhint %}
-
-## 3. Tinh Thần Đồng Đội
+Nghệ nhân là người theo đuổi sự tinh tế, chú tâm vào từng chi tiết nhỏ để tạo ra sản phẩm ngày càng tốt hơn. Giá trị này nhấn mạnh việc làm tốt từ những việc nhỏ nhất, không qua loa đại khái, luôn tìm cách hoàn thiện kỹ năng và sản phẩm.
 
 {% hint style="info" %}
-#### Teamwork Spirit
-
-* Hợp tác và chia sẻ
-* Tôn trọng và hỗ trợ đồng nghiệp
-* Cùng nhau phát triển
+Craftsmanship is the pursuit of refinement, focusing on every detail to create ever-better products. This value emphasizes doing even the smallest things well, never being careless, and always striving to perfect skills and products.
 {% endhint %}
 
-## 4. Trách Nhiệm & Minh Bạch
+## 3. Tín / Integrity
 
-{% hint style="success" %}
-#### Responsibility & Transparency
-
-* Làm chủ công việc
-* Minh bạch trong giao tiếp
-* Chịu trách nhiệm với kết quả
-{% endhint %}
-
-## 5. Khách Hàng Là Trọng Tâm
-
-{% hint style="warning" %}
-#### Customer Centric
-
-* Lắng nghe và thấu hiểu
-* Tạo giá trị thực sự
-* Xây dựng quan hệ lâu dài
-{% endhint %}
-
-## 6. Phát Triển Bền Vững
+Tín là sự trung thành với lời nói và cam kết của mình. Người giữ chữ tín không hứa những điều mình không làm được, luôn nỗ lực hoàn thành đúng những gì đã nói. Uy tín là tài sản lớn nhất, tạo dựng niềm tin với đồng nghiệp, khách hàng và đối tác.
 
 {% hint style="info" %}
-#### Sustainable Development
-
-* Tăng trưởng có chiến lược
-* Phát triển con người
-* Tạo tác động tích cực
+Integrity is loyalty to one's word and commitments. People with integrity do not promise what they cannot deliver, always strive to fulfill what they say, and consider reputation their greatest asset, building trust with colleagues, clients, and partners.
 {% endhint %}
 
-## Áp Dụng Giá Trị Cốt Lõi
+## 4. Tâm / Dedication
 
-{% hint style="success" %}
-#### Trong Công Việc Hàng Ngày
+Tâm là sự tận tâm, làm việc bằng cả trái tim, đặt lợi ích của khách hàng và tập thể lên trên cái tôi cá nhân. Người có tâm luôn đồng cảm với nỗi đau, khó khăn của người khác và coi thành công của khách hàng là thành công của mình.
 
-1. **Quyết Định**: Dựa trên giá trị cốt lõi
-2. **Đánh Giá**: Sử dụng làm tiêu chí
-3. **Tuyển Dụng**: Ưu tiên ứng viên phù hợp
-4. **Phát Triển**: Định hướng học tập và rèn luyện
+{% hint style="info" %}
+Dedication means working wholeheartedly, putting the interests of customers and the team above personal ego. Those with dedication empathize with others' difficulties and consider the success of their clients as their own.
 {% endhint %}
 
-## Cam Kết của Ban Lãnh Đạo
+## 5. Can / Courage
 
-{% hint style="warning" %}
-1. Xây dựng môi trường làm việc thể hiện giá trị cốt lõi
-2. Là tấm gương trong việc thực hiện giá trị
-3. Tạo điều kiện để mọi người phát triển
-4. Ghi nhận và khen thưởng việc thực hiện tốt
+Can đảm là dám đối mặt với thử thách, sẵn sàng làm những việc khó, lựa chọn con đường gian nan khi cần thiết để bảo vệ điều đúng đắn. Người can đảm không ngại thất bại, dám nhận trách nhiệm và tiên phong trong đổi mới.
+
+{% hint style="info" %}
+Courage is the willingness to face challenges, take on difficult tasks, and choose the hard path when necessary to defend what is right. Courageous people are not afraid of failure, take responsibility, and lead innovation.
 {% endhint %}
