@@ -34,11 +34,8 @@
 
 ## How to be a Cyberk's developer
 
-* [AI Driven](how-to-be-a-cyberks-developer/images-and-media.md)
-* [AI Driven Development](how-to-be-a-cyberks-developer/editor.md)
-* [Unit Test cho code của bạn](how-to-be-a-cyberks-developer/markdown.md)
-* [Communication](how-to-be-a-cyberks-developer/interactive-blocks.md)
-* [Integrations](how-to-be-a-cyberks-developer/integrations.md)
+* [Quy trình AI Driven](how-to-be-a-cyberks-developer/cyberk-ai-process.md)
+* [AI Driven Development](how-to-be-a-cyberks-developer/ai-driven-development.md)
 
 ## How to be a Cyberk's tester
 

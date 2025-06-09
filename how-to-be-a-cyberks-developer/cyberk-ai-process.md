@@ -8,7 +8,7 @@ icon: image-landscape
 
 ### Bước 1: Xây dựng Workspace
 
-**Mục đích**: Tạo nền tảng vững chắc cho dự án bằng cách chuẩn bị tài liệu và ví dụ cần thiết, đảm bảo rằng tất cả các thành viên trong nhóm có cùng hiểu biết về dự án. Và xây dựng tính sẵn có của dữ liệu cho AI đảm bảo rằng AI có đủ thông tin để hỗ trợ developer trong quá trình làm việc 
+**Mục đích**: Tạo nền tảng vững chắc cho dự án bằng cách chuẩn bị tài liệu và ví dụ cần thiết, đảm bảo rằng tất cả các thành viên trong nhóm có cùng hiểu biết về dự án. Và xây dựng tính sẵn có của dữ liệu cho AI đảm bảo rằng AI có đủ thông tin để hỗ trợ developer trong quá trình làm việc
 
 - **Dev-lead thực hiện việc hoàn thành tài liệu theo quy chuẩn của Cyberk**:
   - **Tài liệu mô tả business PRD & BRD**: Mô tả chi tiết yêu cầu và quy trình kinh doanh để đảm bảo rằng tất cả các bên liên quan đều có cùng một hiểu biết về mục tiêu của dự án.
