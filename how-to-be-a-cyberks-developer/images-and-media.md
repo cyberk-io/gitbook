@@ -4,44 +4,51 @@ icon: image-landscape
 
 # Cyberk AI Driven
 
-## Mở đầu
-Quy trình này được thiết kế để hướng dẫn các bước phát triển phần mềm theo triết lý AI-driven-development của Cyberk. Việc tuân thủ quy trình này đảm bảo rằng dự án được thực hiện một cách nhất quán và hiệu quả.
+Quy trình và cách thực thi: 
 
-## Bước 1: Xây dựng Workspace
-- **Dev-lead**: Hoàn thành tài liệu theo quy chuẩn của Cyberk, bao gồm:
-  - Tài liệu mô tả business PRD & BRD
-  - Tài liệu Techstack
-  - Tài liệu mô tả kiến trúc hệ thống
-  - Tài liệu giải pháp
-  
-  Việc này giúp đảm bảo rằng tất cả các thành viên trong nhóm đều có cùng một hiểu biết về dự án.
-- **Xây dựng bộ ví dụ**: 
-  - Cung cấp các code practice cụ thể cho từng module bằng cách đưa ra code mẫu từ các dự án trước hoặc từ GitHub.
-  - Mô tả chi tiết về practice sẽ sử dụng trong dự án. (Sử dụng AI)
-- **Thiết lập Rules**: 
-  - Sử dụng kỹ thuật reverse Engineering hoặc sao chép lại các rule từ dự án khác để thiết lập các rule cho CursorAI.
-  - Thử nghiệm và tinh chỉnh các rule để đảm bảo không có trục trặc đáng kể cho các thành viên khác.
-  - Viết tài liệu hóa về các rules dưới định dạng dễ hiểu.
+Bước 1: Xây dựng Workspace 
+- Dev-lead thực hiện việc hoàn thành tài liệu theo quy chuẩn của Cyberk bao gồm các tài liệu: 
+    + Tài liệu mô tả business PRD & BRD 
+    + Tài liệu Techstack 
+    + Tài liệu mô tả kiến trúc hệ thống
+    + tài liệu giải pháp. 
+- Dev-lead tiến hành xây dựng bộ ví dụ: 
+    + Xây dựng các code practice cụ thể cho từng module bằng cách:  Đưa ra code mẫu (dự án đã làm hoặc github)
+    + Đưa ra mô tả về practice sẽ sử dụng trong dự án
+- Thiết lập Rules 
+    + Dev-lead tiến hành đưa ra các rule cho CursorAI cho từng practice cụ thể nêu trên bằng kỹ thuật reverse Engineering hoặc đơn giản là sao chép lại các rule của dự án khác. 
+    + Dev-lead tiến hành code thử các tính năng dựa trên các rule đã xây dựng, và tiến hành tinh chỉnh rule để đảm bảo toàn bộ member khác không gặp các trục trặc đáng kể, 
+    + Dev-lead tiến viết các tài liệu hoá về các rules dưới định dạng mà người đọc có thể hiểu đuọc. 
 
-## Bước 2: Phổ cập
-- **Mô tả tài liệu**: Đảm bảo rằng tất cả các thành viên trong nhóm đều hiểu rõ tài liệu và ý tưởng của dự án.
-- **Giải thích các rules**: Dev-lead giải thích lý do và lợi ích của các rules trong dự án.
 
-## Bước 3: Hiệu chỉnh
-- **Quan sát và liệt kê vấn đề**: Dev-lead quan sát quá trình hoàn thành các feature và liệt kê các vấn đề tồn đọng như thiếu rules hoặc lỗ hổng trong rules.
-- **Hiệu chỉnh rules**: Thêm hoặc bớt các rules để cải thiện quy trình.
+Bước 2: Phổ cập: 
+- Team tiến hành việc mô tả tài liệu và thực hành đọc hiểu tài liệu cho toàn bộ team-member. Điều này nhằm đảm bảo mỗi người đều nắm rõ toàn bộ ý tưởng của dự án. 
+- Dev-lead tiến hành giải thích các rules của dự án. và lý do tại sao, lợi ích thu được. 
 
-## Bước 4: Implementation
-- **Phát triển dự án**: Developer phát triển dự án cùng với AI theo triết lý AI-driven-development.
-- **Cập nhật tài liệu**: Nếu có vấn đề hoặc thay đổi yêu cầu, cập nhật lại các tài liệu tương ứng.
-- **Self-test**: Chạy kiểm thử quy trình để đảm bảo chất lượng code và yêu cầu đặc tả.
+Bước 3: hiệu chỉnh: 
+- Dev-lead quan sát member hoàn thành các feature và liệt kê các vấn đề tồn đọng: 
+    + các rules / practice còn thiếu. 
+    + Các lỗ hổng của Rules dẫn tới kết quả tạo ra không đạt yêu cầu. 
+- Hiệu chỉnh các rules bằng cách thêm/ bớt.
 
-## Bước 5: Code reviews
-- **Đánh giá code**: Dev-lead và AI đánh giá code merge dựa trên các tiêu chí như tính nhất quán, kiến trúc, và bảo mật.
-- **Chạy công cụ test tự động**: Đảm bảo các test tự động được triển khai đầy đủ.
+Bước 4: Implementation: 
+- Developer tiến hành phát triển dự án cùng với AI theo triết lý AI-driven-development của Cyberk 
+- Nếu trong quá trình này tìm thấy các vấn đề, hoặc thay đổi yêu cầu, thì developer cần cập nhật lại các tài liệu tương ứng ở bước 1. 
+- Developer self-test: 
+    + tiến hành chạy các kiểm thử quy trình để đảm bảo chất lượng code và yêu cầu đặc tả đảm bảo: 
+    + Tính đúng đắn của code 
+    + Tính đầy đủ: Đảm bảo code và uni-test đã có đủ, không thiếu, k thừa. 
+- Commit  & Merge code 
 
-## Bước 6: Deliver
-- **Thử nghiệm tính năng**: Cả team thử nghiệm các tính năng mới và liệt kê các vấn đề nếu có.
-- **Giải quyết bugs**: Các bugs cần được giải quyết trước buổi họp daily tiếp theo.
-- **Trình bày sản phẩm**: Trình bày sản phẩm cho khách hàng.
+
+Bước 4: Code reviews: Dev-lead và AI  tiến hành đánh giá code merge dựa trên các tiêu chí: 
+- Tính nhất quán: đảm code style, convension, practice được đảm bảo nhất quán. 
+- Kiến trúc: đảm bảo code đúng kiến trúc dự án. Nếu phát hiện vấn đề kiến trúc, Dev-lead cần cập nhật tài liệu tương ứng và thông báo cho developer ngay. 
+- Tính Bảo mật: Đảm bảo các vấn đề bảo mật được cover trong source code. 
+- Chạy các công cụ test tự động: Kiểm tra các test tự động được cài đặt CI/CD để đảm bảo Unit-test và các quy trình cần thiết đã được triển khai đầy đủ. 
+    
+Bước 5: Deliver: 
+- Cả team sẽ  cùng ngồi và dùng thử các tính năng mới được tích hợp, Nếu phát hiện ra vấn đề thì liệt kê 
+- Các bugs cần được giải quyết trước buổi họp daily tiếp theo. 
+- Trình bày sản phẩm cho khách hàng. 
 
