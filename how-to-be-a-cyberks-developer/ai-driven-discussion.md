@@ -1,3 +1,8 @@
+---
+description: "Ghi lại các cuộc thảo luận, phản đề và kết luận về việc triển khai AI-Driven Development vào thực tiễn."
+icon: "brain-circuit"
+---
+
 # Thảo luận về AI-Driven Development (ADD) trong thực tiễn
 
 ### **0. Bối cảnh và Mục tiêu**
