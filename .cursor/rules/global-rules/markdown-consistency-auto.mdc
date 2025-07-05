@@ -12,18 +12,29 @@ alwaysApply: false
 - **Encoding**: Luôn sử dụng UTF-8 encoding, đặc biệt quan trọng cho tiếng Việt
 - **Line Endings**: Sử dụng LF (Unix-style) line endings
 - **Trailing Spaces**: Không có trailing spaces ở cuối các dòng
+- **GitBook HTML Entities**: Preserve HTML entities như `&#x20;`, `&#x21;` - KHÔNG xoá khi cleanup
 - **Empty Lines**: Kết thúc file bằng một dòng trống
 - **Heading Hierarchy**: Tuân thủ thứ tự heading (h1 -> h2 -> h3), không skip levels
 - **Vietnamese Content**: Sử dụng đúng dấu câu và khoảng trắng tiếng Việt
 - **Links**: Kiểm tra tất cả internal links có tồn tại và valid
 - **Images**: Đảm bảo image paths đúng và file tồn tại
+- **GitBook Formatting**: Preserve GitBook hint blocks `{% hint %}`, frontmatter, và special characters
 
 ## Examples
 
 <example>
   Valid markdown file structure:
   ```markdown
+  ---
+  description: Description cho GitBook
+  icon: shield
+  ---
+  
   # Tên Chương
+  
+  {% hint style="info" %}
+  Hint block của GitBook
+  {% endhint %}
   
   ## Phần 1
   
@@ -31,7 +42,7 @@ alwaysApply: false
   
   ### Phần con 1.1
   
-  Chi tiết nội dung.
+  Chi tiết nội dung với HTML entities: &#x20;
   
   ```
 </example>
@@ -45,6 +56,10 @@ alwaysApply: false
   Nội dung có trailing spaces    
   
   [Broken link](non-existent-file.md)
-  // No final newline
+  
+  // ❌ WRONG: Removed GitBook HTML entities
+  List item without entities
+  
+  // ❌ WRONG: No final newline
   ```
 </example>
