@@ -1,0 +1,62 @@
+# Quy tắc & Checklist định dạng nội dung Markdown (md)
+
+## Critical Rules
+
+- Mỗi file Markdown phải bắt đầu bằng YAML frontmatter (giữa hai dấu `---`).
+- Frontmatter phải có trường `description` (mô tả ngắn gọn về nội dung tài liệu).
+- Frontmatter phải có trường `icon` (logo hoặc biểu tượng đại diện cho tài liệu).
+- Toàn bộ nội dung sử dụng tiếng Việt 100% (trừ các thuật ngữ chuyên ngành đã được chuẩn hóa theo rule @consistency-rules.mdc).
+- Văn phong, cách trình bày phải đồng nhất trên toàn bộ dự án (trang trọng, rõ ràng, mạch lạc).
+- Sử dụng đúng các heading (`#`, `##`, `###`...) để phân cấp nội dung, không bỏ qua cấp heading.
+- Danh sách phải trình bày bằng bullet (`-`, `*`) hoặc numbered (`1.`, `2.`).
+- Đoạn văn không quá dài (khuyến nghị < 120 từ/đoạn), dễ đọc.
+- Sử dụng markdown chuẩn cho in đậm, in nghiêng, ~~gạch ngang~~, `code`, liên kết, blockquote, bảng, hình ảnh... đúng chuẩn GitBook ([tham khảo](https://gitbook.com/docs/creating-content/formatting)).
+- Nếu có hình ảnh hoặc bảng, phải có caption rõ ràng.
+- Sử dụng khoảng trắng hợp lý giữa các section.
+- Không sử dụng ký tự đặc biệt hoặc markdown không chuẩn.
+
+## Checklist kiểm tra tuân thủ
+
+- [ ] File có YAML frontmatter ở đầu, giữa hai dấu `---`.
+- [ ] Frontmatter có đủ trường `description` và `icon`.
+- [ ] Toàn bộ nội dung sử dụng tiếng Việt 100% (trừ thuật ngữ chuyên ngành đã chuẩn hóa).
+- [ ] Thuật ngữ chuyên ngành tuân thủ rule @consistency-rules.mdc.
+- [ ] Văn phong, cách trình bày đồng nhất, rõ ràng, mạch lạc.
+- [ ] Heading phân cấp hợp lý, không bỏ qua cấp.
+- [ ] Danh sách trình bày đúng dạng bullet/numbered.
+- [ ] Đoạn văn không quá dài (khuyến nghị < 120 từ/đoạn), dễ đọc.
+- [ ] Sử dụng markdown chuẩn cho in đậm, in nghiêng, ~~gạch ngang~~, `code`, liên kết, blockquote, bảng, hình ảnh... đúng chuẩn GitBook ([tham khảo](https://gitbook.com/docs/creating-content/formatting)).
+- [ ] Nếu có hình ảnh hoặc bảng, phải có caption rõ ràng.
+- [ ] Sử dụng khoảng trắng hợp lý giữa các section.
+- [ ] Không sử dụng ký tự đặc biệt hoặc markdown không chuẩn.
+
+## Examples
+
+<example>
+---
+description: "Hướng dẫn sử dụng hệ thống quản lý thành viên."
+icon: "user"
+---
+
+# Giới thiệu
+
+Hệ thống quản lý thành viên giúp tổ chức kiểm soát thông tin, phân quyền và theo dõi hoạt động của các thành viên một cách hiệu quả.
+
+## Tính năng chính
+- Quản lý hồ sơ thành viên
+- Phân quyền truy cập
+- Theo dõi lịch sử hoạt động
+
+> Lưu ý: Mọi thông tin cá nhân đều được bảo mật tuyệt đối.
+
+</example>
+
+<example type="invalid">
+# Hệ thống quản lý thành viên
+
+Không có frontmatter, thiếu description và icon. Nội dung lẫn tiếng Anh, trình bày không rõ ràng, không dùng heading phân cấp, danh sách không đúng chuẩn markdown.
+</example>
+description:
+globs:
+alwaysApply: false
+---
