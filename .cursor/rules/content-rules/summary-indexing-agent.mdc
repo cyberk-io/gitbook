@@ -1,0 +1,59 @@
+---
+description: Rule to ensure every new markdown file is properly indexed in SUMMARY.md. Apply when creating new .md files, restructuring content, or modifying the table of contents. This rule is critical for maintaining GitBook navigation consistency and ensuring all content is discoverable.
+globs: 
+alwaysApply: false
+---
+
+# SUMMARY.md Indexing Workflow
+
+## Critical Rules
+
+- **New File Detection**: Khi tạo file .md mới, PHẢI kiểm tra và cập nhật [SUMMARY.md](mdc:SUMMARY.md)
+- **Hierarchical Structure**: Tuân thủ cấu trúc phân cấp đã có trong SUMMARY.md
+- **Proper Indentation**: Sử dụng đúng số lượng spaces để thể hiện cấu trúc nested
+- **Link Format**: Sử dụng format `* [Title](path/to/file.md)` cho mỗi entry
+- **Alphabetical Order**: Sắp xếp theo thứ tự logic hoặc alphabetical trong cùng một nhóm
+- **Section Grouping**: Đặt file vào đúng section phù hợp (OVERVIEWS, WORK PROCESS, etc.)
+- **Validation**: Kiểm tra tất cả links trong SUMMARY.md có tồn tại và accessible
+
+## Workflow Steps
+
+1. **Detect New Files**: Scan workspace cho các file .md mới không có trong SUMMARY.md
+2. **Categorize Content**: Xác định file thuộc section nào dựa trên content và path
+3. **Update SUMMARY.md**: Thêm entry vào đúng vị trí trong hierarchy
+4. **Validate Links**: Kiểm tra tất cả links trong SUMMARY.md works correctly
+5. **Format Check**: Đảm bảo format consistency với existing entries
+
+## Examples
+
+<example>
+  Adding new file to SUMMARY.md:
+  ```markdown
+  ## WORK PROCESS
+  
+  * [Workflow](work-process/workflow.md)
+  * [Project Life-Circle](work-process/project-life-circle.md)
+  * [Kick-off](work-process/kick-off.md)
+  * [Quality Assurance](work-process/quality-assurance.md)  // New file
+  * [Daily Demo Process](work-process/daily-demo-process.md)
+  ```
+</example>
+
+<example type="invalid">
+  Invalid SUMMARY.md entry:
+  ```markdown
+  ## WORK PROCESS
+  
+  * [Workflow](work-process/workflow.md)
+  *[Quality Assurance](work-process/quality-assurance.md)  // Missing space
+  * [Daily Demo Process](work-process/daily-demo-process.md)
+  ```
+</example>
+
+## Validation Checklist
+
+- [ ] Tất cả files .md trong workspace có entry trong SUMMARY.md
+- [ ] Tất cả links trong SUMMARY.md tồn tại và accessible  
+- [ ] Format consistency (spaces, brackets, parentheses)
+- [ ] Proper hierarchical structure
+- [ ] Logical content organization

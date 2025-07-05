@@ -1,0 +1,224 @@
+---
+description: Automated validation script rule for GitBook projects. Apply when running validation checks, creating CI/CD pipelines, or automating quality assurance processes. This rule provides executable scripts and commands to validate the entire GitBook project structure.
+globs: 
+alwaysApply: false
+---
+
+# GitBook Validation Script
+
+## Critical Rules
+
+- **Shell Script Creation**: Tạo các script tự động để validate project
+- **CI/CD Integration**: Script phù hợp cho GitHub Actions, GitLab CI, etc.
+- **Error Reporting**: Detailed error messages với line numbers và suggestions
+- **Auto-fix Capability**: Tự động sửa các lỗi đơn giản khi có thể
+- **Multi-language Support**: Hỗ trợ Vietnamese content validation
+
+## Validation Scripts
+
+### 1. 🔍 **File Discovery Script**
+```bash
+#!/bin/bash
+# validate_files.sh
+
+echo "📁 Discovering markdown files..."
+find . -name "*.md" -type f | grep -v node_modules | grep -v .git > /tmp/md_files.txt
+
+echo "Found $(wc -l < /tmp/md_files.txt) markdown files"
+cat /tmp/md_files.txt
+```
+
+### 2. 📋 **SUMMARY.md Validation**
+```bash
+#!/bin/bash
+# validate_summary.sh
+
+echo "📋 Validating SUMMARY.md coverage..."
+
+# Extract all markdown files referenced in SUMMARY.md
+grep -o '(\[^)]*\.md)' SUMMARY.md | sed 's/[()]//g' | sort > /tmp/summary_files.txt
+
+# Get all actual markdown files
+find . -name "*.md" -type f | grep -v SUMMARY.md | grep -v README.md | sort > /tmp/actual_files.txt
+
+# Find orphaned files
+comm -23 /tmp/actual_files.txt /tmp/summary_files.txt > /tmp/orphaned_files.txt
+
+if [ -s /tmp/orphaned_files.txt ]; then
+    echo "❌ Orphaned files found:"
+    cat /tmp/orphaned_files.txt
+    exit 1
+else
+    echo "✅ All files properly indexed in SUMMARY.md"
+fi
+```
+
+### 3. 🎨 **Format Validation Script**
+```bash
+#!/bin/bash
+# validate_format.sh
+
+echo "🎨 Validating markdown formats..."
+
+errors=0
+
+# Check for trailing spaces
+if grep -r " $" --include="*.md" . > /tmp/trailing_spaces.txt; then
+    echo "❌ Files with trailing spaces:"
+    cat /tmp/trailing_spaces.txt
+    errors=$((errors + 1))
+fi
+
+# Check for proper UTF-8 encoding
+if ! file --include="*.md" . | grep -v "UTF-8" > /tmp/encoding_issues.txt; then
+    echo "❌ Encoding issues found:"
+    cat /tmp/encoding_issues.txt
+    errors=$((errors + 1))
+fi
+
+# Check heading hierarchy
+for file in $(find . -name "*.md" -type f); do
+    if ! validate_headings "$file"; then
+        errors=$((errors + 1))
+    fi
+done
+
+if [ $errors -eq 0 ]; then
+    echo "✅ All format validations passed"
+else
+    echo "❌ Found $errors format issues"
+    exit 1
+fi
+```
+
+### 4. 🔗 **Link Validation Script**
+```bash
+#!/bin/bash
+# validate_links.sh
+
+echo "🔗 Validating internal links..."
+
+errors=0
+
+# Extract all markdown links
+grep -r -o '\[.*\]([^)]*\.md)' --include="*.md" . | while read line; do
+    file=$(echo "$line" | cut -d: -f1)
+    link=$(echo "$line" | sed 's/.*(\([^)]*\)).*/\1/')
+    
+    # Check if linked file exists
+    if [ ! -f "$link" ]; then
+        echo "❌ Broken link in $file: $link"
+        errors=$((errors + 1))
+    fi
+done
+
+if [ $errors -eq 0 ]; then
+    echo "✅ All links validated successfully"
+else
+    echo "❌ Found $errors broken links"
+    exit 1
+fi
+```
+
+### 5. 🚀 **Master Validation Script**
+```bash
+#!/bin/bash
+# validate_gitbook.sh
+
+echo "🚀 Starting GitBook Validation Workflow..."
+
+# Run all validation scripts
+./validate_files.sh
+./validate_summary.sh
+./validate_format.sh
+./validate_links.sh
+
+if [ $? -eq 0 ]; then
+    echo "🎉 All validations passed! GitBook is ready for publish."
+else
+    echo "❌ Validation failed. Please fix the issues above."
+    exit 1
+fi
+```
+
+## Auto-fix Scripts
+
+### 🔧 **Auto-fix Trailing Spaces**
+```bash
+#!/bin/bash
+# fix_trailing_spaces.sh
+
+echo "🔧 Fixing trailing spaces..."
+find . -name "*.md" -type f -exec sed -i 's/[[:space:]]*$//' {} +
+echo "✅ Trailing spaces fixed"
+```
+
+### 🔧 **Auto-fix Line Endings**
+```bash
+#!/bin/bash
+# fix_line_endings.sh
+
+echo "🔧 Converting to LF line endings..."
+find . -name "*.md" -type f -exec dos2unix {} +
+echo "✅ Line endings fixed"
+```
+
+## CI/CD Integration
+
+### GitHub Actions Workflow
+```yaml
+name: GitBook Validation
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Make scripts executable
+      run: chmod +x validate_*.sh
+    
+    - name: Run GitBook validation
+      run: ./validate_gitbook.sh
+```
+
+## Examples
+
+<example>
+  Successful validation output:
+  ```
+  🚀 Starting GitBook Validation Workflow...
+  📁 Found 45 markdown files
+  📋 All files properly indexed in SUMMARY.md
+  🎨 All format validations passed
+  🔗 All links validated successfully
+  🎉 All validations passed! GitBook is ready for publish.
+  ```
+</example>
+
+<example type="invalid">
+  Failed validation output:
+  ```
+  🚀 Starting GitBook Validation Workflow...
+  📁 Found 45 markdown files
+  ❌ Orphaned files found:
+  ./work-process/new-process.md
+  ❌ Files with trailing spaces:
+  ./overviews/mission-vision.md:15:   
+  ❌ Broken link in README.md: missing-file.md
+  ❌ Validation failed. Please fix the issues above.
+  ```
+</example>
+
+## Script Installation
+
+1. Copy scripts to project root
+2. Make executable: `chmod +x validate_*.sh`
+3. Run validation: `./validate_gitbook.sh`
+4. Add to git hooks for automatic validation

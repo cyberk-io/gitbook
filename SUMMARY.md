@@ -51,15 +51,8 @@
 
 * [Trách Nhiệm của Quản Lý Dự Án (PM)](how-to-be-cyberks-pm/trach-nhiem-cua-quan-ly-du-an-pm.md)
 * [Việc của nhà quản lý](how-to-be-cyberks-pm/viec-cua-nha-quan-ly.md)
-* [Năng lực cần có](how-to-be-cyberks-pm/nang-luc-can-co.md)
 * [Tiếp Nhận CR như thế nào (Change Requests)](how-to-be-cyberks-pm/tiep-nhan-cr-nhu-the-nao-change-requests.md)
 * [Giao việc sao cho đúng](how-to-be-cyberks-pm/giao-viec-sao-cho-dung.md)
-
-## HOW TO ADMIN
-
-* [Thành viên mới ra nhập](how-to-admin/thanh-vien-moi-ra-nhap.md)
-* [Thành viên rời dự án](how-to-admin/thanh-vien-roi-du-an.md)
-* [Thành viên Nghỉ Ốm / Nghỉ đột xuất](how-to-admin/thanh-vien-nghi-om-nghi-dot-xuat.md)
 
 ## Templates
 

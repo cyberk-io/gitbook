@@ -1,0 +1,144 @@
+---
+description: Comprehensive workflow validation rule for GitBook projects. Apply when validating the entire project structure, before commits, during CI/CD, or when ensuring quality standards. This rule combines all validation aspects including consistency, format, and indexing to maintain high-quality documentation.
+globs: 
+alwaysApply: false
+---
+
+# GitBook Markdown Validation Workflow 📋
+
+## Critical Rules
+
+- **Pre-Commit Validation**: Chạy tất cả validations trước khi commit code
+- **Comprehensive Check**: Kiểm tra consistency, format, và indexing cùng lúc
+- **Automated Detection**: Tự động phát hiện các vấn đề và đưa ra suggestions
+- **Quality Gates**: Không cho phép commit nếu có critical issues
+- **Documentation Coverage**: Đảm bảo 100% coverage của markdown files trong SUMMARY.md
+
+## Validation Workflow Steps
+
+### 1. 🔍 **File Discovery & Analysis**
+- Scan tất cả files `.md` trong workspace
+- Phân tích cấu trúc thư mục và naming conventions
+- Detect orphaned files (không có trong SUMMARY.md)
+
+### 2. 📋 **Consistency Validation**
+- Kiểm tra heading hierarchy consistency
+- Validate internal links và cross-references
+- Check image paths và resource availability
+- Verify UTF-8 encoding và Vietnamese character handling
+
+### 3. 🎨 **Format Validation**
+- Line endings consistency (LF)
+- Trailing spaces removal
+- Proper indentation và spacing
+- Markdown syntax correctness
+
+### 4. 📚 **SUMMARY.md Indexing**
+- Verify tất cả files có entry trong SUMMARY.md
+- Check hierarchical structure alignment
+- Validate link formats và accessibility
+- Ensure proper section categorization
+
+### 5. 📊 **Quality Report**
+- Generate comprehensive validation report
+- Provide actionable recommendations
+- Priority-based issue classification
+- Auto-fix suggestions where possible
+
+## Implementation Commands
+
+```bash
+# Validation workflow script
+#!/bin/bash
+echo "🚀 Starting GitBook Validation Workflow..."
+
+# Step 1: File discovery
+echo "📁 Discovering markdown files..."
+find . -name "*.md" -type f | grep -v node_modules > /tmp/md_files.txt
+
+# Step 2: Check SUMMARY.md coverage
+echo "📋 Checking SUMMARY.md coverage..."
+# Implementation logic here
+
+# Step 3: Format validation
+echo "🎨 Validating formats..."
+# Implementation logic here
+
+# Step 4: Link validation
+echo "🔗 Validating links..."
+# Implementation logic here
+
+echo "✅ Validation complete!"
+```
+
+## Examples
+
+<example>
+  Valid project structure:
+  ```
+  ✅ All .md files indexed in SUMMARY.md
+  ✅ Proper heading hierarchy maintained
+  ✅ All internal links working
+  ✅ Consistent formatting applied
+  ✅ UTF-8 encoding verified
+  ✅ No orphaned files detected
+  ```
+</example>
+
+<example type="invalid">
+  Invalid project state:
+  ```
+  ❌ 3 files missing from SUMMARY.md
+  ❌ 2 broken internal links found
+  ❌ Inconsistent heading hierarchy in 5 files
+  ❌ 12 files with trailing spaces
+  ❌ 1 orphaned file detected
+  ```
+</example>
+
+## Validation Checklist
+
+### 🔍 **File Structure**
+- [ ] All directories follow naming conventions
+- [ ] No orphaned markdown files
+- [ ] Proper file organization by content type
+
+### 📋 **Content Consistency**
+- [ ] Heading hierarchy maintained (h1 → h2 → h3)
+- [ ] Vietnamese content properly formatted
+- [ ] Cross-references accurate and up-to-date
+
+### 🎨 **Format Standards**
+- [ ] UTF-8 encoding throughout
+- [ ] LF line endings consistent
+- [ ] No trailing spaces
+- [ ] Proper indentation levels
+
+### 📚 **SUMMARY.md Integration**
+- [ ] All files properly indexed
+- [ ] Hierarchical structure matches content
+- [ ] Links functional and accessible
+- [ ] Section categorization logical
+
+### 🔗 **Link Validation**
+- [ ] Internal links working
+- [ ] Image paths accessible
+- [ ] External links valid (if any)
+- [ ] Anchor links properly formatted
+
+## Quality Gates
+
+- **Critical**: Must be fixed before commit
+  - Broken internal links
+  - Missing SUMMARY.md entries
+  - Invalid markdown syntax
+
+- **Warning**: Should be addressed
+  - Heading hierarchy inconsistencies
+  - Trailing spaces
+  - Improper Vietnamese formatting
+
+- **Info**: Nice to have
+  - Optimization suggestions
+  - Style improvements
+  - Performance enhancements

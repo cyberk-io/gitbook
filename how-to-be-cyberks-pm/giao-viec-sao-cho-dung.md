@@ -6,14 +6,20 @@ icon: right-from-bracket
 
 > Giao việc đúng cho member là khi đó member phải cảm thấy chưa đủ sức để làm, cần cố gắng 1 chút nữa mới có thể hoàn thành tốt công việc. Nếu giao việc đúng thì member sẽ liên tục tiến bộ từng ngày. Giao việc đúng là member không phải overtime một cách không có chủ đích vì thiếu effort. Giao việc đúng là khi làm bắt buộc member phải dành sự tập trung vào công việc mới có thể hoàn thành.
 
-\
-Giao việc không đúng là member có thể hoàn thành task đó một cách dễ dàng, từ đó có thể sinh ra tâm lý chủ quan, thiếu tập trung vào công việc. Giao việc không đúng là khi member không thể làm được việc, hoặc mất rất nhiều thời gian, cho dù đã đi hỏi, cố gắng (độ khó vượt quá khả năng). Giao việc không đúng là member phải làm thêm giờ. (Khôi lượng vượt quá khả năng).
+## Dấu hiệu giao việc không đúng
 
-#### Lợi ích khi đúng người, đúng việc
+* **Quá dễ**: Member hoàn thành dễ dàng → sinh tâm lý chủ quan, thiếu tập trung
+* **Quá khó**: Member không thể làm được dù đã cố gắng → frustration và stress  
+* **Quá nhiều**: Member phải overtime thường xuyên → burnout và chất lượng giảm
 
-Giao việc đúng thì ta sẽ luôn có member tiến bộ hằng ngày, họ sẽ luôn học điều mới thông qua công việc hằng ngày mà không cần phải cố gắng, nỗ lực học quá nhiều.Giao việc đúng thì ta sẽ có member biết yêu công việc, member sẽ được làm việc trong trang thái dòng chảy (flow) từ đó công việc trở nên thú vị và chỉ cần dành ít nỗ lực để tạo ra sản phẩm có chất lượng cao.Giao việc đúng thì ta sẽ có ....
+## Lợi ích khi đúng người, đúng việc
 
-#### Làm thế nào để giao việc đúng ?
+* **Phát triển liên tục**: Member sẽ tiến bộ hằng ngày thông qua công việc mà không cần nỗ lực học quá nhiều
+* **Tăng động lực**: Member biết yêu công việc và làm việc trong trạng thái flow
+* **Chất lượng cao**: Tạo ra sản phẩm chất lượng với ít nỗ lực hơn
+* **Giảm burnout**: Tránh tình trạng kiệt sức do quá tải hoặc quá dễ
+
+## Làm thế nào để giao việc đúng?
 
 1. **Hiểu mục tiêu chung. H**ãy đừng tiếc thời gian cho việc làm cho member hiểu mục tiêu chung của dự án. Đừng bắt đầu công việc khi tất cả mọi người còn chưa biết rõ rằng **cả team** cần **làm việc vì điều gì.** Tác hại của việc không hiểu mục tiêu chung đó là team sẽ làm việc mà thiếu động lực, giống như động cơ mà không có xăng vậy. Mục tiêu chung là đích đến của cả team, nó phải được gắn liền với key sucess của khách hàng.
    1. > 1. Ví dụ như: bàn giao sản phẩm đúng hạn, hoàn thành tính năng X trước ngày. Tính năng Y phải được vận hành tốt mà không có lỗi.
@@ -22,7 +28,7 @@ Giao việc đúng thì ta sẽ luôn có member tiến bộ hằng ngày, họ 
       > 2. Trước khi bắt đầu dự án, bạn hãy đảm bảo member của mình đã có một sứ mệnh cụ thể ?
 3.
 
-#### Quy trình giao việc
+## Quy trình giao việc
 
 Để giao việc hiệu quả, bạn cần tuân thủ 4 bước quan trọng sau:
 
@@ -54,7 +60,7 @@ Giao việc đúng thì ta sẽ luôn có member tiến bộ hằng ngày, họ 
 * Quy định cách thức theo dõi tiến độ
 * Thiết lập quy trình review và feedback
 
-#### Ví dụ thực tế: Giao việc cho Developer
+## Ví dụ thực tế: Giao việc cho Developer
 
 Giả sử bạn cần giao cho một developer việc phát triển một module mới, đây là cách áp dụng quy trình trên:
 
@@ -88,7 +94,7 @@ Giả sử bạn cần giao cho một developer việc phát triển một modul
 
 Nếu gặp blocking issue, hãy báo cáo ngay qua Slack channel #project-issues."
 
-#### Lưu ý quan trọng
+## Lưu ý quan trọng
 
 * Luôn đảm bảo member có đầy đủ resource và quyền truy cập cần thiết
 * Sẵn sàng hỗ trợ khi member gặp khó khăn

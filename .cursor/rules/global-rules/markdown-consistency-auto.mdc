@@ -1,0 +1,50 @@
+---
+description: 
+globs: *.md
+alwaysApply: false
+---
+
+# Markdown Consistency & Format Rules
+
+## Critical Rules
+
+- **File Structure**: Mỗi file .md phải có cấu trúc rõ ràng với heading chính (# Title) ở đầu file
+- **Encoding**: Luôn sử dụng UTF-8 encoding, đặc biệt quan trọng cho tiếng Việt
+- **Line Endings**: Sử dụng LF (Unix-style) line endings
+- **Trailing Spaces**: Không có trailing spaces ở cuối các dòng
+- **Empty Lines**: Kết thúc file bằng một dòng trống
+- **Heading Hierarchy**: Tuân thủ thứ tự heading (h1 -> h2 -> h3), không skip levels
+- **Vietnamese Content**: Sử dụng đúng dấu câu và khoảng trắng tiếng Việt
+- **Links**: Kiểm tra tất cả internal links có tồn tại và valid
+- **Images**: Đảm bảo image paths đúng và file tồn tại
+
+## Examples
+
+<example>
+  Valid markdown file structure:
+  ```markdown
+  # Tên Chương
+  
+  ## Phần 1
+  
+  Nội dung phần 1 với đúng định dạng.
+  
+  ### Phần con 1.1
+  
+  Chi tiết nội dung.
+  
+  ```
+</example>
+
+<example type="invalid">
+  Invalid structure:
+  ```markdown
+  # Tên Chương
+  #### Phần 1    // Skip levels - should be ##
+  
+  Nội dung có trailing spaces    
+  
+  [Broken link](non-existent-file.md)
+  // No final newline
+  ```
+</example>
