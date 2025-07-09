@@ -14,7 +14,7 @@ icon: bullseye-arrow
 
 * **Tính như ngày làm việc bình thường**: Những ngày WFH sẽ được tính như **một ngày làm việc bình thường**, có nghĩa là ace sẽ phải tuân thủ các yêu cầu về **công việc, hiệu suất** và **thời gian làm việc** như khi **làm tại văn phòng**.
 * **Cam kết hiệu suất**: Mặc dù làm việc từ xa, ace cần đảm bảo công việc được hoàn thành đúng tiến độ và chất lượng. Chủ động trong việc giao tiếp và phối hợp với đồng đội, sử dụng các công cụ hỗ trợ như chat, video call, và các ứng dụng quản lý công việc.
-* **Ngày văn phòng cố định (Thứ 6)**: Để thúc đẩy sự gắn kết và phối hợp, có thể chọn 1-2 ngày cố định trong tuần mà toàn bộ team sẽ làm việc tại văn phòng. Những ngày còn lại, các thành viên có thể linh hoạt chọn WFH.
+* **Ngày làm việc tại văn phòng**: **Thứ 2** và **Thứ 3** là hai ngày làm việc bắt buộc tại văn phòng để đảm bảo hiệu quả cho các buổi họp toàn công ty và retrospective. Vui lòng không đăng ký WFH vào hai ngày này.
 
 **Gợi Ý**
 
@@ -48,6 +48,12 @@ icon: bullseye-arrow
    2. Ghi chú các công việc còn dang dở hoặc cần tiếp tục vào ngày hôm sau.
    3. Hoàn tất các hạng mục công việc trước khi kết thúc ngày làm việc.
    4. Chat vào nhóm chung báo cáo lại tiến độ công việc đã làm trong ngày
+
+**IV. Hướng dẫn thông báo WFH**
+
+*   **Thông báo trước:** Hãy đảm bảo mọi thành viên trong nhóm của bạn đều biết bạn sẽ làm việc tại nhà (work from home) một ngày trước khi nghỉ.
+*   **Kênh thông báo:** Sử dụng kênh Discord chung của dự án hoặc nhóm để thông báo.
+*   **Nội dung mẫu:** `@tên_nhóm Mai mình xin phép WFH nhé.`
 
 **V. Lưu ý khi làm việc WFH**
 
