@@ -49,9 +49,6 @@ icon: bullseye-arrow
    3. Hoàn tất các hạng mục công việc trước khi kết thúc ngày làm việc.
    4. Chat vào nhóm chung báo cáo lại tiến độ công việc đã làm trong ngày
 
-**IV. Đăng ký làm việc WFH**\
-Để đăng ký làm việc **WFH: Lark ->** chọn app **Approval ->** Chọn Out-of-Office (Work-from-home) và gửi trước thời gian bắt đầu giờ làm việc.
-
 **V. Lưu ý khi làm việc WFH**
 
 1. **Trang phục và tác phong**: Dù làm việc tại nhà, anh chị em vẫn cần giữ trang phục chỉnh tề, lịch sự và tác phong chuyên nghiệp trong các buổi họp trực tuyến.

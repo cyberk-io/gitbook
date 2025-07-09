@@ -12,7 +12,6 @@ icon: island-tropical
 * Nghỉ lễ sẽ tuân thủ theo luật lao động của Việt Nam
 * Nghỉ phép **được phép cộng dồn**. (có thể được cộng qua nhiều năm)
 * Báo trước ít nhất **7 ngày trước khi nghỉ**. (Vì để thông báo cho khách hàng.)
-* Sử dụng Lark **Leave** và chọn mục nghỉ Phép.
 
 2. **Chế độ nghỉ phép thai sản**
 
@@ -21,12 +20,9 @@ icon: island-tropical
 
 3. **Nghỉ Không Lương:**
 
-_Khi Member gặp các vấn đề đột xuất, có thể đăng ký nghỉ không lương._\
-_-_ Sử dụng Lark và chọn mục Leave, chọn mục "Nghỉ Không Lương".
+_Khi Member gặp các vấn đề đột xuất, có thể đăng ký nghỉ không lương._
 
 4.  **Hướng dẫn đăng ký nghỉ:**
 
-    **Form đăng ký nghỉ:** [**https://forms.gle/M25KAKMtfBxnkTad9**](https://forms.gle/M25KAKMtfBxnkTad9)
-
-> Xin nghỉ sao cho đúng ?\
+> Xin nghỉ sao cho đúng ?
 > Khi đăng ký nghỉ trong phần lý do thay vì giải thích lý do bạn nghỉ là gì, hãy nói rõ, mục đích bạn nghỉ để làm gì, nếu cần gấp có thể liên lạc với bạn vào khung giờ nào. Bạn có thể hỗ trợ công việc nếu cần vào khung giờ nào ? Ví dụ : **Mục đích**: nghỉ để đi du lịch. Nếu mọi người liên hệ với mình sau 8h tối nhé, vì ban ngày mình sẽ đi bơi không mang theo điện thoại.

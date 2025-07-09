@@ -20,9 +20,8 @@ icon: ranking-star
 Việc cần làm sau khi có email
 
 * Tạo 1 profile Google Chrome mới và đăng nhập bằng mail công ty, bật thông báo gmail
-* Tải xuống [Lark](https://www.larksuite.com/vi_vn/download) và đăng nhập bằng email công ty
+* Tải xuống [Discord](https://discord.com/download) và tạo tài khoản, sau đó liên hệ quản lý trực tiếp để được thêm vào server của công ty.
 
 #### Kênh chat
 
 * Telegram: tạo tài khoản telegram và nhờ quản lý trực tiếp add vào nhóm dự án, nhóm Cyberk All
-* Lark: khi tạo tài khoản Lark thì tự động được add vào nhóm Cyberk
