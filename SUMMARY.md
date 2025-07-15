@@ -29,6 +29,7 @@
 ## How to be a Cyberk's member
 
 * [Day One](how-to-be-a-cyberks-member/day-one.md)
+* [Horenso: Nghệ thuật Giao tiếp](how-to-be-a-cyberks-member/horenso.md)
 * [Quy định về bảo mật thông tin](how-to-be-a-cyberks-member/quy-dinh-ve-bao-mat-thong-tin.md)
 * [Trang Phục](how-to-be-a-cyberks-member/publish-your-docs.md)
 
