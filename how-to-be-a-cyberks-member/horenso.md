@@ -1,3 +1,8 @@
+---
+description: "Horenso (報・連・相) là một bộ quy tắc giao tiếp công sở của Nhật Bản, bao gồm Báo cáo (Hōkoku), Liên lạc (Renraku), và Thảo luận (Sōdan), giúp cải thiện hiệu quả làm việc nhóm."
+icon: "users"
+---
+
 # Horenso: Nghệ thuật Giao tiếp trong Công sở
 
 ## Horenso Là Gì?
@@ -141,5 +146,7 @@ Việc chia sẻ tin thường xuyên sẽ giúp mọi người nắm bắt đư
 
 ### Thảo luận ngay khi có thể
 Khi gặp khó khăn hãy thảo luận. Hãy tìm sự hợp tác từ đồng sự hoặc cấp trên. Hãy chủ động sắp xếp một cuộc họp để cùng tìm ra giải pháp. Thảo luận là để mọi người cùng nhau nghĩ ra giải pháp, là giải đáp thần kỳ cho mọi bài toán hóc búa.
+
+---
 
 Ghi chú: Tài liệu này được tham khảo từ Deha: https://www.slideshare.net/slideshow/deha-horenso-20220329pdf/251461300#2
