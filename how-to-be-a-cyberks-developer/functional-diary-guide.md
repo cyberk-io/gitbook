@@ -1,12 +1,12 @@
 ---
-description: "Hướng dẫn chi tiết cho developer về cách viết nhật ký phát triển tính năng (Functional Diary) theo tiêu chuẩn Horenso và tích hợp AI"
-icon: "diary"
+description: "Hướng dẫn cách viết Functional Diary"
+icon: "book"
 ---
 
 # Hướng dẫn viết Nhật ký Phát triển Tính năng (Functional Diary)
 
 {% hint style="info" %}
-**Functional Diary** là công cụ quan trọng để theo dõi quá trình phát triển từng tính năng, ghi lại những việc đã làm, vấn đề gặp phải và bài học rút ra.
+**Functional Diary** là nhật ký mô tả lại quá trình phát triển tính năng, ở đó lưu trữ tất cả thông tin ví dụ như lịch sử, thảo luận, requirement change, Các vấn đề gặp phải. 
 {% endhint %}
 
 ## 🎯 **Tại sao cần viết Nhật ký Phát triển?**
@@ -88,31 +88,34 @@ Functional Diary được tổ chức theo 3 phần chính, đơn giản và th�
 - Nên có error boundary cho authentication flows
 ```
 
-## 🤖 **Cơ chế AI tự động viết Nhật ký**
-
-### **AI sẽ làm gì?**
+## 🤖 **AI SẼ TỰ ĐỘNG LÀM TẤT CẢ**
 
 {% hint style="success" %}
-AI sẽ tự động theo dõi và ghi lại tất cả hoạt động phát triển của bạn!
+**Bạn KHÔNG cần viết báo cáo! AI sẽ tự động làm điều đó cho bạn.**
 {% endhint %}
+
+### **AI tự động làm gì:**
 
 #### **1. Tự động tạo Diary file**
 Khi bạn bắt đầu làm việc với một FR mới, AI sẽ:
 - Tạo file `diary/FR-XXX.md` theo template chuẩn
 - Điền thông tin cơ bản từ PRD
-- Thiết lập cấu trúc Horenso
+- Thiết lập cấu trúc 3 phần chính
 
-#### **2. Theo dõi AI Interactions**
+#### **2. Tự động theo dõi mọi hoạt động**
 AI sẽ ghi lại:
 - **Prompt bạn sử dụng:** "Tạo component LoginForm với validation"
 - **Kết quả AI đưa ra:** Code được generate, files được tạo
-- **Đánh giá chất lượng:** Bạn rate kết quả AI (1-5 sao)
-
-#### **3. Track Development Activities**
-AI tự động thu thập:
 - **Thời gian làm việc:** Dựa trên git commits và file changes
 - **Code metrics:** Lines added/removed, files changed
 - **Technical decisions:** Architecture choices, library selections
+
+#### **3. Tự động cập nhật diary**
+AI sẽ tự động:
+- Ghi lại tất cả AI interactions
+- Track development activities
+- Cập nhật metrics và tiến độ
+- Điền đầy đủ thông tin vào diary
 
 ### **Ví dụ AI tự động cập nhật:**
 
@@ -133,139 +136,46 @@ Tạo React component cho login form với validation
 - Added types.ts cho TypeScript interfaces
 - Files created: src/components/LoginForm.tsx, src/utils/validation.ts, src/types/auth.ts
 
-**Đánh giá kết quả AI:**
-- [x] Hoàn toàn đúng yêu cầu (5/5)
-- [ ] Cần điều chỉnh nhỏ (4/5)
-- [ ] Cần sửa đổi nhiều (3/5)
-- [ ] Không đúng yêu cầu (2/5)
-- [ ] Hoàn toàn sai (1/5)
+**Đánh giá kết quả AI:** 5/5 - Hoàn toàn đúng yêu cầu
 ```
 
-## 📋 **Quy trình làm việc hàng ngày**
 
-### **Buổi sáng (9:00 - 9:15)**
-1. **Mở diary file** của FR đang làm
-2. **Review tiến độ** từ ngày hôm qua
-3. **Lập kế hoạch** cho ngày hôm nay
-4. **Cập nhật status** nếu cần
 
-### **Trong ngày**
-1. **Làm việc bình thường** với AI assistance
-2. **AI tự động track** các hoạt động
-3. **Ghi chú nhanh** khi gặp vấn đề quan trọng
-4. **Thảo luận** với team khi cần
+## 🚀 **Bạn chỉ cần làm 2 việc**
 
-### **Cuối ngày (16:45 - 17:00)**
-1. **Cập nhật diary** với tiến độ hôm nay
-2. **Đánh giá AI interactions** (rate 1-5 sao)
-3. **Ghi lại vấn đề** và rủi ro
-4. **Commit diary** lên repository
+{% hint style="info" %}
+**Đơn giản hóa tối đa:** Bạn chỉ cần đảm bảo AI tự động viết diary và commit file.
+{% endhint %}
 
-## 🚀 **Hướng dẫn thực hành**
+### **1. Đảm bảo AI tự động viết diary**
 
-### **Bước 1: Bắt đầu FR mới**
+**Khi bắt đầu FR mới:**
+- AI sẽ tự động tạo file `diary/FR-XXX.md`
+- Bạn không cần làm gì thêm
 
-Khi được assign một FR từ PRD:
+**Khi làm việc hàng ngày:**
+- Sử dụng AI bình thường như mọi khi
+- AI sẽ tự động ghi lại tất cả hoạt động
+- Bạn không cần viết báo cáo thủ công
 
+### **2. Commit diary file**
+
+**Cuối mỗi ngày hoặc khi có thay đổi quan trọng:**
 ```bash
-# AI sẽ tự động tạo diary file
-# File location: diary/FR-001.md
-```
-
-**Bạn cần làm:**
-1. Mở file diary được tạo
-2. Điền thông tin cơ bản (deadline, priority)
-3. Copy requirements từ PRD vào section "Mục tiêu & Yêu cầu"
-
-### **Bước 2: Làm việc hàng ngày**
-
-**Sử dụng AI bình thường:**
-```
-User: "Tạo component cho user profile với avatar upload"
-AI: [Generates code and updates diary automatically]
-```
-
-**AI sẽ tự động:**
-- Ghi lại prompt của bạn
-- Track files được tạo/sửa
-- Cập nhật metrics
-
-### **Bước 3: Cập nhật diary cuối ngày**
-
-**Template cập nhật:**
-```markdown
-### [2025-01-15] - Ngày làm việc
-
-#### 📋 **Các việc đã làm**
-**Thời gian:** 09:00 - 17:00
-**Tiến độ hôm nay:**
-- ✅ Hoàn thành: [Liệt kê những gì đã làm xong]
-- 🔄 Đang làm: [Công việc đang thực hiện]
-- ⏳ Còn lại: [Công việc chưa làm]
-
-#### 🚨 **Các vấn đề gặp phải và thảo luận**
-**Vấn đề 1:**
-- [Mô tả vấn đề gặp phải]
-- [Các giải pháp đã thử]
-- [Kết quả thảo luận với team]
-- [Giải pháp cuối cùng được chọn]
-
-**Thông tin chia sẻ với team:**
-- [Thông tin quan trọng cần team biết]
-
-#### 🤖 **AI Interactions**
-[AI đã tự động điền phần này]
-
-#### 📚 **Bài học rút ra**
-- [Bài học 1: Mô tả bài học và cách áp dụng]
-- [Bài học 2: Mô tả bài học và cách áp dụng]
-```
-
-### **Bước 4: Commit hàng ngày**
-
-```bash
-# Cuối mỗi ngày làm việc
-git add diary/FR-001.md
-git commit -m "docs: update FR-001 diary - completed user profile component
-
-- Added avatar upload functionality
-- Implemented form validation
-- Fixed 3 bugs in profile update flow
-- AI interactions: 8 prompts, avg rating 4.5/5
-
--Agent Generated Commit Message"
+git add diary/FR-XXX.md
+git commit -m "docs: update FR-XXX diary"
 git push
 ```
 
-## 📊 **Metrics và Đánh giá**
+**Đó là tất cả!** Không cần ghi chép thủ công, không cần báo cáo phức tạp.
 
-### **Metrics quan trọng cần theo dõi:**
 
-- **Thời gian làm việc:** Tổng thời gian trên FR
-- **Code productivity:** Lines of code per day
-- **AI effectiveness:** Số lượng AI interactions và rating trung bình
-- **Bug rate:** Số bugs phát hiện và fix
-- **Completion rate:** % hoàn thành theo timeline
-
-### **Đánh giá hiệu quả:**
-
-**Tốt:**
-- Diary được cập nhật đều đặn hàng ngày
-- AI interactions có rating cao (4-5/5)
-- Tiến độ đúng timeline
-- Ít bugs, ít rework
-
-**Cần cải thiện:**
-- Diary thiếu thông tin hoặc không cập nhật
-- AI interactions có rating thấp
-- Tiến độ chậm, nhiều delays
-- Nhiều bugs, phải rework nhiều
 
 ## 🎯 **Lợi ích dài hạn**
 
 ### **Cho Developer:**
+- **Không thêm việc:** AI tự động làm tất cả, bạn chỉ cần commit
 - **Portfolio building:** Có documentation chi tiết về công việc đã làm
-- **Skill tracking:** Theo dõi sự tiến bộ kỹ thuật
 - **Knowledge retention:** Không quên những gì đã học
 - **Career growth:** Có bằng chứng cụ thể về năng lực
 
@@ -313,5 +223,5 @@ git push
 ---
 
 {% hint style="warning" %}
-**Lưu ý:** Functional Diary không phải là thêm việc, mà là cách làm việc thông minh hơn. Ghi lại những gì đã làm, vấn đề gặp phải và bài học rút ra sẽ giúp bạn tiến bộ nhanh hơn!
+**Lưu ý:** Functional Diary KHÔNG phải là thêm việc! AI tự động làm tất cả, bạn chỉ cần commit file. Đây là cách làm việc thông minh hơn mà không tốn thêm thời gian.
 {% endhint %} 
