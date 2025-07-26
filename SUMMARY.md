@@ -39,6 +39,8 @@
 * [AI Driven Development](how-to-be-a-cyberks-developer/ai-driven-development.md)
 * [Thảo luận về AI Driven](how-to-be-a-cyberks-developer/ai-driven-discussion.md)
 * [Hướng dẫn viết Nhật ký Phát triển](how-to-be-a-cyberks-developer/functional-diary-guide.md)
+* [Thế nào là "Hoàn thành"?](how-to-be-a-cyberks-developer/what-is-done.md)
+* [Hiểu Business, Hiểu Kiến Trúc](how-to-be-a-cyberks-developer/understand-your-work.md)
 
 ## How to be a Cyberk's tester
 
