@@ -58,5 +58,5 @@
 
 ## Templates
 
-* [Mẫu Kế Hoạch Dự Án](templates/project-planning-template.md)
-* [Mẫu Kế Hoạch Họp Retrospective](templates/retrospective-planning.md)
+* [Project Planning](templates/project-planning-template.md)
+* [Project Review Report](templates/project-review-report-template.md)
