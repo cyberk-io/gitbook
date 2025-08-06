@@ -1,9 +1,6 @@
 ---
-description: Comprehensive workflow validation rule for GitBook projects. Apply when validating the entire project structure, before commits, during CI/CD, or when ensuring quality standards. This rule combines all validation aspects including consistency, format, and indexing to maintain high-quality documentation.
-globs: 
 alwaysApply: false
 ---
-
 # GitBook Markdown Validation Workflow 📋
 
 ## Critical Rules

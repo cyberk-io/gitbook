@@ -4,6 +4,9 @@ icon: brain
 ---
 
 Triết Lý Quản Trị Cyberk: 
+- **Minh Bạch**
+- Linh Hoạt 
+- Tôi 
 
 ### Hình ảnh người kỵ binh Mông Cổ
 
