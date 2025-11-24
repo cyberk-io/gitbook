@@ -1,0 +1,7 @@
+# Lời Nói Đầu: The Cyberk Way
+
+Cuốn sách này, "The Cyberk Way", được viết ra để ghi lại hành trình, những bài học kinh nghiệm, và định hướng phát triển đã định hình nên Cyberk. Giống như Toyota có "Toyota Way", đây là cách chúng ta ghi dấu lại cách làm của mình, đảm bảo rằng những giá trị và phương pháp làm việc cốt lõi sẽ không bị lãng quên và dễ dàng được tiếp nối bởi các thành viên trong tương lai.
+
+Mọi người có thể sẽ ngại đọc, vì vậy nó được viết để ai cũng có thể đọc trong vòng 5 phút. Lối viết sao cho đơn giản, dễ hiểu và không cần phải giải thích lại để làm rõ. 
+
+Mục tiêu của việc đọc sách này là cho mọi người nhanh chóng thích nghi với "Cyberk Way" - Tinh thần làm việc làm nên chúng ta.
