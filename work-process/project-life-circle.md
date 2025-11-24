@@ -5,13 +5,9 @@ icon: circle
 
 # Project Life-Circle
 
-{% hint style="info" %}
 Project Life-life circle là vòng đời của một dự án (hoặc một Version), Để làm tốt dự án, hãy đảm bảo bạn và các thành viên trong nhóm hiểu được quy trình này.
-{% endhint %}
 
-{% hint style="info" %}
 Project Life-Cirle (Vòng đời dự án ) là các **điểm chạm quan trọng** với khách hàng và Team members. Các điểm này giúp Quản lý dự án tập trung hơn vào các task quy trình (Process Tasks).
-{% endhint %}
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-05-23 at 17.39.33.png" alt=""><figcaption></figcaption></figure>
 
@@ -24,10 +20,6 @@ Project Life-Cirle (Vòng đời dự án ) là các **điểm chạm quan trọ
 4. Product Final: Là thời điểm đóng không nhận requirement mới để tập trung hoàn thành dự án.&#x20;
 5. Project Launch: Là hoạt động publish sản phẩm ra cộng đồng.&#x20;
 6. Kết thúc: là hoạt động bàn giao sản phẩm và kết thúc dịch vụ.&#x20;
-
-
-
-
 
 &#x20;
 
