@@ -18,6 +18,7 @@ Ngành lập trình phần mềm đang trải qua một cuộc biến đổi tư
 ## 1. Bối cảnh: "Vùng đất thực hành" đang biến mất
 
 Một thực tế không thể phủ nhận: các công cụ AI hiện nay thực thi quá tốt những tác vụ từng là "sân chơi" chính cho Junior developers:
+
 - **Viết code lặp lại:** Tạo các chức năng CRUD (Create, Read, Update, Delete).
 - **Xây dựng giao diện đơn giản:** Vẽ các form, bảng biểu theo mẫu có sẵn.
 - **Viết các unit test cơ bản.**
@@ -28,7 +29,7 @@ Một thực tế không thể phủ nhận: các công cụ AI hiện nay thự
 
 ## 2. Lộ trình Kỹ năng Cốt lõi của một Navigator-tập-sự
 
-AI, dù mạnh mẽ, nhưng lại có một nhược điểm lớn: **nó quá ngây thơ**. Nó làm rất nhanh nhưng chỉ làm chính xác những gì được bảo. Nếu thiếu thông tin hoặc bối cảnh, nó có thể tự bịa ra các chi tiết (hallucination) hoặc tạo ra một sản phẩm sai so với ý định ban đầu. 
+AI, dù mạnh mẽ, nhưng lại có một nhược điểm lớn: **nó quá ngây thơ**. Nó làm rất nhanh nhưng chỉ làm chính xác những gì được bảo. Nếu thiếu thông tin hoặc bối cảnh, nó có thể tự bịa ra các chi tiết (hallucination) hoặc tạo ra một sản phẩm sai so với ý định ban đầu.
 
 Chính "sự ngây thơ" này của AI đã định hình lại vai trò của Junior developer. Công việc của họ không còn là gõ code, mà là trở thành người quản lý và định hướng cho AI, xoay quanh một quy trình cốt lõi: **Chỉ dẫn -> Giám sát -> Cải tiến.**
 
@@ -47,4 +48,3 @@ Sự thay đổi này không có nghĩa là chúng ta học ít đi, mà là h�
 **Ba là, học về kiến trúc và thiết kế phần mềm.** Nếu AI lo việc "làm thế nào", thì con người phải nắm vững việc "làm cái gì" và "tại sao". Đây là lúc cần quay lại với những kiến thức nền tảng về Software Architecture, Design Patterns, và các nguyên tắc thiết kế hệ thống. Lập trình viên phải là người tạo ra bản thiết kế, còn AI là người thi công.
 
 Tóm lại, AI đang đẩy chúng ta quay về với những giá trị cơ bản nhất (**Back to Basics**). Nó giải phóng chúng ta khỏi sự vụn vặt để tập trung vào những thứ thực sự định nghĩa nên một nhà phát triển phần mềm giỏi: khả năng tư duy, thiết kế và tạo ra các giải pháp có giá trị.
-

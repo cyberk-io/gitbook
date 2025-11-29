@@ -4,20 +4,9 @@
   "description": "Đây là một hệ thống bot tự động, có chức năng đọc tin nhắn trong các nhóm Telegram được chỉ định để tìm và xử lý các báo cáo Agile hàng ngày của các thành viên.",
   "main": "src/index.js",
   "scripts": {
-    "start:dev": "cross-env NODE_ENV=development node src/index.js",
-    "start": " npx prisma & cross-env NODE_ENV=production node src/index.js",
-    "dev": "npx prisma generate & nodemon src/index.js",
-    "test": "jest",
-    "test:coverage": "jest --coverage",
-    "check:groups": "node scripts/check-groups.js",
-    "check:reports": "node scripts/check-reports.js",
-    "check:config": "node scripts/check-env-config.js",
-    "check:dev-lead": "node scripts/check-dev-lead.js",
-    "update:groups": "cross-env NODE_ENV=development node scripts/update-groups.js",
-    "update:groups:dev": "cross-env NODE_ENV=development DOTENV_CONFIG_PATH=.env.dev node scripts/update-groups.js",
-    "update:groups:prod": "cross-env NODE_ENV=production node scripts/update-groups.js",
-    "get:project": "node scripts/get-all-projects.js",
-    "get:project:dev": "cross-env NODE_ENV=development DOTENV_CONFIG_PATH=.env.dev node scripts/get-all-projects.js"
+    "generate:md": "node tools/handbook-generator.js",
+    "generate:pdf": "node tools/pdf-converter.js handbook.md handbook.pdf",
+    "generate:handbook": "npm run generate:md && npm run generate:pdf"
   },
   "keywords": [],
   "author": "",
