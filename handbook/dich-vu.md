@@ -15,3 +15,11 @@ Với mô hình này, chúng ta hoạt động như một bộ phận công ngh�
 
 * **Chúng ta làm gì:** Trở thành một phần trong đội ngũ của khách hàng, tham gia vào quá trình vận hành, bảo trì, hoặc phát triển các tính năng mới.
 * **Dành cho ai:** Phù hợp với các dự án ở giai đoạn sau MVP (cần vận hành, bảo trì) hoặc các dự án mà yêu cầu chưa rõ ràng, cần sự linh hoạt và khám phá liên tục.
+
+---
+
+## Triết Lý Cốt Lõi: Chúng Ta Là CTO Của Khách Hàng
+
+Dù bạn ở bất kỳ vị trí nào, hãy luôn làm việc với một tâm thế duy nhất: **Chúng ta là đối tác công nghệ, là CTO của khách hàng.**
+
+Điều này có nghĩa là chúng ta không chỉ nhận yêu cầu và làm theo. Trách nhiệm của chúng ta là đóng vai trò của một chuyên gia, thấu hiểu bài toán kinh doanh của họ và chủ động đưa ra giải pháp công nghệ tốt nhất. Chúng ta suy nghĩ thay cho khách hàng, dự đoán những rủi ro và tư vấn cho họ con đường hiệu quả nhất. Đây chính là giá trị lớn nhất mà chúng ta mang lại.
