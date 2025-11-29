@@ -1,10 +1,10 @@
-# Các cuộc họp quan trọng: Hệ thống được thiết kế để bảo vệ sự tập trung và nuôi dưỡng tay nghề
+## Các cuộc họp quan trọng: Hệ thống được thiết kế để bảo vệ sự tập trung và nuôi dưỡng tay nghề
 
 Để tạo ra những sản phẩm đầy tính nghệ nhân, chúng ta cần một môi trường làm việc được thiết kế để bảo vệ tài sản quý giá nhất: **sự tập trung**. Các cuộc họp dưới đây không phải là gánh nặng hành chính, mà là những công cụ được kiến tạo có chủ đích. Chúng là một phần của hệ thống vận hành (`Operating System`) giúp chúng ta chống lại "kẻ thù" lớn nhất của sự sáng tạo: sự mơ hồ, sự phân mảnh và sự lãng phí nỗ lực.
 
 Mục tiêu của hệ thống này là để mỗi thành viên có thể dồn hết tâm sức vào việc mình làm tốt nhất—kiến tạo giá trị.
 
-## 1. Planning Meeting
+### 1. Planning Meeting
 
 **Nỗi đau nó giải quyết:** Cảm giác mông lung khi bắt đầu một dự án, dẫn đến việc phải làm lại (rework), trễ tiến độ, và làm giảm động lực. Đây là liều thuốc đặc trị cho "Sự Mơ hồ".
 
@@ -31,9 +31,7 @@ Buổi họp này là công cụ thiết yếu để biến sự mơ hồ thành
 4. **Chưa xác định rủi ro** → Bị động khi vấn đề xảy ra.
 5. **Không gửi kế hoạch cho khách hàng** → Gây hiểu nhầm và mất niềm tin.
 
-<https://docs.google.com/document/d/1Czi5yhWyEs_Owfq47VE4gddRJqvjmrOFX4KN_mom0XY/edit?tab=t.0#heading=h.ap720625v47u>
-
-## 2. Kick-off Meeting
+### 2. Kick-off Meeting
 
 **Nỗi đau nó giải quyết:** Sự thay đổi yêu cầu liên tục từ khách hàng và cảm giác phải "đoán ý" họ. Buổi họp này biến khách hàng từ một "yêu cầu" thành một "đồng đội".
 
@@ -47,7 +45,7 @@ Sau khi cả đội đã thống nhất, chúng ta sẽ họp với khách hàng
 
 Buổi họp này chỉ cần sự tham gia của **Dev-lead và khách hàng** để đảm bảo sự tập trung.
 
-## 3. Daily Meeting
+### 3. Daily Meeting
 
 **Nỗi đau nó giải quyết:** Sự thiếu đồng bộ, khi mỗi người làm một việc và không biết bức tranh chung đang ra sao, dẫn đến việc các vấn đề nhỏ không được phát hiện sớm.
 
@@ -65,7 +63,7 @@ Nếu "Planning Meeting" là la bàn, "Retrospective" là tấm gương, thì "D
 - **Báo cáo cho có**: Tập trung vào sản phẩm: tính năng nào đã hoàn thành, cái nào sẵn sàng cho người dùng.
 - **Kéo dài lê thê**: Lý tưởng nhất là **dưới 30 phút** nhưng không nên ngắn hơn 10 phút.
 
-## 4. Daily Demo
+### 4. Daily Demo
 
 **Nỗi đau nó giải quyết:** Nỗi ám ảnh khi làm việc cật lực cả tuần chỉ để nghe khách hàng nói "Đây không phải thứ anh muốn".
 
@@ -84,7 +82,7 @@ Mục tiêu của cuộc họp này là tạo ra sự minh bạch tuyệt đối
 - **Báo cáo dài dòng**: Hãy để sản phẩm tự nói lên.
 - **Kéo dài thời gian**: Không nên kéo dài quá 30 phút. Nhanh, gọn và tập trung vào sản phẩm.
 
-## 5. Retrospective Meeting
+### 5. Retrospective Meeting
 
 **Nỗi đau nó giải quyết:** Cảm giác bất lực khi quy trình làm việc có vấn đề nhưng không biết góp ý ở đâu, hoặc tệ hơn là **ngại nói ra vì sợ bị đánh giá** ("Fear of Judgment").
 
