@@ -1,5 +1,17 @@
-Cyberk có 2 loại dịch vụ cho khách hàng chính: 
+## Các Mô Hình Dịch Vụ
 
-1. MVP  Development - là một dịch vụ cho các khách hàng khởi đầu ý tưởng, ưu tiên chi phí, thời gian, sẵn lòng thử nghiệm 
-2. Tech Lab - là một một phòng "công nghệ" cho khách hàng. Nơi mà họ có thể thoải mái sửa chữa, tối ưu nâng cấp sản phẩm. dành cho khách hàng cần nhiều thay đổi.
+Để thực thi sứ mệnh của mình, chúng ta cung cấp hai mô hình dịch vụ linh hoạt, tùy thuộc vào giai đoạn và nhu cầu của khách hàng:
 
+### 1. MVP Development: Từ Ý Tưởng Đến Sản Phẩm Hoàn Chỉnh
+
+Đây là gói dịch vụ trọn gói giúp khách hàng biến một ý tưởng thành sản phẩm có thể sử dụng được trong một khung thời gian cố định.
+
+* **Chúng ta làm gì:** Toàn bộ quy trình từ thiết kế, phát triển, kiểm thử cho đến hỗ trợ marketing ban đầu.
+* **Dành cho ai:** Mô hình này phù hợp nhất với các dự án mà khách hàng đã có yêu cầu rõ ràng, mục tiêu và deadline cụ thể.
+
+### 2. Tech-Lab: Đội Ngũ Công Nghệ Tích Hợp
+
+Với mô hình này, chúng ta hoạt động như một bộ phận công nghệ nội bộ của khách hàng, cùng họ bàn bạc, nghiên cứu và phát triển sản phẩm với độ linh hoạt cao nhất.
+
+* **Chúng ta làm gì:** Trở thành một phần trong đội ngũ của khách hàng, tham gia vào quá trình vận hành, bảo trì, hoặc phát triển các tính năng mới.
+* **Dành cho ai:** Phù hợp với các dự án ở giai đoạn sau MVP (cần vận hành, bảo trì) hoặc các dự án mà yêu cầu chưa rõ ràng, cần sự linh hoạt và khám phá liên tục.

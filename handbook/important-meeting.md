@@ -35,6 +35,43 @@ Những điều cần tránh trong buổi kickoff meeting
 
 ## 2. Retrospective Meeting
 
-Retrospective không phải là một buổi “họp cho đủ quy trình”, mà là khoảng thời gian mà cả team dừng lại một chút để thở, để nhìn lại chặng đường mình vừa đi qua và nhận ra: à, hóa ra tụi mình đã tiến bộ nhiều như vậy. Đây là nơi những nỗ lực thầm lặng được gọi tên, nơi mỗi người có thể thấy rõ hơn giá trị mình mang lại cho team. Khi chúng ta chia sẻ thật lòng điều gì đang tốt, điều gì làm mình mệt, điều gì mình trân trọng ở nhau… chúng ta xây thêm một lớp niềm tin. Và chính niềm tin đó giúp team vững vàng hơn trước deadline, áp lực và những lần “cháy nhà”.
+Đã bao giờ bạn ngồi trong một cuộc họp, có ý tưởng nhưng lại ngần ngại không nói ra vì sợ mình "khác biệt", sợ ý kiến của mình sẽ bị gạt đi? Tình trạng đó được gọi là "tư duy tập thể" (groupthink), và nó chính là rào cản lớn nhất của sự cải tiến. Khi mọi người chọn im lặng để giữ hòa khí, chúng ta đã vô tình chấp nhận những quy trình chưa tốt, những vấn đề tiềm ẩn và đánh mất cơ hội để trở nên tốt hơn.
 
-Nhưng Retro cũng là nơi chúng ta đối thoại với rủi ro một cách trưởng thành. Thay vì đổ lỗi, chúng ta cùng nhau nhìn vào hệ thống: quy trình nào đang làm khó anh em, chỗ nào hay phát sinh bug, thói quen nào đang kéo cả team xuống. Rồi từ đó, cả team cùng chốt ra vài hành động nhỏ nhưng rõ ràng cho Sprint tiếp theo: đổi cách làm, chỉnh lại rule, cam kết một thói quen mới. Không cần những khẩu hiệu to tát – chỉ cần mỗi Sprint, chúng ta tốt hơn Sprint trước một chút. Nếu cả team đi vào Retro với tinh thần như vậy, thì mỗi buổi họp không chỉ là “kết thúc một Sprint”, mà là một bước nữa trên hành trình trở thành một đội ngũ giỏi hơn, chuyên nghiệp hơn và tự hào hơn về chính mình.
+Chính để phá vỡ rào cản này, **Retrospective Meeting** được sinh ra. Đây không phải là một buổi họp để leader ngồi phê bình hay để báo cáo thành tích. Đây là cuộc họp **của chính các thành viên**, là cơ hội tốt nhất để mỗi người chúng ta tự tay cải tiến lại trải nghiệm làm việc của mình. Là nơi mà mọi quan điểm đều được lắng nghe, mọi trăn trở đều được tôn trọng.
+
+Nếu bạn giữ những khúc mắc ở trong lòng, chúng sẽ dần biến thành sự bất mãn âm ỉ, trong khi không một ai biết rằng bạn đang cảm thấy không ổn. Nó giống như một cô gái tuổi teen khi yêu, giận hờn nhưng nhất quyết không chịu nói ra. Sự im lặng đó không giải quyết được vấn đề, mà chỉ làm cho mối quan hệ tệ đi. Tương tự, một đội ngũ không dám nói thẳng, nói thật sẽ không thể nào phát triển bền vững.
+
+Retrospective là nơi chúng ta đối thoại với các vấn đề một cách trưởng thành. Thay vì đổ lỗi, chúng ta cùng nhau nhìn vào hệ thống để tìm ra gốc rễ: quy trình nào đang làm khó anh em, thói quen nào đang kéo cả team đi xuống? Từ đó, cả team cùng nhau đưa ra những hành động cải tiến cụ thể cho tuần làm việc tiếp theo.
+
+## 3. Daily Meeting
+
+Nếu "Planning Meeting" là la bàn định hướng, "Retrospective" là tấm gương phản chiếu, thì "Daily Meeting" chính là nhịp đập hàng ngày của dự án. Đây không phải là một buổi họp "đứng" để kể lể các công việc đã làm cho có lệ. Nó là một nghi thức vào đầu ngày để cả đội lấy lại sự tập trung, đảm bảo mọi người cùng nhìn về một hướng và cùng nhau bảo vệ chất lượng sản phẩm.
+
+Mục tiêu chính của Daily Meeting bao gồm:
+
+- **Đồng bộ để minh bạch:** Mọi người chia sẻ những việc đã hoàn thành, các vấn đề đang gặp phải, và nêu ra những điều còn thiếu sót. Mục tiêu là để cả nhóm có một bức tranh chung, rõ ràng về tiến độ và các rủi ro tiềm ẩn.
+- **"Săn bug" cùng nhau:** Thay vì quy trình test-log-fix-test tốn thời gian, chúng ta dành thời gian soi kỹ vào sản phẩm ngay trong buổi họp. Khi cả nhóm cùng nhìn vào một chỗ, những lỗi sai sẽ được phát hiện nhanh hơn rất nhiều. Khi cả đội đều đã nắm rõ về "bug", các quy trình ghi nhận phức tạp trở nên không cần thiết. Hãy cố gắng tìm ra ít nhất 3-5 "bugs" trong mỗi buổi.
+- **Lên lại kế hoạch trong ngày:** Dựa trên kết quả đã có và những vấn đề vừa phát hiện, cả nhóm cùng nhau điều chỉnh và sắp xếp lại các ưu tiên cho ngày làm việc mới.
+
+Những điều cần tránh trong Daily Meeting:
+
+- **Sa đà vào giải quyết vấn đề kỹ thuật:** Đây là một cái bẫy phổ biến làm lãng phí thời gian của cả nhóm. Nếu có một vấn đề kỹ thuật phức tạp, hãy ghi nhận và thảo luận riêng với dev-lead hoặc người có chuyên môn ngay sau buổi họp. Đừng để cả nhóm phải ngồi "bàn" về một vấn đề không liên quan đến họ.
+- **Báo cáo cho có:** Buổi họp nên tập trung vào sản phẩm: tính năng nào đã hoàn thành, cái nào đã sẵn sàng cho người dùng, và bức tranh tổng thể của dự án đang ra sao. Nó không phải là nơi để liệt kê một danh sách dài các "task" đã làm.
+- **Kéo dài lê thê:** Thời gian là vàng. Buổi họp này cần nhanh, gọn và hiệu quả, lý tưởng nhất là **dưới 30 phút** nhưng cũng không nên ngắn hơn 10 phút để đảm bảo mọi người có đủ thời gian chia sẻ và "săn bug".
+
+## 4. Daily Demo
+
+Chúng ta tin vào "chủ nghĩa hiện vật" - báo cáo bằng hiện vật là cách báo cáo tốt nhất: đơn giản, trực quan và không tốn thời gian chuẩn bị. Buổi **Daily Demo** chính là nơi để thực thi triết lý đó. Đây là cuộc họp giữa Dev-lead và khách hàng, nơi chúng ta "show hàng" và biến khách hàng thành một phần của đội ngũ phát triển.
+
+Mục tiêu của cuộc họp này là tạo ra sự minh bạch tuyệt đối về sản phẩm. Tiến độ nhanh hay chậm, sản phẩm tốt hay dở, tất cả sẽ được thể hiện qua chính "hiện vật". Chỉ trong 10-15 phút, khách hàng có thể thấy, chạm và cho phản hồi ngay lập tức. Đây cũng là cơ hội để chúng ta cùng trải qua khó khăn với khách hàng, cùng bàn bạc giải quyết vấn đề, củng cố mối quan hệ đối tác và biến hai bên trở thành một đội.
+
+Quy trình của một buổi Daily Demo hiệu quả:
+
+- **Trình bày "hiện vật":** Dev-lead bật sản phẩm lên và trình bày các tính năng đã hoàn thành. Hãy cho khách hàng thấy sản phẩm đang hoạt động.
+- **Thảo luận các vấn đề:** Nêu rõ các giới hạn (limitation) mới phát hiện và các vấn đề cần thảo luận để cùng khách hàng tháo gỡ. Hãy coi họ như một Product Owner, người ra quyết định cuối cùng.
+- **Ghi nhận yêu cầu mới:** Lắng nghe các phản hồi. Tuy nhiên, nếu có các yêu cầu nằm ngoài phạm vi công việc đã thống nhất (scope of work), hãy ghi nhận và báo cáo lại cho Ban Lãnh đạo (BOD) để xử lý, tránh việc tự ý đồng ý.
+
+Những điều cần tránh trong Daily Demo:
+
+- **Báo cáo dài dòng:** Đừng nói không ngừng. Hãy để sản phẩm tự nói lên.
+- **Kéo dài thời gian:** Cuộc họp này không nên kéo dài quá 30 phút. Nhanh, gọn và tập trung vào sản phẩm.

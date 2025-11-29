@@ -1,0 +1,17 @@
+# Tổng Quan Về Cyberk
+
+## Sứ Mệnh Của Chúng Ta
+
+Cyberk là một công ty dịch vụ khởi nghiệp. Sứ mệnh của chúng ta là **kiến tạo đột phá, làm cho việc bắt đầu một startup trở nên đơn giản và hiệu quả hơn.**
+
+Mọi việc chúng ta làm, từ viết code đến thiết kế, đều hướng đến mục tiêu này: giúp các nhà sáng lập (builders) biến ý tưởng của họ thành hiện thực một cách nhanh chóng và bền vững.
+
+---
+
+## Chúng Ta Là Ai: Một Cộng Đồng Nghệ Nhân
+
+Chúng ta là một tổ chức tinh gọn với dưới 50 thành viên, được xây dựng dựa trên nguyên tắc "nghệ nhân làm việc với nghệ nhân". Đây là nơi chúng ta cùng nhau theo đuổi tinh thần nghệ nhân thực thụ: tỉ mỉ trong từng sản phẩm và tự hào về tay nghề của mình.
+
+Mô hình phát triển của chúng ta dựa trên sự dìu dắt: người nhiều kinh nghiệm dạy cho người ít kinh nghiệm hơn, người anh chị đi trước hướng dẫn người em đi sau, người cũ chào đón và chỉ bảo người mới. Chúng ta tin rằng tất cả sẽ cùng nhau tiến bộ trên con đường này.
+
+Chúng ta cũng nhận thức sâu sắc rằng mình đang sống trong một thời đại của sự cô đơn, nơi guồng quay của công việc 8 tiếng và bốn bức tường có thể làm con người xa cách. Vì thế, Cyberk không chỉ là một công ty. Chúng ta kiến tạo một cộng đồng, nơi những mối quan hệ anh chị em là một phần không thể thiếu của cuộc sống. Ở đây không chỉ có quan hệ đồng nghiệp, mà còn là tình bạn, là sự gắn kết giữa gia đình với gia đình.
