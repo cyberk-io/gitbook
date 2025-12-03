@@ -20,7 +20,7 @@ const includedFiles = new Set();
 // Regular expression to find markdown links like '- [Text](./path/to/file.md)'
 const linkRegex = /[*-]\s*\[([^\]]+)\]\((\.\/[^\)]+\.md)\)/;
 
-finalContent += "# The Cyberk Way Handbook\n\n";
+finalContent += "# The Cyberk Way\n\n";
 
 lines.forEach((line) => {
   if (line.startsWith("##")) {

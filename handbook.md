@@ -1,6 +1,6 @@
-# The Cyberk Way Handbook
+# The Cyberk Way
 
-### Lời nói đầu: The Cyberk Way
+### Lời nói đầu
 
 
 Cuốn sách này, "The Cyberk Way", được viết ra để ghi lại hành trình, những bài học kinh nghiệm, và định hướng phát triển đã định hình nên Cyberk. Giống như Toyota có "Toyota Way", đây là cách chúng ta ghi dấu lại cách làm của mình, đảm bảo rằng những giá trị và phương pháp làm việc cốt lõi sẽ không bị lãng quên và dễ dàng được tiếp nối bởi các thành viên trong tương lai.
@@ -52,7 +52,7 @@ Năm 2022 chúng tôi tập trung xây dựng một lời hứa với khách hà
 Vì vậy tôi ngồi lại và viết ra cuốn sách này, để ghi lại cách làm để cho mọi người cùng rõ.
 
 
-## Phần 1: Chân dung khách hàng - Web3 Builder
+## Phần 1: Chân dung khách hàng
 
 ### Web3 Builder
 
@@ -84,14 +84,14 @@ Nhưng sản phẩm phải luôn sẵn sàng trạng thái khi sản phẩm củ
 Cuối cùng là ta luôn hiểu rõ các công nghệ mới nhất, để có thể cùng đối thoại với họ về ý tưởng của họ, để họ không mất thời gian giải thích với chúng ta, và chúng ta có thể đóng góp vào sản phẩm của họ ở góc độ kỹ thuật. Tập trung vào việc biến việc khởi nghiệp này trở nên dễ dàng, đơn giản, tiết kiệm. bằng cách giúp họ làm chủ các **công nghệ mới nhất**, và là những người đầu tiên hiểu và biết cách đưa chúng vào thực tế.
 
 
-### 2.2. Giá Trị Cốt Lõi: La Bàn Cho Mọi Hành Động
+### 2.2. Giá Trị Cốt Lõi
 
 
 Tại Cyberk, chúng ta không có một bộ quy tắc phức tạp. Thay vào đó, chúng ta có một chiếc la bàn với bốn giá trị cốt lõi. Đây là nền tảng để chúng ta ra quyết định, hành động và đối xử với nhau mỗi ngày.
 
 ---
 
-**Tâm: Tận tâm với sản phẩm.** Ta biết rằng tâm ta ở đâu thì sự nghiệp ta ở đó. Khi ta đặt tâm vào sản phẩm ta tìm thấy lý do cho những đêm Overtime, Những trận tranh cãi nảy lửa với đồng nghiệp, và là nơi ta tìm thấy ý nghĩa của công việc.
+**Tâm: Tận tâm với sản phẩm.** Tâm ta ở đâu thì sự nghiệp ta ở đó. Ta đặt tâm vào sản phẩm thì ta tìm thấy ý nghĩa của công việc ta làm.
 
 **Cầu thị: Tinh Thần Đổi Mới.** Trong lĩnh vực công nghệ, đứng yên đồng nghĩa với việc bị bỏ lại phía sau. Vì vậy, Cầu thị là **kỷ luật bắt buộc** để giữ cho tay nghề của chúng ta luôn sắc bén.
 
@@ -434,81 +434,33 @@ Nếu bạn giữ những khúc mắc ở trong lòng, chúng sẽ dần biến 
 Retrospective là nơi chúng ta đối thoại với các vấn đề một cách trưởng thành. Thay vì đổ lỗi, chúng ta cùng nhau nhìn vào hệ thống để tìm ra gốc rễ: quy trình nào đang làm khó anh em, thói quen nào đang kéo cả team đi xuống? Từ đó, cả team cùng nhau đưa ra những hành động cải tiến cụ thể cho tuần làm việc tiếp theo.
 
 
-## Phần 5: Hướng đến một tổ chức có giá trị
+## Phần 5: Hướng đến một tổ chức tự học
 
-### Xây dựng tổ chức có giá trị
+### Xây dựng tổ chức tự học
 
 
-Câu chuyện của Cyberk bắt đầu từ năm 2020, giữa bối cảnh đại dịch. Khi đó, chúng ta là một đội ngũ còn rất trẻ, đã cùng nhau ăn, ngủ và làm sản phẩm với một tinh thần không biết mệt mỏi.
+Hàng ngày chúng ta có các lớp học, các lớp học này luôn ready và sẵn có vào 5h30 hằng ngày ở sảnh tầng 1, Chúng được thiết kế để việc học trở nên cực kỳ thuận tiện. Mọi người không thể cưỡng lại "cám dỗ" của việc học.
 
-Thế giới đã thay đổi, công nghệ thay đổi từng ngày, và những thành viên trẻ tuổi nhiệt huyết năm nào giờ đã trở thành những người nhiều kinh nghiệm. Chúng ta không còn chỉ dựa vào "sức trẻ" để "work-hard", mà đã chuyển mình sang "work-smart" bằng "kinh nghiệm".
-
-Nhưng những kinh nghiệm này không tự nhiên mà có. Nó đến từ việc chúng ta đã phải liên tục làm mới mình để sống sót: tự học công nghệ mới, ăn ngủ với những vấn đề chưa có lời giải. Cả đội đã cùng nhau lên Udemy, Coursera để tự trang bị những kỹ năng cần thiết cho dự án.
-
-Chưa dừng lại ở đó, chúng ta còn chủ động tìm kiếm tri thức từ bên ngoài lĩnh vực chuyên môn của mình. Lập trình viên không ngại đi học về marketing, quản trị, hay luật.
-
-Đây chính là "văn hoá" đã có ngay từ ngày đầu thành lập: văn hoá liên tục học hỏi và làm mới mình. Đây là con đường chúng ta xây dựng một tổ chức có giá trị từ chính nội tại.
-
-### Con đường học tập tại Cyberk
-
-Học có hướng dẫn: Khởi đầu từ "Nhận thức", Tổ chức sẽ bắt đầu bằng việc hướng dẫn. Tri thức nền tảng sẽ được chia sẻ qua:
-
-- **Các lớp Seminar:** Nơi các thành viên có kinh nghiệm hướng dẫn lại cho những người đi sau.
+- **Các lớp Seminar:** Là các "lớp học dã chiến" được dựng lên ngay khi chúng ta tìm ra một công nghệ, kỹ năng, cải tiến mới cần phổ cập ngay
 - **Các buổi trình bày:** Về công nghệ mới, về những dự án nổi bật trên thị trường để chúng ta cùng học hỏi từ các case-study thành công, làm giàu vốn tư vấn cho khách hàng.
 
-**Tự học:** Con đường rèn nên "Kỹ năng" Nếu các lớp học cho chúng ta "nhận thức", thì chính việc tự học mới biến kiến thức đó thành "kỹ năng" thực thụ. Chúng ta tin rằng: **Văn phòng là lớp học, dự án là nơi thực hành.**
+**Tự học:** Nếu các lớp học cho chúng ta "cản hứng", thì chính việc tự học mới biến "cảm hứng" đó thành "kỹ năng" thực thụ.
 
-Mỗi một dự án là một cơ hội để chúng ta học thêm một điều mới, bổ sung vào bộ sưu tập năng lực của chính mình. Như cách Bác Hồ đã dạy: "Học đi đôi với hành". Đây là lúc chúng ta thực sự mài giũa tay nghề để trở thành những người nghệ nhân. Bằng cách này, sự trưởng thành của mỗi cá nhân sẽ trở thành tài sản quý giá nhất của cả tập thể.
-
-### Động cơ của sự phát triển
-
-Áp lực để sống sót cũng chính là áp lực để tiến bộ. Văn hoá tự học, tự trau dồi kiến thức không chỉ là một chiến lược, mà đã trở thành DNA của chúng ta. Nó là thứ đã giúp chúng ta đi từ những ngày đầu gian khó đến ngày hôm nay.
+**Học đi đôi với Hành** Như cách Bác Hồ đã dạy: "Học đi đôi với hành". Đây là lúc chúng ta thực sự mài giũa tay nghề để trở thành những người nghệ nhân. Hãy coi mỗi dự án là nơi mà ta được thực hành những kỹ năng mới. Hãy luôn tự hỏi, qua dự án này thì ta sẽ biết thêm điều gì.
 
 Chừng nào ngọn lửa ham học hỏi này còn cháy trong mỗi thành viên, chừng nào chúng ta còn xem mỗi thử thách là một bài học, thì chừng đó Cyberk vẫn sẽ tiếp tục tiến về phía trước. Sự phát triển của tổ chức không nằm ở đâu khác, mà nằm ở chính sự trưởng thành của mỗi chúng ta.
 
 
 ## Mục lục
 
-### Lời nói đầu: The Cyberk Way
-
-### Về Cuốn Cẩm Nang Này
-
-### Câu Chuyện Cyberk - Lời Của Tác Giả
-
-### Web3 Builder
-
-### 2.1. Sứ Mệnh: Cách Chúng Ta Làm
-
-### 2.2. Giá Trị Cốt Lõi: La Bàn Cho Mọi Hành Động
-
-### 2.3. Tổng quan về Cyberk
-
-### 2.4. Các Mô Hình Dịch Vụ
-
-### 2.5. Cơ Cấu Tổ Chức Cyberk
-
-### 3.1. Bí Quyết 1: Chăm hay không bằng tay quen
-
-### 3.2. Bí quyết 2: Dĩ bất biến, ứng vạn biến
-
-### 3.3. Bí quyết 3: Trăm nghe không bằng một thấy
-
-### 4.1. Quy trình tổng quan
-
-### 4.2. Các cuộc họp quan trọng
-
-### Xây dựng tổ chức có giá trị
-
-## Mục lục
-
-  - [Lời nói đầu: The Cyberk Way](#li-ni-u-the-cyberk-way)
+  - [Lời nói đầu](#li-ni-u)
   - [Về Cuốn Cẩm Nang Này](#v-cun-cm-nang-ny)
   - [Câu Chuyện Cyberk - Lời Của Tác Giả](#cu-chuyn-cyberk-li-ca-tc-gi)
-- [Phần 1: Chân dung khách hàng - Web3 Builder](#phn-1-chn-dung-khch-hng-web3-builder)
+- [Phần 1: Chân dung khách hàng](#phn-1-chn-dung-khch-hng)
   - [Web3 Builder](#web3-builder)
 - [Phần 2: Giới thiệu về Cyberk](#phn-2-gii-thiu-v-cyberk)
   - [2.1. Sứ Mệnh: Cách Chúng Ta Làm](#21-s-mnh-cch-chng-ta-lm)
-  - [2.2. Giá Trị Cốt Lõi: La Bàn Cho Mọi Hành Động](#22-gi-tr-ct-li-la-bn-cho-mi-hnh-ng)
+  - [2.2. Giá Trị Cốt Lõi](#22-gi-tr-ct-li)
   - [2.3. Tổng quan về Cyberk](#23-tng-quan-v-cyberk)
   - [2.4. Các Mô Hình Dịch Vụ](#24-cc-m-hnh-dch-v)
   - [2.5. Cơ Cấu Tổ Chức Cyberk](#25-c-cu-t-chc-cyberk)
@@ -519,21 +471,5 @@ Chừng nào ngọn lửa ham học hỏi này còn cháy trong mỗi thành vi�
 - [Phần 4: Quy trình làm việc tại Cyberk](#phn-4-quy-trnh-lm-vic-ti-cyberk)
   - [4.1. Quy trình tổng quan](#41-quy-trnh-tng-quan)
   - [4.2. Các cuộc họp quan trọng](#42-cc-cuc-hp-quan-trng)
-- [Phần 5: Hướng đến một tổ chức có giá trị](#phn-5-hng-n-mt-t-chc-c-gi-tr)
-  - [Xây dựng tổ chức có giá trị](#xy-dng-t-chc-c-gi-tr)
-- [Mục lục](#mc-lc)
-  - [Lời nói đầu: The Cyberk Way](#li-ni-u-the-cyberk-way)
-  - [Về Cuốn Cẩm Nang Này](#v-cun-cm-nang-ny)
-  - [Câu Chuyện Cyberk - Lời Của Tác Giả](#cu-chuyn-cyberk-li-ca-tc-gi)
-  - [Web3 Builder](#web3-builder)
-  - [2.1. Sứ Mệnh: Cách Chúng Ta Làm](#21-s-mnh-cch-chng-ta-lm)
-  - [2.2. Giá Trị Cốt Lõi: La Bàn Cho Mọi Hành Động](#22-gi-tr-ct-li-la-bn-cho-mi-hnh-ng)
-  - [2.3. Tổng quan về Cyberk](#23-tng-quan-v-cyberk)
-  - [2.4. Các Mô Hình Dịch Vụ](#24-cc-m-hnh-dch-v)
-  - [2.5. Cơ Cấu Tổ Chức Cyberk](#25-c-cu-t-chc-cyberk)
-  - [3.1. Bí Quyết 1: Chăm hay không bằng tay quen](#31-b-quyt-1-chm-hay-khng-bng-tay-quen)
-  - [3.2. Bí quyết 2: Dĩ bất biến, ứng vạn biến](#32-b-quyt-2-d-bt-bin-ng-vn-bin)
-  - [3.3. Bí quyết 3: Trăm nghe không bằng một thấy](#33-b-quyt-3-trm-nghe-khng-bng-mt-thy)
-  - [4.1. Quy trình tổng quan](#41-quy-trnh-tng-quan)
-  - [4.2. Các cuộc họp quan trọng](#42-cc-cuc-hp-quan-trng)
-  - [Xây dựng tổ chức có giá trị](#xy-dng-t-chc-c-gi-tr)
+- [Phần 5: Hướng đến một tổ chức tự học](#phn-5-hng-n-mt-t-chc-t-hc)
+  - [Xây dựng tổ chức tự học](#xy-dng-t-chc-t-hc)

@@ -1,0 +1,52 @@
+---
+description: `Áp dụng quy tắc này khi viết hoặc đánh giá tài liệu tiếng Việt để đảm bảo chính tả, ngữ pháp và văn phong chính xác. Điều này rất quan trọng để duy trì sự chuyên nghiệp và rõ ràng trong tất cả nội dung tiếng Việt.`
+globs: 
+alwaysApply: false
+---
+
+# Quy tắc Chính tả và Ngữ pháp Tiếng Việt
+
+## Các quy tắc quan trọng
+
+- **Viết hoa:**
+  - Luôn viết hoa chữ cái đầu tiên của câu. Một câu kết thúc bằng dấu chấm (.), dấu chấm hỏi (?) hoặc dấu chấm than (!).
+  - Viết hoa tất cả các danh từ riêng, bao gồm tên người, địa danh, tổ chức và thương hiệu cụ thể.
+  - Không viết hoa danh từ chung trừ khi chúng là từ đầu tiên của câu. Tránh viết hoa ngẫu nhiên, không nhất quán.
+- **Dấu câu:**
+  - Đảm bảo tất cả các từ tiếng Việt có dấu đúng. Thiếu hoặc sai dấu có thể làm thay đổi ý nghĩa của từ.
+- **Dấu cách:**
+  - Sử dụng một dấu cách duy nhất sau dấu phẩy (,), dấu chấm phẩy (;) và dấu chấm (.).
+  - Không đặt dấu cách trước các dấu câu này.
+- **Các lỗi chính tả phổ biến:**
+  - Chú ý đến các cặp âm dễ bị nhầm lẫn: `s/x`, `ch/tr`, `d/gi/r`, `l/n`.
+- **Sử dụng từ ngữ:**
+  - **Tránh lặp từ:** Trong một câu hoặc đoạn văn ngắn, tránh lặp lại cùng một từ nhiều lần. Hãy sử dụng từ đồng nghĩa hoặc thay đổi cấu trúc câu.
+  - **Ngữ nghĩa và Logic:** Đảm bảo câu văn có nghĩa, rõ ràng và các ý tưởng được liên kết với nhau một cách hợp lý.
+- **Tính nhất quán:**
+  - Sử dụng thuật ngữ nhất quán cho các thuật ngữ kỹ thuật hoặc các khái niệm cụ thể trong toàn bộ tài liệu.
+  - Tên thương hiệu "Cyberk" luôn được viết là "Cyberk", không phải "CyberK".
+
+## Ví dụ
+
+<example>
+  "Cyberk là một công ty công nghệ. Chúng tôi tập trung vào việc xây dựng các sản phẩm Web3."
+
+  **Phân tích:**
+
+- "Cyberk" được viết hoa vì là danh từ riêng.
+- "Chúng" được viết hoa vì nó bắt đầu một câu mới.
+- Dấu cách chính xác sau dấu chấm.
+</example>
+
+<example type="invalid">
+  "cyberk là một Công ty công nghệ.chúng tôi tập trung vào việc Xây dựng các Sản phẩm web3."
+
+  **Phân tích:**
+
+- "cyberk" phải được viết hoa thành "Cyberk".
+- "Công ty" không nên viết hoa.
+- Không có dấu cách sau dấu chấm trước "chúng".
+- "chúng" phải được viết hoa.
+- "Xây" và "Sản" bị viết hoa không cần thiết.
+
+</example>
