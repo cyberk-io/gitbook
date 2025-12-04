@@ -23,33 +23,33 @@ Tuy nhiên, cần nhớ rằng đây là một tài liệu sống, không phải
 
 Câu chuyện bắt đầu vào năm 2012, khi tôi (Anderson) và Huy tình cờ được xếp chung phòng đại học.
 
-chúng tôi đã cùng nhau làm một app game trên android đầu tiên - Một trò chơi đại loại như bắn tàu, chúng tôi kết nối 2 chiếc điện thoại qua Mạng Lan, sau đó chúng sẽ tự phát hiện ra nhau, nếu người dùng cùng bật app. Tôi Làm thiết kế và Huy code hầu hết mọi tính năng. Dù chẳng mang lại đồng nào, nhưng những dự án đó đánh dấu lần đầu tiên bọn tôi làm ra được một cái gì đó chạy được.
+Chúng tôi đã cùng nhau làm một app game trên Android đầu tiên - một trò chơi đại loại như bắn tàu, chúng tôi kết nối 2 chiếc điện thoại qua mạng LAN, sau đó chúng sẽ tự phát hiện ra nhau, nếu người dùng cùng bật app. Tôi làm thiết kế và Huy code hầu hết mọi tính năng. Dù chẳng mang lại đồng nào, nhưng những dự án đó đánh dấu lần đầu tiên bọn tôi làm ra được một cái gì đó chạy được.
 
-**Năm 2014**, Nhờ có  app Android đó, chúng tôi có cơ hội làm việc tại FPT Software, tham gia phát triển ứng dụng cho Sony TV chạy hệ điều hành Android. Đây là lần đầu tiên chúng tôi được tiếp xúc với những quy trình làm việc chuyên nghiệp như Agile/Scrum và trải nghiệm cảm giác xây dựng một hệ thống phục vụ hàng triệu người dùng trên toàn cầu.
+**Năm 2014**, nhờ có app Android đó, chúng tôi có cơ hội làm việc tại FPT Software, tham gia phát triển ứng dụng cho ứng dụng trên Smart TV chạy hệ điều hành Android. Đây là lần đầu tiên chúng tôi được tiếp xúc với những quy trình làm việc chuyên nghiệp như Agile/Scrum và trải nghiệm cảm giác xây dựng một hệ thống phục vụ hàng triệu người dùng trên toàn cầu.
 
-**Năm 2018**, chúng tôi dấn thân vào những trải nghiệm mới: đi dạy lập trình. Chính trong giai đoạn này, chúng tôi học được một kỹ năng vô cùng quan trọng, đó là giải thích những khái niệm về công nghệ khó hiểu nhất cho một học sinh lớp 3. Kỹ năng này đã giúp ích không biết bao nhiêu cho tôi tới bây giờ khi cần trình bày với khách hàng.
+**Năm 2018**, chúng tôi dấn thân vào những trải nghiệm mới: đi dạy lập trình. Chính trong giai đoạn này, chúng tôi học được một kỹ năng vô cùng quan trọng, đó là giải thích những khái niệm về công nghệ khó hiểu nhất cho một học sinh lớp 3. Việc này đã giúp ích không biết bao nhiêu cho tôi tới bây giờ khi cần trình bày với khách hàng.
 
-**Năm 2020**, Tôi thành lập Skymore, một công ty nhỏ cung cấp giải pháp phần mềm cho trường học. Hoặc bất cứ ai thuê chúng tôi viết cái gì đó. Chúng tôi đã phải xoay sở để làm sao công ty có thể sống sót với hợp đồng dự án $600. Nhưng lần đầu tiên tôi có đủ tiền để có một đội UX/UI thực tập trả lương bằng trà sữa và phụ cấp xăng xe. Một ông em sale bất động sản chuyển qua code back-end. và ngồi nhờ văn phòng của công ty cũ (Cảm ơn Mindx rất nhiều)
+**Năm 2020**, tôi thành lập Skymore, một công ty nhỏ cung cấp giải pháp phần mềm cho trường học. Hoặc bất cứ ai thuê chúng tôi viết cái gì đó. Chúng tôi đã phải xoay sở để làm sao công ty có thể sống sót với hợp đồng dự án $600. Nhưng lần đầu tiên tôi có đủ tiền để có một đội UX/UI thực tập trả lương bằng trà sữa và phụ cấp xăng xe. Một ông em sale bất động sản chuyển qua code back-end và ngồi nhờ văn phòng của công ty cũ (Cảm ơn Mindx rất nhiều).
 
-Tong một lần mò mẫm trên upwork vào những ngày cuối tháng 12, tôi thấy thu nhập 1 tháng của mình được viết trên mô tả của một Job 6 giờ làm việc smart-contract developer. Ngay lập tức chúng tôi đã lao đầu vào học. Vơ vét tất cả những gì có sẵn trên internet.
+Trong một lần mò mẫm trên Upwork vào những ngày cuối tháng 12, tôi thấy thu nhập 1 tháng của mình được viết trên mô tả của một job 6 giờ làm việc smart-contract developer. Ngay lập tức, chúng tôi đã lao đầu vào học, vơ vét tất cả những gì có sẵn trên internet.
 
-**Giao thừa âm lịch năm 2021** chúng tôi có một Job đầu tiên, mồng 4 tết chúng tôi realease dự án đầu tiên. Tôi đã gần như làm việc xuyên qua tết nguyên đán năm đó. Nhưng ít nhất tôi vừa mở ra cơ hội xoá đói giảm nghèo và ít nhất mấy đứa em không chỉ có trà sữa và xăng nữa.
+**Giao thừa âm lịch năm 2021**, chúng tôi có một job đầu tiên, mồng 4 Tết chúng tôi bàn giao dự án đầu tiên. Tôi đã gần như làm việc xuyên qua Tết Nguyên Đán năm đó. Nhưng ít nhất tôi vừa mở ra cơ hội xoá đói giảm nghèo và ít nhất mấy đứa em không chỉ có trà sữa và xăng nữa.
 
-Tháng 8 năm 2021 tôi gặp bạn Jon, người mà mãi sau này tôi mới biết khi đó cậu ấy vẫn là sinh viên năm đại học năm thứ 3. Thật điên là khi đó tôi còn chưa thể chào hỏi bằng tiếng anh. Bằng lý do nào đó chúng tôi vẫn bắt đầu hợp đồng đầu tiên. Nó thành công và cậu ấy gọi được vốn.
+**Tháng 8 năm 2021**, tôi gặp bạn Jon, người mà mãi sau này tôi mới biết khi đó cậu ấy vẫn là sinh viên đại học năm thứ 3. Thật điên là khi đó tôi còn chưa thể chào hỏi bằng tiếng Anh. Bằng lý do nào đó, chúng tôi vẫn bắt đầu hợp đồng đầu tiên. Nó thành công và cậu ấy gọi được vốn.
 
-Thành công này nhanh chóng biến Jon thành fan hâm mộ đầu tiên, Cậu ấy kết nối tôi với mọi bạn bè mà cậu có cùng lĩnh vực. Và từ đó trở đi, tôi chưa bao giờ có cơ hội để đi bán hàng nữa. Họ cứ liên tục tự tìm đến.
+Thành công này nhanh chóng biến Jon thành fan hâm mộ đầu tiên, cậu ấy kết nối tôi với mọi bạn bè mà cậu có cùng lĩnh vực. Và từ đó trở đi, tôi chưa bao giờ có cơ hội để đi bán hàng nữa. Họ cứ liên tục tự tìm đến.
 
-**Ngày 1 Tháng 8 Năm 2022** Chúng tôi thành lập Cyberk và đóng cửa Skymore. Tôi muốn dành mọi sự tập trung mà tôi có để làm 1 việc: Chúng tôi sẽ là chuyên gia của blockchain
+**Ngày 1 Tháng 8 Năm 2022**, chúng tôi thành lập Cyberk và đóng cửa Skymore. Tôi muốn dành mọi sự tập trung mà tôi có để làm một việc: Chúng tôi sẽ là chuyên gia của blockchain.
 
 Cũng trong giai đoạn này, Huy chính thức tham gia toàn thời gian với vai trò CTO, trở thành người đặt nền móng cho năng lực công nghệ của công ty, cùng với cái gật đầu của Jon, một mảnh ghép quan trọng trong đội ngũ sáng lập.
 
-Năm 2022 chúng tôi tập trung xây dựng một lời hứa với khách hàng, Cyberk sẽ luôn đảm bảo dự án của khách hàng thành công về mặt công  nghệ.
+Năm 2022, chúng tôi tập trung xây dựng một lời hứa với khách hàng: Cyberk sẽ luôn đảm bảo dự án của khách hàng thành công về mặt công nghệ.
 
-**Cuối năm 2025** The Cyberk Way
+**Cuối năm 2025** The Cyberk Way.
 
 Đến hôm nay, Cyberk đã có cơ hội hợp tác với những đối tác hàng đầu trong ngành. Và vẫn như thường lệ họ đến với Cyberk vì có ai đó giới thiệu. Ai đó đã làm việc và nhìn thấy cái gì đó ở chúng tôi. Họ trở thành một fan, và họ giới thiệu cho bạn của họ.
 
-Vì vậy tôi ngồi lại và viết ra cuốn sách này, để ghi lại cách làm để cho mọi người cùng rõ.
+Vì vậy, tôi ngồi lại và viết ra cuốn sách này, để ghi lại cách làm để cho mọi người cùng rõ.
 
 
 ## Phần 1: Chân dung khách hàng
@@ -57,15 +57,15 @@ Vì vậy tôi ngồi lại và viết ra cuốn sách này, để ghi lại cá
 ### Web3 Builder
 
 
-**Builder:** Khách hàng của chúng ta, xuất thân họ là những nhà khởi nghiệp hoặc các doanh nhân đam mê về công nghệ, , Quỹ đầu tư mạo hiểm, Innovation-hub của một bigtech. Cái họ mong muốn là được làm ra một sản phẩm có thể thay đổi thế giới.
+**Builder:** Khách hàng của chúng ta, xuất thân họ là những nhà khởi nghiệp hoặc các doanh nhân đam mê về công nghệ, Quỹ đầu tư mạo hiểm, Innovation-hub của một bigtech. Cái họ mong muốn là được làm ra một sản phẩm có thể thay đổi thế giới.
 
-Họ hoặc là sợ hãi bị tụt hậu so với thế giới Vuca, họ lo lắng mình trở thành một NOKIA thứ 2. Một ngày một công ty khởi nghiệp với vài kỹ sư trẻ tuổi sẽ biến mô hình kinh doanh của họ trở nên lỗi thời. Họ cũng có thể nhìn thấy một cơ hội có 1 không 2, Khi mà họ tận dụng được, cơ hội này sẽ biến họ thành kỳ lân công nghệ trong một đêm.
+Họ sợ hãi bị tụt hậu trong một thế giới VUCA đầy biến động và lo lắng mình sẽ trở thành một "Nokia thứ hai". Một ngày nào đó, một công ty khởi nghiệp với vài kỹ sư trẻ tuổi sẽ biến mô hình kinh doanh của họ trở nên lỗi thời. Họ cũng có thể nhìn thấy một cơ hội có một không hai, khi mà họ tận dụng được, cơ hội này sẽ biến họ thành kỳ lân công nghệ trong một đêm.
 
-Vì vậy họ sẽ không chọn các lĩnh vực cũ, vì ứng dụng trên các nền tảng công nghệ cũ đã có ai đó làm gì đó rồi. Và nếu một dự án không tồn tại, thì có lẽ ai đó đã thử nghiệm và đã thất bại. Vì vậy họ thường chọn các công nghệ mới nhất.  
+Vì vậy, họ sẽ không chọn các lĩnh vực cũ, vì ứng dụng trên các nền tảng công nghệ cũ đã có người đi trước. Và nếu một ý tưởng tương tự chưa từng thành công, có lẽ là vì đã có người thử và thất bại. Do đó, họ thường chọn các công nghệ mới nhất.
 
-Tài chính của họ cũng không phải dư giả, hoặc quỹ của họ dành cho việc khởi nghiệp này cũng không lớn, vì tâm lý của họ vẫn là thử nghiệm, Nếu thất bại thì họ sẽ tiếp tục thử lại.
+Tài chính của họ cũng không phải dư giả, hoặc quỹ của họ dành cho việc khởi nghiệp này cũng không lớn, vì tâm lý của họ vẫn là thử nghiệm. Nếu thất bại, họ sẽ thử lại.
 
-Vậy chiến lược của họ là sẽ làm thật nhỏ, gọn sao cho tới tay người dùng mục tiêu nhanh nhất có thể, sau đó họ sẽ tiến hành đánh giá, đo lường, kết luận. Sau đó họ sẽ quay lại với ý tưởng và đưa ra các thay đổi để sao cho phù hợp với nhu cầu của user. Vì thế họ thường có xu hướng thay đổi ý tưởng liên tục.
+Vậy chiến lược của họ là sẽ làm thật nhỏ, gọn sao cho tới tay người dùng mục tiêu nhanh nhất có thể, sau đó họ sẽ tiến hành đánh giá, đo lường và kết luận. Họ sẽ quay lại với ý tưởng và đưa ra các thay đổi để sao cho phù hợp với nhu cầu của người dùng. Vì thế, họ thường có xu hướng thay đổi ý tưởng liên tục.
 
 
 ## Phần 2: Giới thiệu về Cyberk
@@ -73,15 +73,15 @@ Vậy chiến lược của họ là sẽ làm thật nhỏ, gọn sao cho tới
 ### 2.1. Sứ Mệnh: Cách Chúng Ta Làm
 
 
-**Mission: Kiến tạo đột phá:**  Làm cho việc khởi nghiệp công nghệ trở nên dễ dàng và đơn giản!
+**Mission: Kiến tạo đột phá:** Làm cho việc khởi nghiệp công nghệ trở nên dễ dàng và đơn giản!
 
-Vì vậy Chúng ta cần giúp họ tạo ra một sản phẩm tốt nhất trong một khoảng thời gian nhanh nhất để họ có thể sớm đưa tới tay người dùng. Từ đó tiết kiệm chi phí cơ hội, giảm chi phí vận hành, và cùng một lượng chi phí họ có được nhiều chu kỳ: **Thử nghiệm-Cải tiến** hơn. Tăng xác suất thành công lên cao hơn.
+Vì vậy, chúng ta cần giúp họ tạo ra một sản phẩm tốt nhất trong khoảng thời gian nhanh nhất để họ có thể sớm đưa tới tay người dùng. Từ đó, tiết kiệm chi phí cơ hội, giảm chi phí vận hành, và với cùng một lượng chi phí, họ có được nhiều chu kỳ **Thử nghiệm - Cải tiến** hơn, giúp tăng xác suất thành công.
 
-Nhưng sản phẩm phải luôn sẵn sàng trạng thái khi sản phẩm của họ được đón nhận nồng nhiệt, khi mà lượng người dùng có thể sẽ tăng từ 0 lên 100k user trong vài ngày. Để làm được việc này chúng ta cần luôn sẵn sàng cho các thay đổi ý tưởng từ phía khách hàng, và chúng ta cần hiểu rằng đó là một phần của quá trình phát triển sản phẩm. **ngay cả việc làm ra một tính năng, và chúng không bao giờ được sử dụng.**
+Sản phẩm phải luôn trong trạng thái sẵn sàng khi được đón nhận nồng nhiệt, khi mà lượng người dùng có thể sẽ tăng từ 0 lên 100,000 người trong vài ngày. Để làm được việc này, chúng ta cần luôn sẵn sàng cho các thay đổi ý tưởng từ phía khách hàng và hiểu rằng đó là một phần của quá trình phát triển sản phẩm, ngay cả việc làm ra một tính năng rồi sau đó không bao giờ được sử dụng.
 
-Đảm bảo rằng hệ thống chạy tốt từ 0-100,000 người dùng trong vòng 24 giờ, vì vậy phần mềm chúng ta làm ra phải luôn đảm bảo tính "scalability" hay gần đây gọi là "Elastic" chi phí thấp khi ít người dùng, và sẵn sàng scale khi rất nhiều người dùng mà không có down-time.
+Đảm bảo rằng hệ thống chạy tốt từ 0 đến 100,000 người dùng trong vòng 24 giờ. Vì vậy, phần mềm chúng ta làm ra phải luôn đảm bảo tính "scalability" (khả năng mở rộng) hay gần đây gọi là "Elastic" (linh hoạt) - chi phí thấp khi ít người dùng và sẵn sàng mở rộng khi có nhiều người dùng mà không bị gián đoạn (down-time).
 
-Cuối cùng là ta luôn hiểu rõ các công nghệ mới nhất, để có thể cùng đối thoại với họ về ý tưởng của họ, để họ không mất thời gian giải thích với chúng ta, và chúng ta có thể đóng góp vào sản phẩm của họ ở góc độ kỹ thuật. Tập trung vào việc biến việc khởi nghiệp này trở nên dễ dàng, đơn giản, tiết kiệm. bằng cách giúp họ làm chủ các **công nghệ mới nhất**, và là những người đầu tiên hiểu và biết cách đưa chúng vào thực tế.
+Cuối cùng, chúng ta luôn hiểu rõ các công nghệ mới nhất để có thể cùng đối thoại với họ về ý tưởng, giúp họ không mất thời gian giải thích và chúng ta có thể đóng góp vào sản phẩm ở góc độ kỹ thuật. Chúng ta tập trung vào việc biến việc khởi nghiệp này trở nên dễ dàng, đơn giản và tiết kiệm bằng cách giúp họ làm chủ các **công nghệ mới nhất** và là những người đầu tiên hiểu và biết cách đưa chúng vào thực tế.
 
 
 ### 2.2. Giá Trị Cốt Lõi
@@ -93,14 +93,14 @@ Tại Cyberk, chúng ta không có một bộ quy tắc phức tạp. Thay vào 
 
 **Tâm: Tận tâm với sản phẩm.** Tâm ta ở đâu thì sự nghiệp ta ở đó. Ta đặt tâm vào sản phẩm thì ta tìm thấy ý nghĩa của công việc ta làm.
 
-**Cầu thị: Tinh Thần Đổi Mới.** Trong lĩnh vực công nghệ, đứng yên đồng nghĩa với việc bị bỏ lại phía sau. Vì vậy, Cầu thị là **kỷ luật bắt buộc** để giữ cho tay nghề của chúng ta luôn sắc bén.
+**Cầu: Tinh Thần Đổi Mới - Cầu Thị.** Trong lĩnh vực công nghệ, đứng yên đồng nghĩa với việc bị bỏ lại phía sau. Vì vậy, cầu thị là **kỷ luật bắt buộc** để giữ cho tay nghề của chúng ta luôn sắc bén.
 
 **Nghệ: Tinh thần nghệ nhân.** *"Nghệ"* là kết tinh của "Tâm". Đó là sự tỉ mỉ trong từng chi tiết, là **niềm tự hào về tay nghề** của mình, và là đạo đức nghề nghiệp không cho phép mình tạo ra một sản phẩm cẩu thả.
 
 **Tín:** Là lý do khách hàng đến với ta, ở lại với ta, giới thiệu bạn bè của họ cho chúng ta. Nó được xây dựng bằng cam kết, kết quả, chất lượng sản phẩm.
 
 
-### 2.3. Tổng quan về Cyberk
+### 2.3. Tổng Quan về Cyberk
 
 
 **Chúng ta là một tổ chức tinh gọn** với dưới 50 thành viên, được xây dựng dựa trên nguyên tắc "nghệ nhân làm việc với nghệ nhân". Đây là nơi chúng ta cùng nhau theo đuổi tinh thần nghệ nhân thực thụ: tỉ mỉ trong từng sản phẩm và tự hào về tay nghề của mình.
@@ -137,27 +137,25 @@ Với mô hình này, chúng ta hoạt động như một bộ phận công ngh�
 ### 2.5. Cơ Cấu Tổ Chức Cyberk
 
 
-### Triết lý tổ chức của chúng ta
-
 Tại Cyberk, chúng ta không xây dựng một hệ thống cấp bậc phức tạp. Thay vào đó, chúng ta kiến tạo một hệ sinh thái gồm các bộ phận chuyên môn cao, hoạt động như những người nghệ nhân, cùng nhau hợp tác để tạo ra sản phẩm tốt nhất cho khách hàng.
 
 Cấu trúc của chúng ta được thiết kế để tối ưu hóa sự hợp tác, giảm thiểu các rào cản và đảm bảo mọi người đều hiểu rõ vai trò của mình trong bức tranh lớn. Dưới đây là các bộ phận chính tạo nên Cyberk.
 
 ---
 
-### Ban Lãnh Đạo - BOD
+### Ban Điều Hành (Leadership Team)
 
-Ban Lãnh đạo là những người đặt ra tầm nhìn và định hướng chiến lược cho công ty.
+Bao gồm các trưởng bộ phận, Ban Điều Hành là nhóm chịu trách nhiệm dẫn dắt, đồng bộ hóa hoạt động và định hướng chiến lược chung cho Cyberk. Họ không chỉ quản lý bộ phận của mình mà còn hợp tác chặt chẽ để đảm bảo toàn bộ công ty vận hành như một thể thống nhất, hướng tới cùng một mục tiêu.
 
-- **Vai trò chính:** Chịu trách nhiệm về các quyết định chiến lược, quản trị rủi ro, và đảm bảo công ty phát triển bền vững.
+- **Vai trò chính:** Đồng bộ hóa chiến lược giữa các bộ phận, đưa ra các quyết định vận hành quan trọng, và nuôi dưỡng văn hóa công ty.
 - **Trách nhiệm:**
-  - Xây dựng tầm nhìn, sứ mệnh và các giá trị cốt lõi.
-  - Định hướng các mục tiêu kinh doanh dài hạn.
-  - Kiến tạo một môi trường làm việc nơi mọi người có thể phát triển tốt nhất.
+  - Họp định kỳ để giải quyết các vấn đề liên bộ phận.
+  - Chuyển hóa tầm nhìn của công ty thành các mục tiêu và kế hoạch hành động cụ thể cho từng bộ phận.
+  - Đại diện cho tiếng nói của đội ngũ và đảm bảo môi trường làm việc lành mạnh, hiệu quả.
 
 ### Bộ phận Marketing
 
-Bộ phận BD là những người kể chuyện. Họ là cầu nối giữa kỹ thuật và thị trường, giúp khách hàng thấu hiểu giá trị mà sản phẩm của chúng ta mang lại.
+Bộ phận Marketing là những người kể chuyện. Họ là cầu nối giữa kỹ thuật và thị trường, giúp khách hàng thấu hiểu giá trị mà sản phẩm của chúng ta mang lại.
 
 - **Vai trò chính:** Tìm kiếm, kết nối và xây dựng mối quan hệ với khách hàng.
 - **Trách nhiệm:**
@@ -165,7 +163,7 @@ Bộ phận BD là những người kể chuyện. Họ là cầu nối giữa k
   - Đàm phán và ký kết hợp đồng.
   - Đảm bảo tiếng nói của khách hàng được lắng nghe trong toàn bộ tổ chức.
 
-### Bộ phận Development - Dev
+### Bộ phận Development
 
 Đây là những "nghệ nhân" trực tiếp tạo ra các sản phẩm công nghệ. Họ biến những ý tưởng thành hiện thực thông qua mã lệnh. Họ cũng là tiền tuyến, người đi giải quyết vấn đề trực tiếp cho khách hàng
 
@@ -175,16 +173,16 @@ Bộ phận BD là những người kể chuyện. Họ là cầu nối giữa k
   - Nghiên cứu và áp dụng các công nghệ mới.
   - Hợp tác chặt chẽ với các bộ phận khác để đảm bảo sản phẩm đáp ứng đúng nhu cầu.
 
-### Bootstrap Team
+### Bộ phận Bootstrap
 
-Bao gồm các kỹ sư hệ thống (System Engineer),  làm việc ở cấp độ giải pháp (solution-level). Mục tiêu của họ là đưa ra giải pháp tối ưu cho bài toán của khách hàng.
+Bao gồm các kỹ sư hệ thống (System Engineer), làm việc ở cấp độ giải pháp (solution-level). Mục tiêu của họ là đưa ra giải pháp tối ưu cho bài toán của khách hàng.
 
 - **Vai trò chính:** Chịu trách nhiệm phát triển Cyberk-framework, thiết lập nền tảng cho các dự án và xây dựng giải pháp kỹ thuật.
 - **Trách nhiệm:**
   - Phát triển và duy trì Cyberk-framework.
-  - Setup và cấu hình dự án ở giai đoạn ban đầu.
+  - Thiết lập và cấu hình dự án ở giai đoạn ban đầu.
   - Xây dựng tài liệu kỹ thuật và giải pháp kiến trúc.
-  - Soạn thảo proposal kỹ thuật cho khách hàng.
+  - Soạn thảo đề xuất kỹ thuật cho khách hàng.
 
 ### Bộ phận Design
 
@@ -196,7 +194,7 @@ Bộ phận Thiết kế thổi hồn vào sản phẩm. Họ đảm bảo sản
   - Xây dựng bộ nhận diện thương hiệu cho sản phẩm và công ty.
   - Đảm bảo tính nhất quán về mặt nghệ thuật và thẩm mỹ trên mọi sản phẩm.
 
-### Bộ Phận QA  
+### Bộ phận QA
 
 Bộ phận QA là những người bảo vệ cuối cùng cho chất lượng sản phẩm. Họ đảm bảo rằng mỗi sản phẩm đến tay khách hàng đều hoàn hảo và đáng tin cậy.
 
@@ -204,7 +202,7 @@ Bộ phận QA là những người bảo vệ cuối cùng cho chất lượng 
 - **Trách nhiệm:**
   - Xây dựng và thực thi các kịch bản kiểm thử.
   - Phát hiện, ghi nhận và theo dõi các lỗi.
-  - Phối hợp với bộ phận Dev để cải thiện chất lượng sản phẩm từ gốc.
+  - Phối hợp với bộ phận Development để cải thiện chất lượng sản phẩm từ gốc.
 
 ### Bộ phận Đời sống
 
@@ -255,21 +253,21 @@ Lợi thế này càng trở nên to lớn hơn khi chúng ta áp dụng "Bí qu
 
 * **Smart Contracts**: Các hợp đồng thông minh cho việc swap, cung cấp thanh khoản đã được kiểm toán (audit) và tối ưu gas. Các ABI.
 * **Backend & Indexing**: Hệ thống backend và dịch vụ index dữ liệu on-chain đã được cấu hình sẵn.
-* **Hạ tầng triển khai tự động**: Mỗi trường gần như đã sẵn sàng, các dịch vụ và kiến trúc đã sẵn sàng cho một hệ thống pahts triển từ 0-100,000 user trong 1 đêm.
-* **Frontend**: Giao diện kết nối ví, hiển thị biểu đồ, và các thành phần UI phổ biến. Các best-practice mà chỉ trong web3 mới có. Và hơn  hết chúng đã được tích hợp với Back-end, contract, hạ tầng.
-* **Documents**: Các tài liệu cần thiết cho một dự án, Như hướng dẫn cài đặt, Architecture design, ERC...etc
+* **Hạ tầng triển khai tự động**: Mỗi trường gần như đã sẵn sàng, các dịch vụ và kiến trúc đã sẵn sàng cho một hệ thống phát triển từ 0-100,000 người dùng trong một đêm.
+* **Frontend**: Giao diện kết nối ví, hiển thị biểu đồ, và các thành phần UI phổ biến. Các best-practice mà chỉ trong web3 mới có. Và hơn hết, chúng đã được tích hợp với back-end, contract, hạ tầng.
+* **Documents**: Các tài liệu cần thiết cho một dự án, như hướng dẫn cài đặt, Architecture design, ERC,...
 
-Khi khách hàng đến với một ý tưởng DEX độc đáo, chúng ta không bắt đầu từ giấy trắng. Chúng ta triển khai bộ khung này trong 1 cú click chuột, sau đó tập trung 100% nguồn lực vào việc xây dựng những tính năng đặc thù tạo nên sự khác biệt cho họ.
+Khi khách hàng đến với một ý tưởng DEX độc đáo, chúng ta không bắt đầu từ giấy trắng. Chúng ta triển khai bộ khung này trong một cú nhấp chuột, sau đó tập trung 100% nguồn lực vào việc xây dựng những tính năng đặc thù tạo nên sự khác biệt cho họ.
 
 Cách tiếp cận này mang lại những lợi thế vượt trội:
 
-* **Tốc độ không tưởng**: Thay vì mất cả tháng trời cho các tính năng cơ bản lặp lại. Chúng ta có thể ra mắt sản phẩm trong một khoảng thời gian cực ngắn vì phần lớn công việc nền tảng đã được hoàn thành và kiểm chứng.
+* **Tốc độ không tưởng**: Thay vì mất cả tháng trời cho các tính năng cơ bản lặp lại, chúng ta có thể ra mắt sản phẩm trong một khoảng thời gian cực ngắn vì phần lớn công việc nền tảng đã được hoàn thành và kiểm chứng.
 * **Chất lượng đỉnh cao**: Nền tảng của chúng ta là kết tinh của vô số kinh nghiệm thực chiến.
   * **Code-base**: Được sàng lọc, tái cấu trúc và kiểm thử qua nhiều dự án, đảm bảo sự ổn định và dễ bảo trì.
   * **Kiến trúc**: Đã được chứng minh là có thể chịu tải và mở rộng, sẵn sàng cho kịch bản tăng trưởng từ 0 lên 100,000 người dùng chỉ sau một đêm.
   * **Infrastructure**: Quy trình triển khai và hạ tầng đã được tự động hóa và tối ưu hóa, đảm bảo tính an toàn và hiệu suất cao.
 
-Vì vậy Chúng ta cần không ngừng cập nhật xu hướng thị trường để thấu hiểu các builders cần gì, trước cả khi họ nhận ra. Xây dựng chúng từ trước thêm chúng vào **cyberk-framework**, Chúng ta xây dựng một triết lý nhất quán về kiến trúc, hạ tầng và quy trình làm phần mềm. Quan trọng nhất, chúng ta **xây dựng một đội ngũ làm chủ sâu sắc những triết lý và công cụ này.**
+Vì vậy, chúng ta cần không ngừng cập nhật xu hướng thị trường để thấu hiểu các builders cần gì, trước cả khi họ nhận ra. Xây dựng chúng từ trước và thêm chúng vào **cyberk-framework**. Chúng ta xây dựng một triết lý nhất quán về kiến trúc, hạ tầng và quy trình làm phần mềm. Quan trọng nhất, chúng ta **xây dựng một đội ngũ làm chủ sâu sắc những triết lý và công cụ này.**
 
 Vì thế, khi khách hàng đến với Cyberk, họ không chỉ mua dịch vụ. Họ đang hợp tác với một đội ngũ đã chuẩn bị trước nhiều tháng trời cho chính ý tưởng của họ. Đây là một lợi thế chiến lược mà không một đối thủ nào có thể dễ dàng sao chép được.
 
@@ -321,21 +319,19 @@ Phần này mô tả chi tiết về quy trình làm việc chuẩn tại Cyberk
 - **Bàn giao liên tục cho khách hàng:** Trình bày và demo sản phẩm hàng ngày với khách hàng để nhận được phản hồi càng sớm càng tốt.
 - **Chất lượng đến từ người làm ra:** Tập trung phát hiện lỗi sớm, hướng tới một sản phẩm không cần tester.
 
-### Quy trình 6 bước
+### Quy trình 7 bước
 
 Đây là quy trình làm việc chuẩn, giúp mọi thành viên, đặc biệt là nhân viên mới, nhanh chóng nắm bắt và đóng góp hiệu quả vào dự án.
 
 1. **Proposal (Đề xuất):** Team BOD cung cấp báo giá, đề xuất và ước tính cho dự án. Bước này sẽ thống nhất về cách làm, công nghệ sử dụng, phạm vi công việc (Scope of Work) và loại dịch vụ.
-2. **Bootstrap (Khởi tạo):** Team bootstrap sẽ tiến hành cài đặt sản phẩm bằng cách lấy ra từ Cyberk framework, tinh chỉnh cho phù hợp, triển khai tất cả các thành phần quan trọng trên các môi trường dev, production, như Indexer, Frontend, Backend, Contract-sample. Họ cũng xây dựng các entity, API và các tài liệu cần thiết như, thiết kế kiến trúc (architecture design), ERC và tài liệu bàn giao (Hangover document), chuẩn bị sẵn sàng để cuối dự án không bị động.
+2. **Bootstrap (Khởi tạo):** Team bootstrap sẽ tiến hành cài đặt sản phẩm bằng cách lấy ra từ Cyberk framework, tinh chỉnh cho phù hợp, triển khai tất cả các thành phần quan trọng trên các môi trường dev, production, như Indexer, Frontend, Backend, Contract-Sample. Họ cũng xây dựng các entity, API và các tài liệu cần thiết như thiết kế kiến trúc (architecture design), ERC và tài liệu bàn giao (Handover document), chuẩn bị sẵn sàng để cuối dự án không bị động.
 3. **Planning Meeting:** Đội ngũ họp nội bộ để lên kế hoạch chi tiết.
 4. **Kick-off Meeting:** Họp với khách hàng để trình bày kế hoạch đã thống nhất ở bước 3.
-5. **Project Development:** Team tập trung phát triển các thành phần quan trọng của dự án, họp với khách hàng hằng ngày và tự demo sản phẩm để tìm ra vấn đề. Ở đây team sẽ thực hiện 3 cuộc họp quan trọng
-
-- **Daily Meeting**
-- **Daily Demo**
-- **Retrospective**
-
-6. **Quality Audit (Kiểm định chất lượng):** Team QA sẽ gửi một báo cáo "Quality Audit" để đánh giá chất lượng cuối cùng của dự án. Họ sẽ giúp tìm ra các lỗi khó phát hiện, các luồng ẩn, và đánh giá chất lượng tổng quan để team có thể sắp xếp kế hoạch hành động và cải tiến. Các báo cáo Audit này sẽ được gửi định kỳ, bắt đầu từ khi dự án ra mắt chức năng đầu tiên.
+5. **Project Development:** Team tập trung phát triển các thành phần quan trọng của dự án, họp với khách hàng hàng ngày và tự demo sản phẩm để tìm ra vấn đề. Ở đây, team sẽ thực hiện 3 cuộc họp quan trọng:
+   - **Daily Meeting**
+   - **Daily Demo**
+   - **Retrospective**
+6. **Quality Audit (Kiểm định chất lượng):** Team QA sẽ gửi một báo cáo "Quality Audit" để đánh giá chất lượng cuối cùng của dự án. Họ sẽ giúp tìm ra các lỗi khó phát hiện, các luồng ẩn, và đánh giá chất lượng tổng quan để team có thể sắp xếp kế hoạch hành động và cải tiến. Các báo cáo kiểm định (Audit) này sẽ được gửi định kỳ, bắt đầu từ khi dự án ra mắt chức năng đầu tiên.
 7. **Launch (Ra mắt sản phẩm):** Quan sát sản phẩm được sử dụng, tìm ra vấn đề và sửa ngay khi phát hiện.
 
 Khi có yêu cầu mới, quy trình sẽ lặp lại từ bước 1.
@@ -352,20 +348,20 @@ Chính để giải quyết vấn đề này, **Planning Meeting (Internal Kick-
 
 Internal Kickoff Meeting là buổi họp khởi động nội bộ, diễn ra **trước khi bắt tay vào phát triển**. Mục tiêu chính bao gồm:
 
-- **Cả team Hiểu rõ yêu cầu**: Toàn bộ thành viên hiểu đúng và thống nhất về PRD, phạm vi và yêu cầu tính năng. **Hiểu sản phẩm**: Cả team nắm được sản phẩm là gì, giải quyết vấn đề nào cho ai.
-- **Hoàn thành được Planning Report** : Thảo luận và điền vào Planning Template – phân rõ task, deadline, và người phụ trách.
-- **Đồng bộ kỳ vọng**: Mọi người cùng hiểu mục tiêu, cách phối hợp, timeline, và trách nhiệm từng vai trò. Kỳ vọng của công ty, Kỳ vọng của khách hàng. Và cách triển khai dự án.
+- **Hiểu rõ yêu cầu**: Toàn bộ thành viên hiểu đúng và thống nhất về PRD, phạm vi và yêu cầu tính năng. **Hiểu sản phẩm**: Cả team nắm được sản phẩm là gì, giải quyết vấn đề nào cho ai.
+- **Hoàn thành Planning Report**: Thảo luận và điền vào Planning Template – phân rõ task, deadline, và người phụ trách.
+- **Đồng bộ kỳ vọng**: Mọi người cùng hiểu mục tiêu, cách phối hợp, timeline, và trách nhiệm từng vai trò, kỳ vọng của công ty, kỳ vọng của khách hàng và cách triển khai dự án.
 
 Những yếu tố tạo nên một buổi kick-off thành công:
 
 - Leader chuẩn bị kỹ: Có overview sản phẩm rõ ràng, nắm vững yêu cầu và dẫn dắt buổi họp mạch lạc.
-- Team tham **gia đầy đủ và chủ động**: Mọi người đọc trước PRD, sẵn sàng đặt câu hỏi và góp ý vào plan.
-- Đảm bảo Key-member bắt buộc phải tham gia
+- Các thành viên tham **gia đầy đủ và chủ động**: Mọi người đọc trước PRD, sẵn sàng đặt câu hỏi và góp ý vào plan.
+- Đảm bảo các thành viên chủ chốt (key members) bắt buộc phải tham gia.
 - Thảo luận tập trung – kết luận rõ ràng: Không lan man, mỗi phần đều có chốt cuối cùng (ai làm, khi nào xong).
-- **Hoàn thành được Planning Report** ngay sau buổi họp: Kế hoạch có thể gửi khách hàng/Anderson ngay trong ngày.
+- **Hoàn thành Planning Report** ngay sau buổi họp: Kế hoạch có thể gửi khách hàng/Anderson ngay trong ngày.
 - Xác định sớm rủi ro và điểm chưa rõ để follow-up với khách hàng kịp thời.
 
-Những điều cần tránh trong buổi kickoff meeting
+Những điều cần tránh trong buổi Planning Meeting:
 
 1. **Không có người dẫn dắt (facilitator)** → buổi họp sẽ dễ loãng, không rõ mục tiêu, không có quyết định cuối cùng.
 2. **Chưa đọc trước PRD** → mất thời gian giải thích lại từ đầu, không có chiều sâu trong thảo luận.
@@ -400,7 +396,7 @@ Mục tiêu chính của Daily Meeting bao gồm:
 
 Những điều cần tránh trong Daily Meeting:
 
-- **Sa đà vào giải quyết vấn đề kỹ thuật:** Đây là một cái bẫy phổ biến làm lãng phí thời gian của cả nhóm. Nếu có một vấn đề kỹ thuật phức tạp, hãy ghi nhận và thảo luận riêng với dev-lead hoặc người có chuyên môn ngay sau buổi họp. Đừng để cả nhóm phải ngồi "bàn" về một vấn đề không liên quan đến họ.
+- **Sa đà vào giải quyết vấn đề kỹ thuật.** Đây là một cái bẫy phổ biến làm lãng phí thời gian của cả nhóm. Nếu có một vấn đề kỹ thuật phức tạp, hãy ghi nhận và thảo luận riêng với dev-lead hoặc người có chuyên môn ngay sau buổi họp. Đừng để cả nhóm phải ngồi "bàn" về một vấn đề không liên quan đến họ.
 - **Báo cáo cho có:** Buổi họp nên tập trung vào sản phẩm: tính năng nào đã hoàn thành, cái nào đã sẵn sàng cho người dùng, và bức tranh tổng thể của dự án đang ra sao. Nó không phải là nơi để liệt kê một danh sách dài các "task" đã làm.
 - **Kéo dài lê thê:** Thời gian là vàng. Buổi họp này cần nhanh, gọn và hiệu quả, lý tưởng nhất là **dưới 30 phút** nhưng cũng không nên ngắn hơn 10 phút để đảm bảo mọi người có đủ thời gian chia sẻ và "săn bug".
 
@@ -423,7 +419,7 @@ Những điều cần tránh trong Daily Demo:
 
 ### 5. Retrospective Meeting
 
-Retrospective là cuộc họp hằng tuần, Mục đích của nó là để cả team ngồi lại với nhau và cùng nhìn lại về quá trình đã làm của của dự án để tìm ra cơ hội cải tiến.
+Retrospective là cuộc họp hàng tuần. Mục đích của nó là để cả team ngồi lại với nhau và cùng nhìn lại quá trình làm việc của dự án để tìm ra cơ hội cải tiến.
 
 Đã bao giờ bạn ngồi trong một cuộc họp, có ý tưởng nhưng lại ngần ngại không nói ra vì sợ mình "khác biệt", sợ ý kiến của mình sẽ bị gạt đi? Tình trạng đó được gọi là "tư duy tập thể" (groupthink), và nó chính là rào cản lớn nhất của sự cải tiến. Khi mọi người chọn im lặng để giữ hòa khí, chúng ta đã vô tình chấp nhận những quy trình chưa tốt, những vấn đề tiềm ẩn và đánh mất cơ hội để trở nên tốt hơn.
 
@@ -436,17 +432,17 @@ Retrospective là nơi chúng ta đối thoại với các vấn đề một cá
 
 ## Phần 5: Hướng đến một tổ chức tự học
 
-### Xây dựng tổ chức tự học
+### Xây Dựng Tổ Chức Tự Học
 
 
-Hàng ngày chúng ta có các lớp học, các lớp học này luôn ready và sẵn có vào 5h30 hằng ngày ở sảnh tầng 1, Chúng được thiết kế để việc học trở nên cực kỳ thuận tiện. Mọi người không thể cưỡng lại "cám dỗ" của việc học.
+Hàng ngày, chúng ta có các lớp học luôn sẵn sàng vào 5h30 ở sảnh tầng 1. Chúng được thiết kế để việc học trở nên cực kỳ thuận tiện, đến mức mọi người khó có thể cưỡng lại "cám dỗ" của việc học.
 
-- **Các lớp Seminar:** Là các "lớp học dã chiến" được dựng lên ngay khi chúng ta tìm ra một công nghệ, kỹ năng, cải tiến mới cần phổ cập ngay
+- **Các lớp Seminar:** Là các "lớp học dã chiến" được dựng lên ngay khi chúng ta tìm ra một công nghệ, kỹ năng, hay cải tiến mới cần phổ cập ngay.
 - **Các buổi trình bày:** Về công nghệ mới, về những dự án nổi bật trên thị trường để chúng ta cùng học hỏi từ các case-study thành công, làm giàu vốn tư vấn cho khách hàng.
 
-**Tự học:** Nếu các lớp học cho chúng ta "cản hứng", thì chính việc tự học mới biến "cảm hứng" đó thành "kỹ năng" thực thụ.
+**Tự học:** Nếu các lớp học cho chúng ta "cảm hứng", thì chính việc tự học mới biến "cảm hứng" đó thành "kỹ năng" thực thụ.
 
-**Học đi đôi với Hành** Như cách Bác Hồ đã dạy: "Học đi đôi với hành". Đây là lúc chúng ta thực sự mài giũa tay nghề để trở thành những người nghệ nhân. Hãy coi mỗi dự án là nơi mà ta được thực hành những kỹ năng mới. Hãy luôn tự hỏi, qua dự án này thì ta sẽ biết thêm điều gì.
+**Học đi đôi với Hành:** Như Bác Hồ đã dạy: "Học đi đôi với hành". Đây là lúc chúng ta thực sự mài giũa tay nghề để trở thành những người nghệ nhân. Hãy coi mỗi dự án là nơi mà ta được thực hành những kỹ năng mới. Hãy luôn tự hỏi, qua dự án này thì ta sẽ biết thêm điều gì.
 
 Chừng nào ngọn lửa ham học hỏi này còn cháy trong mỗi thành viên, chừng nào chúng ta còn xem mỗi thử thách là một bài học, thì chừng đó Cyberk vẫn sẽ tiếp tục tiến về phía trước. Sự phát triển của tổ chức không nằm ở đâu khác, mà nằm ở chính sự trưởng thành của mỗi chúng ta.
 
@@ -461,7 +457,7 @@ Chừng nào ngọn lửa ham học hỏi này còn cháy trong mỗi thành vi�
 - [Phần 2: Giới thiệu về Cyberk](#phn-2-gii-thiu-v-cyberk)
   - [2.1. Sứ Mệnh: Cách Chúng Ta Làm](#21-s-mnh-cch-chng-ta-lm)
   - [2.2. Giá Trị Cốt Lõi](#22-gi-tr-ct-li)
-  - [2.3. Tổng quan về Cyberk](#23-tng-quan-v-cyberk)
+  - [2.3. Tổng Quan về Cyberk](#23-tng-quan-v-cyberk)
   - [2.4. Các Mô Hình Dịch Vụ](#24-cc-m-hnh-dch-v)
   - [2.5. Cơ Cấu Tổ Chức Cyberk](#25-c-cu-t-chc-cyberk)
 - [Phần 3: Bí quyết Cyberk](#phn-3-b-quyt-cyberk)
@@ -472,4 +468,4 @@ Chừng nào ngọn lửa ham học hỏi này còn cháy trong mỗi thành vi�
   - [4.1. Quy trình tổng quan](#41-quy-trnh-tng-quan)
   - [4.2. Các cuộc họp quan trọng](#42-cc-cuc-hp-quan-trng)
 - [Phần 5: Hướng đến một tổ chức tự học](#phn-5-hng-n-mt-t-chc-t-hc)
-  - [Xây dựng tổ chức tự học](#xy-dng-t-chc-t-hc)
+  - [Xây Dựng Tổ Chức Tự Học](#xy-dng-t-chc-t-hc)
