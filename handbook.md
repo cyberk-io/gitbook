@@ -2,24 +2,19 @@
 
 ### Lời nói đầu
 
-
 Cuốn sách này, "The Cyberk Way", được viết ra để ghi lại hành trình, những bài học kinh nghiệm, và định hướng phát triển đã định hình nên Cyberk. Giống như Toyota có "Toyota Way", đây là cách chúng ta ghi dấu lại cách làm của mình, đảm bảo rằng những giá trị và phương pháp làm việc cốt lõi sẽ không bị lãng quên và dễ dàng được tiếp nối bởi các thành viên trong tương lai.
 
 Mọi người có thể sẽ ngại đọc, vì vậy nó được viết để ai cũng có thể đọc trong vòng 5-10 phút. Lối viết sao cho đơn giản, dễ hiểu và không cần phải giải thích lại để làm rõ.
 
 Mục tiêu của việc đọc sách này là cho mọi người nhanh chóng thích nghi với "Cyberk Way" - Tinh thần làm việc làm nên chúng ta.
 
-
 ### Về Cuốn Cẩm Nang Này
 
-
-Chào mừng bạn đến với Cẩm nang Cyberk. Hãy xem đây là tài liệu nguồn cho mọi thông tin về cách chúng ta làm việc, hợp tác và phát triển cùng nhau. Nó là kim chỉ nam giúp bạn tìm thấy câu trả lời cho hầu hết các câu hỏi về văn hóa làm việc của chúng ta.
+Hãy xem đây là tài liệu nguồn cho mọi thông tin về cách chúng ta làm việc, hợp tác và phát triển cùng nhau. Nó là kim chỉ nam giúp bạn tìm thấy câu trả lời cho hầu hết các câu hỏi về văn hóa làm việc của chúng ta.
 
 Tuy nhiên, cần nhớ rằng đây là một tài liệu sống, không phải là một văn bản tĩnh. Nó sẽ liên tục được cập nhật để phản ánh những bài học và sự tiến hóa trong cách chúng ta làm việc. Nó cũng không phải là một bộ quy tắc cứng nhắc để giới hạn sự sáng tạo của bạn, và chắc chắn không thể thay thế những cuộc trò chuyện trực tiếp giữa người với người. Hãy luôn ưu tiên đối thoại.
 
-
 ### Câu Chuyện Cyberk - Lời Của Tác Giả
-
 
 Câu chuyện bắt đầu vào năm 2012, khi tôi (Anderson) và Huy tình cờ được xếp chung phòng đại học.
 
@@ -51,11 +46,9 @@ Năm 2022, chúng tôi tập trung xây dựng một lời hứa với khách h�
 
 Vì vậy, tôi ngồi lại và viết ra cuốn sách này, để ghi lại cách làm để cho mọi người cùng rõ.
 
-
 ## Phần 1: Chân dung khách hàng
 
 ### Web3 Builder
-
 
 **Builder:** Khách hàng của chúng ta, xuất thân họ là những nhà khởi nghiệp hoặc các doanh nhân đam mê về công nghệ, Quỹ đầu tư mạo hiểm, Innovation-hub của một bigtech. Cái họ mong muốn là được làm ra một sản phẩm có thể thay đổi thế giới.
 
@@ -67,11 +60,9 @@ Tài chính của họ cũng không phải dư giả, hoặc quỹ của họ d�
 
 Vậy chiến lược của họ là sẽ làm thật nhỏ, gọn sao cho tới tay người dùng mục tiêu nhanh nhất có thể, sau đó họ sẽ tiến hành đánh giá, đo lường và kết luận. Họ sẽ quay lại với ý tưởng và đưa ra các thay đổi để sao cho phù hợp với nhu cầu của người dùng. Vì thế, họ thường có xu hướng thay đổi ý tưởng liên tục.
 
-
 ## Phần 2: Giới thiệu về Cyberk
 
-### 2.1. Sứ Mệnh: Cách Chúng Ta Làm
-
+### 2.1. Sứ Mệnh: mục đích của Cyberk
 
 **Mission: Kiến tạo đột phá:** Làm cho việc khởi nghiệp công nghệ trở nên dễ dàng và đơn giản!
 
@@ -83,9 +74,7 @@ Sản phẩm phải luôn trong trạng thái sẵn sàng khi được đón nh�
 
 Cuối cùng, chúng ta luôn hiểu rõ các công nghệ mới nhất để có thể cùng đối thoại với họ về ý tưởng, giúp họ không mất thời gian giải thích và chúng ta có thể đóng góp vào sản phẩm ở góc độ kỹ thuật. Chúng ta tập trung vào việc biến việc khởi nghiệp này trở nên dễ dàng, đơn giản và tiết kiệm bằng cách giúp họ làm chủ các **công nghệ mới nhất** và là những người đầu tiên hiểu và biết cách đưa chúng vào thực tế.
 
-
 ### 2.2. Giá Trị Cốt Lõi
-
 
 Tại Cyberk, chúng ta không có một bộ quy tắc phức tạp. Thay vào đó, chúng ta có một chiếc la bàn với bốn giá trị cốt lõi. Đây là nền tảng để chúng ta ra quyết định, hành động và đối xử với nhau mỗi ngày.
 
@@ -99,9 +88,7 @@ Tại Cyberk, chúng ta không có một bộ quy tắc phức tạp. Thay vào 
 
 **Tín:** Là lý do khách hàng đến với ta, ở lại với ta, giới thiệu bạn bè của họ cho chúng ta. Nó được xây dựng bằng cam kết, kết quả, chất lượng sản phẩm.
 
-
 ### 2.3. Tổng Quan về Cyberk
-
 
 **Chúng ta là một tổ chức tinh gọn** với dưới 50 thành viên, được xây dựng dựa trên nguyên tắc "nghệ nhân làm việc với nghệ nhân". Đây là nơi chúng ta cùng nhau theo đuổi tinh thần nghệ nhân thực thụ: tỉ mỉ trong từng sản phẩm và tự hào về tay nghề của mình.
 
@@ -109,9 +96,7 @@ Mô hình phát triển của chúng ta dựa trên sự dìu dắt: người nh
 
 Chúng ta cũng nhận thức sâu sắc rằng mình đang sống trong một thời đại của sự cô đơn, nơi guồng quay của công việc 8 tiếng và bốn bức tường có thể làm con người xa cách. Vì thế, Cyberk không chỉ là một công ty. Chúng ta kiến tạo một cộng đồng, nơi những mối quan hệ anh chị em là một phần không thể thiếu của cuộc sống. Ở đây không chỉ có quan hệ đồng nghiệp, mà còn là tình bạn, là sự gắn kết giữa gia đình với gia đình.
 
-
 ### 2.4. Các Mô Hình Dịch Vụ
-
 
 Để thực thi sứ mệnh của mình, chúng ta cung cấp hai mô hình dịch vụ linh hoạt, tùy thuộc vào giai đoạn và nhu cầu của khách hàng:
 
@@ -133,9 +118,7 @@ Với mô hình này, chúng ta hoạt động như một bộ phận công ngh�
 
 Điều này có nghĩa là chúng ta không chỉ nhận yêu cầu và làm theo. Trách nhiệm của chúng ta là đóng vai trò của một chuyên gia, thấu hiểu bài toán kinh doanh của họ và chủ động đưa ra giải pháp công nghệ tốt nhất. Chúng ta suy nghĩ thay cho khách hàng, dự đoán những rủi ro và tư vấn cho họ con đường hiệu quả nhất. Đây chính là giá trị lớn nhất mà chúng ta mang lại.
 
-
 ### 2.5. Cơ Cấu Tổ Chức Cyberk
-
 
 Tại Cyberk, chúng ta không xây dựng một hệ thống cấp bậc phức tạp. Thay vào đó, chúng ta kiến tạo một hệ sinh thái gồm các bộ phận chuyên môn cao, hoạt động như những người nghệ nhân, cùng nhau hợp tác để tạo ra sản phẩm tốt nhất cho khách hàng.
 
@@ -147,78 +130,76 @@ Cấu trúc của chúng ta được thiết kế để tối ưu hóa sự hợ
 
 Bao gồm các trưởng bộ phận, Ban Điều Hành là nhóm chịu trách nhiệm dẫn dắt, đồng bộ hóa hoạt động và định hướng chiến lược chung cho Cyberk. Họ không chỉ quản lý bộ phận của mình mà còn hợp tác chặt chẽ để đảm bảo toàn bộ công ty vận hành như một thể thống nhất, hướng tới cùng một mục tiêu.
 
-- **Vai trò chính:** Đồng bộ hóa chiến lược giữa các bộ phận, đưa ra các quyết định vận hành quan trọng, và nuôi dưỡng văn hóa công ty.
-- **Trách nhiệm:**
-  - Họp định kỳ để giải quyết các vấn đề liên bộ phận.
-  - Chuyển hóa tầm nhìn của công ty thành các mục tiêu và kế hoạch hành động cụ thể cho từng bộ phận.
-  - Đại diện cho tiếng nói của đội ngũ và đảm bảo môi trường làm việc lành mạnh, hiệu quả.
+* **Vai trò chính:** Đồng bộ hóa chiến lược giữa các bộ phận, đưa ra các quyết định vận hành quan trọng, và nuôi dưỡng văn hóa công ty.
+* **Trách nhiệm:**
+  * Họp định kỳ để giải quyết các vấn đề liên bộ phận.
+  * Chuyển hóa tầm nhìn của công ty thành các mục tiêu và kế hoạch hành động cụ thể cho từng bộ phận.
+  * Đại diện cho tiếng nói của đội ngũ và đảm bảo môi trường làm việc lành mạnh, hiệu quả.
 
 ### Bộ phận Marketing
 
 Bộ phận Marketing là những người kể chuyện. Họ là cầu nối giữa kỹ thuật và thị trường, giúp khách hàng thấu hiểu giá trị mà sản phẩm của chúng ta mang lại.
 
-- **Vai trò chính:** Tìm kiếm, kết nối và xây dựng mối quan hệ với khách hàng.
-- **Trách nhiệm:**
-  - Truyền tải câu chuyện về sản phẩm và cách chúng ta làm việc.
-  - Đàm phán và ký kết hợp đồng.
-  - Đảm bảo tiếng nói của khách hàng được lắng nghe trong toàn bộ tổ chức.
+* **Vai trò chính:** Tìm kiếm, kết nối và xây dựng mối quan hệ với khách hàng.
+* **Trách nhiệm:**
+  * Truyền tải câu chuyện về sản phẩm và cách chúng ta làm việc.
+  * Đàm phán và ký kết hợp đồng.
+  * Đảm bảo tiếng nói của khách hàng được lắng nghe trong toàn bộ tổ chức.
 
 ### Bộ phận Development
 
 Đây là những "nghệ nhân" trực tiếp tạo ra các sản phẩm công nghệ. Họ biến những ý tưởng thành hiện thực thông qua mã lệnh. Họ cũng là tiền tuyến, người đi giải quyết vấn đề trực tiếp cho khách hàng
 
-- **Vai trò chính:** Giao tiếp với khách hàng, đảm bảo thông tin minh bạch. Chịu trách nhiệm phát triển và hoàn thiện các tính năng của sản phẩm.
-- **Trách nhiệm:**
-  - Viết mã nguồn chất lượng cao, dễ bảo trì.
-  - Nghiên cứu và áp dụng các công nghệ mới.
-  - Hợp tác chặt chẽ với các bộ phận khác để đảm bảo sản phẩm đáp ứng đúng nhu cầu.
+* **Vai trò chính:** Giao tiếp với khách hàng, đảm bảo thông tin minh bạch. Chịu trách nhiệm phát triển và hoàn thiện các tính năng của sản phẩm.
+* **Trách nhiệm:**
+  * Viết mã nguồn chất lượng cao, dễ bảo trì.
+  * Nghiên cứu và áp dụng các công nghệ mới.
+  * Hợp tác chặt chẽ với các bộ phận khác để đảm bảo sản phẩm đáp ứng đúng nhu cầu.
 
 ### Bộ phận Bootstrap
 
 Bao gồm các kỹ sư hệ thống (System Engineer), làm việc ở cấp độ giải pháp (solution-level). Mục tiêu của họ là đưa ra giải pháp tối ưu cho bài toán của khách hàng.
 
-- **Vai trò chính:** Chịu trách nhiệm phát triển Cyberk-framework, thiết lập nền tảng cho các dự án và xây dựng giải pháp kỹ thuật.
-- **Trách nhiệm:**
-  - Phát triển và duy trì Cyberk-framework.
-  - Thiết lập và cấu hình dự án ở giai đoạn ban đầu.
-  - Xây dựng tài liệu kỹ thuật và giải pháp kiến trúc.
-  - Soạn thảo đề xuất kỹ thuật cho khách hàng.
+* **Vai trò chính:** Chịu trách nhiệm phát triển Cyberk-framework, thiết lập nền tảng cho các dự án và xây dựng giải pháp kỹ thuật.
+* **Trách nhiệm:**
+  * Phát triển và duy trì Cyberk-framework.
+  * Thiết lập và cấu hình dự án ở giai đoạn ban đầu.
+  * Xây dựng tài liệu kỹ thuật và giải pháp kiến trúc.
+  * Soạn thảo đề xuất kỹ thuật cho khách hàng.
 
 ### Bộ phận Design
 
 Bộ phận Thiết kế thổi hồn vào sản phẩm. Họ đảm bảo sản phẩm không chỉ hoạt động tốt mà còn mang lại trải nghiệm thẩm mỹ và dễ sử dụng.
 
-- **Vai trò chính:** Chịu trách nhiệm về mặt hình ảnh, trải nghiệm người dùng (UX) và giao diện người dùng (UI) của sản phẩm.
-- **Trách nhiệm:**
-  - Thiết kế giao diện và luồng tương tác của người dùng.
-  - Xây dựng bộ nhận diện thương hiệu cho sản phẩm và công ty.
-  - Đảm bảo tính nhất quán về mặt nghệ thuật và thẩm mỹ trên mọi sản phẩm.
+* **Vai trò chính:** Chịu trách nhiệm về mặt hình ảnh, trải nghiệm người dùng (UX) và giao diện người dùng (UI) của sản phẩm.
+* **Trách nhiệm:**
+  * Thiết kế giao diện và luồng tương tác của người dùng.
+  * Xây dựng bộ nhận diện thương hiệu cho sản phẩm và công ty.
+  * Đảm bảo tính nhất quán về mặt nghệ thuật và thẩm mỹ trên mọi sản phẩm.
 
 ### Bộ phận QA
 
 Bộ phận QA là những người bảo vệ cuối cùng cho chất lượng sản phẩm. Họ đảm bảo rằng mỗi sản phẩm đến tay khách hàng đều hoàn hảo và đáng tin cậy.
 
-- **Vai trò chính:** Kiểm tra và đảm bảo chất lượng sản phẩm trước khi phát hành.
-- **Trách nhiệm:**
-  - Xây dựng và thực thi các kịch bản kiểm thử.
-  - Phát hiện, ghi nhận và theo dõi các lỗi.
-  - Phối hợp với bộ phận Development để cải thiện chất lượng sản phẩm từ gốc.
+* **Vai trò chính:** Kiểm tra và đảm bảo chất lượng sản phẩm trước khi phát hành.
+* **Trách nhiệm:**
+  * Xây dựng và thực thi các kịch bản kiểm thử.
+  * Phát hiện, ghi nhận và theo dõi các lỗi.
+  * Phối hợp với bộ phận Development để cải thiện chất lượng sản phẩm từ gốc.
 
 ### Bộ phận Đời sống
 
 Đây là bộ phận chăm sóc "trái tim" của công ty. Họ tạo ra một môi trường làm việc tích cực, nơi mọi người cảm thấy được quan tâm và gắn kết.
 
-- **Vai trò chính:** Chăm lo các hoạt động văn hóa, tinh thần và đời sống hàng ngày của các thành viên.
-- **Trách nhiệm:**
-  - Tổ chức các hoạt động nội bộ, team building.
-  - Hỗ trợ các vấn đề hành chính, nhân sự.
-  - Lắng nghe và cải thiện môi trường làm việc để mọi người luôn cảm thấy vui vẻ và được truyền cảm hứng.
-
+* **Vai trò chính:** Chăm lo các hoạt động văn hóa, tinh thần và đời sống hàng ngày của các thành viên.
+* **Trách nhiệm:**
+  * Tổ chức các hoạt động nội bộ, team building.
+  * Hỗ trợ các vấn đề hành chính, nhân sự.
+  * Lắng nghe và cải thiện môi trường làm việc để mọi người luôn cảm thấy vui vẻ và được truyền cảm hứng.
 
 ## Phần 3: Bí quyết Cyberk
 
 ### 3.1. Bí Quyết 1: Chăm hay không bằng tay quen
-
 
 > "Tôi không sợ người luyện tập 10,000 cú đá chỉ một lần, mà sợ người luyện tập một cú đá 10,000 lần." - Lý Tiểu Long
 
@@ -241,9 +222,7 @@ Việc này đòi hỏi một sự đánh đổi lớn:
 
 Bằng cách đào sâu và làm chủ cuộc chơi của chính mình, chúng ta tạo ra một hiệu suất và giá trị vượt trội. Đây chính là thế mạnh mà không ai có thể đánh bại, là nền tảng để chúng ta xây dựng lòng tin với khách hàng và kiến tạo những sản phẩm thực sự có giá trị.
 
-
 ### 3.2. Bí quyết 2: Dĩ bất biến, ứng vạn biến
-
 
 Trong thế giới web3 muôn hình vạn trạng, mỗi dự án của khách hàng là một bài toán độc nhất ("vạn biến"). Tuy nhiên, nếu nhìn sâu hơn, chúng ta sẽ thấy có những quy luật và thành phần cốt lõi gần như không bao giờ thay đổi ("bất biến"). Đó là kiến trúc cơ sở dữ liệu, tính năng đăng nhập, các mẫu hợp đồng thông minh, bộ công nghệ (tech-stack) hay cấu trúc hạ tầng (infrastructure).
 
@@ -271,9 +250,7 @@ Vì vậy, chúng ta cần không ngừng cập nhật xu hướng thị trườ
 
 Vì thế, khi khách hàng đến với Cyberk, họ không chỉ mua dịch vụ. Họ đang hợp tác với một đội ngũ đã chuẩn bị trước nhiều tháng trời cho chính ý tưởng của họ. Đây là một lợi thế chiến lược mà không một đối thủ nào có thể dễ dàng sao chép được.
 
-
 ### 3.3. Bí quyết 3: Trăm nghe không bằng một thấy
-
 
 Ở Cyberk, chúng ta sống với triết lý "Trăm nghe không bằng một thấy". Thay vì trình bày, chúng ta mang sản phẩm cho khách hàng dùng thử mỗi ngày. Thay vì tốn thời gian mô tả lỗi, chúng ta ngồi lại cùng nhau để "bắt bugs" trực tiếp. Chúng ta tin rằng việc trải nghiệm sản phẩm một cách hữu hình là con đường ngắn nhất và hiệu quả nhất để biến ý tưởng thành giá trị.
 
@@ -294,11 +271,9 @@ Vì thế, khi khách hàng đến với Cyberk, họ không chỉ mua dịch v�
 
 Sự kết hợp này cho phép chúng ta **làm việc thông minh hơn, không phải vất vả hơn (Work smart, not hard)**. Chúng ta không chỉ xây dựng sản phẩm, chúng ta xây dựng đúng sản phẩm, một cách hiệu quả nhất.
 
-
 ## Phần 4: Quy trình làm việc tại Cyberk
 
 ### 4.1. Quy trình tổng quan
-
 
 Phần này mô tả chi tiết về quy trình làm việc chuẩn tại Cyberk, từ các nguyên tắc nền tảng đến các bước thực thi cụ thể trong dự án.
 
@@ -315,9 +290,9 @@ Phần này mô tả chi tiết về quy trình làm việc chuẩn tại Cyberk
 
 Đây là những triết lý nền tảng, là kim chỉ nam cho mọi hoạt động phát triển phần mềm tại Cyberk.
 
-- **Luôn sẵn sàng bàn giao:** Đảm bảo môi trường (dev-test-prod) và tài liệu luôn được cài đặt và sẵn sàng từ ngày đầu tiên.
-- **Bàn giao liên tục cho khách hàng:** Trình bày và demo sản phẩm hàng ngày với khách hàng để nhận được phản hồi càng sớm càng tốt.
-- **Chất lượng đến từ người làm ra:** Tập trung phát hiện lỗi sớm, hướng tới một sản phẩm không cần tester.
+* **Luôn sẵn sàng bàn giao:** Đảm bảo môi trường (dev-test-prod) và tài liệu luôn được cài đặt và sẵn sàng từ ngày đầu tiên.
+* **Bàn giao liên tục cho khách hàng:** Trình bày và demo sản phẩm hàng ngày với khách hàng để nhận được phản hồi càng sớm càng tốt.
+* **Chất lượng đến từ người làm ra:** Tập trung phát hiện lỗi sớm, hướng tới một sản phẩm không cần tester.
 
 ### Quy trình 7 bước
 
@@ -328,17 +303,15 @@ Phần này mô tả chi tiết về quy trình làm việc chuẩn tại Cyberk
 3. **Planning Meeting:** Đội ngũ họp nội bộ để lên kế hoạch chi tiết.
 4. **Kick-off Meeting:** Họp với khách hàng để trình bày kế hoạch đã thống nhất ở bước 3.
 5. **Project Development:** Team tập trung phát triển các thành phần quan trọng của dự án, họp với khách hàng hàng ngày và tự demo sản phẩm để tìm ra vấn đề. Ở đây, team sẽ thực hiện 3 cuộc họp quan trọng:
-   - **Daily Meeting**
-   - **Daily Demo**
-   - **Retrospective**
+   * **Daily Meeting**
+   * **Daily Demo**
+   * **Retrospective**
 6. **Quality Audit (Kiểm định chất lượng):** Team QA sẽ gửi một báo cáo "Quality Audit" để đánh giá chất lượng cuối cùng của dự án. Họ sẽ giúp tìm ra các lỗi khó phát hiện, các luồng ẩn, và đánh giá chất lượng tổng quan để team có thể sắp xếp kế hoạch hành động và cải tiến. Các báo cáo kiểm định (Audit) này sẽ được gửi định kỳ, bắt đầu từ khi dự án ra mắt chức năng đầu tiên.
 7. **Launch (Ra mắt sản phẩm):** Quan sát sản phẩm được sử dụng, tìm ra vấn đề và sửa ngay khi phát hiện.
 
 Khi có yêu cầu mới, quy trình sẽ lặp lại từ bước 1.
 
-
 ### 4.2. Các cuộc họp quan trọng
-
 
 ### 1. Planning Meeting
 
@@ -348,18 +321,18 @@ Chính để giải quyết vấn đề này, **Planning Meeting (Internal Kick-
 
 Internal Kickoff Meeting là buổi họp khởi động nội bộ, diễn ra **trước khi bắt tay vào phát triển**. Mục tiêu chính bao gồm:
 
-- **Hiểu rõ yêu cầu**: Toàn bộ thành viên hiểu đúng và thống nhất về PRD, phạm vi và yêu cầu tính năng. **Hiểu sản phẩm**: Cả team nắm được sản phẩm là gì, giải quyết vấn đề nào cho ai.
-- **Hoàn thành Planning Report**: Thảo luận và điền vào Planning Template – phân rõ task, deadline, và người phụ trách.
-- **Đồng bộ kỳ vọng**: Mọi người cùng hiểu mục tiêu, cách phối hợp, timeline, và trách nhiệm từng vai trò, kỳ vọng của công ty, kỳ vọng của khách hàng và cách triển khai dự án.
+* **Hiểu rõ yêu cầu**: Toàn bộ thành viên hiểu đúng và thống nhất về PRD, phạm vi và yêu cầu tính năng. **Hiểu sản phẩm**: Cả team nắm được sản phẩm là gì, giải quyết vấn đề nào cho ai.
+* **Hoàn thành Planning Report**: Thảo luận và điền vào Planning Template – phân rõ task, deadline, và người phụ trách.
+* **Đồng bộ kỳ vọng**: Mọi người cùng hiểu mục tiêu, cách phối hợp, timeline, và trách nhiệm từng vai trò, kỳ vọng của công ty, kỳ vọng của khách hàng và cách triển khai dự án.
 
 Những yếu tố tạo nên một buổi kick-off thành công:
 
-- Leader chuẩn bị kỹ: Có overview sản phẩm rõ ràng, nắm vững yêu cầu và dẫn dắt buổi họp mạch lạc.
-- Các thành viên tham **gia đầy đủ và chủ động**: Mọi người đọc trước PRD, sẵn sàng đặt câu hỏi và góp ý vào plan.
-- Đảm bảo các thành viên chủ chốt (key members) bắt buộc phải tham gia.
-- Thảo luận tập trung – kết luận rõ ràng: Không lan man, mỗi phần đều có chốt cuối cùng (ai làm, khi nào xong).
-- **Hoàn thành Planning Report** ngay sau buổi họp: Kế hoạch có thể gửi khách hàng/Anderson ngay trong ngày.
-- Xác định sớm rủi ro và điểm chưa rõ để follow-up với khách hàng kịp thời.
+* Leader chuẩn bị kỹ: Có overview sản phẩm rõ ràng, nắm vững yêu cầu và dẫn dắt buổi họp mạch lạc.
+* Các thành viên tham **gia đầy đủ và chủ động**: Mọi người đọc trước PRD, sẵn sàng đặt câu hỏi và góp ý vào plan.
+* Đảm bảo các thành viên chủ chốt (key members) bắt buộc phải tham gia.
+* Thảo luận tập trung – kết luận rõ ràng: Không lan man, mỗi phần đều có chốt cuối cùng (ai làm, khi nào xong).
+* **Hoàn thành Planning Report** ngay sau buổi họp: Kế hoạch có thể gửi khách hàng/Anderson ngay trong ngày.
+* Xác định sớm rủi ro và điểm chưa rõ để follow-up với khách hàng kịp thời.
 
 Những điều cần tránh trong buổi Planning Meeting:
 
@@ -375,9 +348,9 @@ Ngay sau buổi **Planning Meeting** và cả đội đã thống nhất về k�
 
 **Mục đích chính:**
 
-- **Trình bày kế hoạch**: Dev-lead trình bày kế hoạch, timeline, và cách tiếp cận dự án đã được thống nhất nội bộ để đảm bảo hai bên có chung một tầm nhìn.
-- **Kêu gọi sự hợp tác**: Mời khách hàng tham gia vào quy trình **Daily Demo**. Chúng ta nhấn mạnh rằng sự phản hồi sớm của họ là yếu tố then chốt để xây dựng sản phẩm đúng mong muốn, giúp chúng ta tránh lãng phí công sức.
-- **Xây dựng quan hệ**: Là cơ hội để team và khách hàng làm quen, tạo dựng sự tin tưởng và một kênh giao tiếp cởi mở.
+* **Trình bày kế hoạch**: Dev-lead trình bày kế hoạch, timeline, và cách tiếp cận dự án đã được thống nhất nội bộ để đảm bảo hai bên có chung một tầm nhìn.
+* **Kêu gọi sự hợp tác**: Mời khách hàng tham gia vào quy trình **Daily Demo**. Chúng ta nhấn mạnh rằng sự phản hồi sớm của họ là yếu tố then chốt để xây dựng sản phẩm đúng mong muốn, giúp chúng ta tránh lãng phí công sức.
+* **Xây dựng quan hệ**: Là cơ hội để team và khách hàng làm quen, tạo dựng sự tin tưởng và một kênh giao tiếp cởi mở.
 
 > [!NOTE]
 > Buổi họp này chính là điểm chạm đầu tiên của đội ngũ phát triển với khách hàng. Hãy đầu tư về mặt hình thức, slide và thể hiện sự chuyên nghiệp để gây được ấn tượng tốt. Một khởi đầu thuận lợi sẽ giúp việc hợp tác sau này dễ dàng hơn rất nhiều.
@@ -390,15 +363,15 @@ Buổi họp này, tương tự như Daily Demo, chỉ cần sự tham gia của
 
 Mục tiêu chính của Daily Meeting bao gồm:
 
-- **Đồng bộ để minh bạch:** Mọi người chia sẻ những việc đã hoàn thành, các vấn đề đang gặp phải, và nêu ra những điều còn thiếu sót. Mục tiêu là để cả nhóm có một bức tranh chung, rõ ràng về tiến độ và các rủi ro tiềm ẩn.
-- **"Săn bug" cùng nhau:** Thay vì quy trình test-log-fix-test tốn thời gian, chúng ta dành thời gian soi kỹ vào sản phẩm ngay trong buổi họp. Khi cả nhóm cùng nhìn vào một chỗ, những lỗi sai sẽ được phát hiện nhanh hơn rất nhiều. Khi cả đội đều đã nắm rõ về "bug", các quy trình ghi nhận phức tạp trở nên không cần thiết.
-- **Lên lại kế hoạch trong ngày:** Dựa trên kết quả đã có và những vấn đề vừa phát hiện, cả nhóm cùng nhau điều chỉnh và sắp xếp lại các ưu tiên cho ngày làm việc mới.
+* **Đồng bộ để minh bạch:** Mọi người chia sẻ những việc đã hoàn thành, các vấn đề đang gặp phải, và nêu ra những điều còn thiếu sót. Mục tiêu là để cả nhóm có một bức tranh chung, rõ ràng về tiến độ và các rủi ro tiềm ẩn.
+* **"Săn bug" cùng nhau:** Thay vì quy trình test-log-fix-test tốn thời gian, chúng ta dành thời gian soi kỹ vào sản phẩm ngay trong buổi họp. Khi cả nhóm cùng nhìn vào một chỗ, những lỗi sai sẽ được phát hiện nhanh hơn rất nhiều. Khi cả đội đều đã nắm rõ về "bug", các quy trình ghi nhận phức tạp trở nên không cần thiết.
+* **Lên lại kế hoạch trong ngày:** Dựa trên kết quả đã có và những vấn đề vừa phát hiện, cả nhóm cùng nhau điều chỉnh và sắp xếp lại các ưu tiên cho ngày làm việc mới.
 
 Những điều cần tránh trong Daily Meeting:
 
-- **Sa đà vào giải quyết vấn đề kỹ thuật.** Đây là một cái bẫy phổ biến làm lãng phí thời gian của cả nhóm. Nếu có một vấn đề kỹ thuật phức tạp, hãy ghi nhận và thảo luận riêng với dev-lead hoặc người có chuyên môn ngay sau buổi họp. Đừng để cả nhóm phải ngồi "bàn" về một vấn đề không liên quan đến họ.
-- **Báo cáo cho có:** Buổi họp nên tập trung vào sản phẩm: tính năng nào đã hoàn thành, cái nào đã sẵn sàng cho người dùng, và bức tranh tổng thể của dự án đang ra sao. Nó không phải là nơi để liệt kê một danh sách dài các "task" đã làm.
-- **Kéo dài lê thê:** Thời gian là vàng. Buổi họp này cần nhanh, gọn và hiệu quả, lý tưởng nhất là **dưới 30 phút** nhưng cũng không nên ngắn hơn 10 phút để đảm bảo mọi người có đủ thời gian chia sẻ và "săn bug".
+* **Sa đà vào giải quyết vấn đề kỹ thuật.** Đây là một cái bẫy phổ biến làm lãng phí thời gian của cả nhóm. Nếu có một vấn đề kỹ thuật phức tạp, hãy ghi nhận và thảo luận riêng với dev-lead hoặc người có chuyên môn ngay sau buổi họp. Đừng để cả nhóm phải ngồi "bàn" về một vấn đề không liên quan đến họ.
+* **Báo cáo cho có:** Buổi họp nên tập trung vào sản phẩm: tính năng nào đã hoàn thành, cái nào đã sẵn sàng cho người dùng, và bức tranh tổng thể của dự án đang ra sao. Nó không phải là nơi để liệt kê một danh sách dài các "task" đã làm.
+* **Kéo dài lê thê:** Thời gian là vàng. Buổi họp này cần nhanh, gọn và hiệu quả, lý tưởng nhất là **dưới 30 phút** nhưng cũng không nên ngắn hơn 10 phút để đảm bảo mọi người có đủ thời gian chia sẻ và "săn bug".
 
 ### 4. Daily Demo
 
@@ -408,14 +381,14 @@ Mục tiêu của cuộc họp này là tạo ra sự minh bạch tuyệt đối
 
 Quy trình của một buổi Daily Demo hiệu quả:
 
-- **Trình bày "hiện vật":** Dev-lead bật sản phẩm lên và trình bày các tính năng đã hoàn thành. Hãy cho khách hàng thấy sản phẩm đang hoạt động.
-- **Thảo luận các vấn đề:** Nêu rõ các giới hạn (limitation) mới phát hiện và các vấn đề cần thảo luận để cùng khách hàng tháo gỡ. Hãy coi họ như một Product Owner, người ra quyết định cuối cùng.
-- **Ghi nhận yêu cầu mới:** Lắng nghe các phản hồi. Tuy nhiên, nếu có các yêu cầu nằm ngoài phạm vi công việc đã thống nhất (scope of work), hãy ghi nhận và báo cáo lại cho Ban Lãnh đạo (BOD) để xử lý, tránh việc tự ý đồng ý.
+* **Trình bày "hiện vật":** Dev-lead bật sản phẩm lên và trình bày các tính năng đã hoàn thành. Hãy cho khách hàng thấy sản phẩm đang hoạt động.
+* **Thảo luận các vấn đề:** Nêu rõ các giới hạn (limitation) mới phát hiện và các vấn đề cần thảo luận để cùng khách hàng tháo gỡ. Hãy coi họ như một Product Owner, người ra quyết định cuối cùng.
+* **Ghi nhận yêu cầu mới:** Lắng nghe các phản hồi. Tuy nhiên, nếu có các yêu cầu nằm ngoài phạm vi công việc đã thống nhất (scope of work), hãy ghi nhận và báo cáo lại cho Ban Lãnh đạo (BOD) để xử lý, tránh việc tự ý đồng ý.
 
 Những điều cần tránh trong Daily Demo:
 
-- **Báo cáo dài dòng:** Đừng nói không ngừng. Hãy để sản phẩm tự nói lên.
-- **Kéo dài thời gian:** Cuộc họp này không nên kéo dài quá 30 phút. Nhanh, gọn và tập trung vào sản phẩm.
+* **Báo cáo dài dòng:** Đừng nói không ngừng. Hãy để sản phẩm tự nói lên.
+* **Kéo dài thời gian:** Cuộc họp này không nên kéo dài quá 30 phút. Nhanh, gọn và tập trung vào sản phẩm.
 
 ### 5. Retrospective Meeting
 
@@ -429,16 +402,14 @@ Nếu bạn giữ những khúc mắc ở trong lòng, chúng sẽ dần biến 
 
 Retrospective là nơi chúng ta đối thoại với các vấn đề một cách trưởng thành. Thay vì đổ lỗi, chúng ta cùng nhau nhìn vào hệ thống để tìm ra gốc rễ: quy trình nào đang làm khó anh em, thói quen nào đang kéo cả team đi xuống? Từ đó, cả team cùng nhau đưa ra những hành động cải tiến cụ thể cho tuần làm việc tiếp theo.
 
-
 ## Phần 5: Hướng đến một tổ chức tự học
 
 ### Xây Dựng Tổ Chức Tự Học
 
-
 Hàng ngày, chúng ta có các lớp học luôn sẵn sàng vào 5h30 ở sảnh tầng 1. Chúng được thiết kế để việc học trở nên cực kỳ thuận tiện, đến mức mọi người khó có thể cưỡng lại "cám dỗ" của việc học.
 
-- **Các lớp Seminar:** Là các "lớp học dã chiến" được dựng lên ngay khi chúng ta tìm ra một công nghệ, kỹ năng, hay cải tiến mới cần phổ cập ngay.
-- **Các buổi trình bày:** Về công nghệ mới, về những dự án nổi bật trên thị trường để chúng ta cùng học hỏi từ các case-study thành công, làm giàu vốn tư vấn cho khách hàng.
+* **Các lớp Seminar:** Là các "lớp học dã chiến" được dựng lên ngay khi chúng ta tìm ra một công nghệ, kỹ năng, hay cải tiến mới cần phổ cập ngay.
+* **Các buổi trình bày:** Về công nghệ mới, về những dự án nổi bật trên thị trường để chúng ta cùng học hỏi từ các case-study thành công, làm giàu vốn tư vấn cho khách hàng.
 
 **Tự học:** Nếu các lớp học cho chúng ta "cảm hứng", thì chính việc tự học mới biến "cảm hứng" đó thành "kỹ năng" thực thụ.
 
@@ -446,26 +417,25 @@ Hàng ngày, chúng ta có các lớp học luôn sẵn sàng vào 5h30 ở sả
 
 Chừng nào ngọn lửa ham học hỏi này còn cháy trong mỗi thành viên, chừng nào chúng ta còn xem mỗi thử thách là một bài học, thì chừng đó Cyberk vẫn sẽ tiếp tục tiến về phía trước. Sự phát triển của tổ chức không nằm ở đâu khác, mà nằm ở chính sự trưởng thành của mỗi chúng ta.
 
-
 ## Mục lục
 
-  - [Lời nói đầu](#li-ni-u)
-  - [Về Cuốn Cẩm Nang Này](#v-cun-cm-nang-ny)
-  - [Câu Chuyện Cyberk - Lời Của Tác Giả](#cu-chuyn-cyberk-li-ca-tc-gi)
-- [Phần 1: Chân dung khách hàng](#phn-1-chn-dung-khch-hng)
-  - [Web3 Builder](#web3-builder)
-- [Phần 2: Giới thiệu về Cyberk](#phn-2-gii-thiu-v-cyberk)
-  - [2.1. Sứ Mệnh: Cách Chúng Ta Làm](#21-s-mnh-cch-chng-ta-lm)
-  - [2.2. Giá Trị Cốt Lõi](#22-gi-tr-ct-li)
-  - [2.3. Tổng Quan về Cyberk](#23-tng-quan-v-cyberk)
-  - [2.4. Các Mô Hình Dịch Vụ](#24-cc-m-hnh-dch-v)
-  - [2.5. Cơ Cấu Tổ Chức Cyberk](#25-c-cu-t-chc-cyberk)
-- [Phần 3: Bí quyết Cyberk](#phn-3-b-quyt-cyberk)
-  - [3.1. Bí Quyết 1: Chăm hay không bằng tay quen](#31-b-quyt-1-chm-hay-khng-bng-tay-quen)
-  - [3.2. Bí quyết 2: Dĩ bất biến, ứng vạn biến](#32-b-quyt-2-d-bt-bin-ng-vn-bin)
-  - [3.3. Bí quyết 3: Trăm nghe không bằng một thấy](#33-b-quyt-3-trm-nghe-khng-bng-mt-thy)
-- [Phần 4: Quy trình làm việc tại Cyberk](#phn-4-quy-trnh-lm-vic-ti-cyberk)
-  - [4.1. Quy trình tổng quan](#41-quy-trnh-tng-quan)
-  - [4.2. Các cuộc họp quan trọng](#42-cc-cuc-hp-quan-trng)
-- [Phần 5: Hướng đến một tổ chức tự học](#phn-5-hng-n-mt-t-chc-t-hc)
-  - [Xây Dựng Tổ Chức Tự Học](#xy-dng-t-chc-t-hc)
+* [Lời nói đầu](#li-ni-u)
+* [Về Cuốn Cẩm Nang Này](#v-cun-cm-nang-ny)
+* [Câu Chuyện Cyberk - Lời Của Tác Giả](#cu-chuyn-cyberk-li-ca-tc-gi)
+* [Phần 1: Chân dung khách hàng](#phn-1-chn-dung-khch-hng)
+  * [Web3 Builder](#web3-builder)
+* [Phần 2: Giới thiệu về Cyberk](#phn-2-gii-thiu-v-cyberk)
+  * [2.1. Sứ Mệnh: Cách Chúng Ta Làm](#21-s-mnh-cch-chng-ta-lm)
+  * [2.2. Giá Trị Cốt Lõi](#22-gi-tr-ct-li)
+  * [2.3. Tổng Quan về Cyberk](#23-tng-quan-v-cyberk)
+  * [2.4. Các Mô Hình Dịch Vụ](#24-cc-m-hnh-dch-v)
+  * [2.5. Cơ Cấu Tổ Chức Cyberk](#25-c-cu-t-chc-cyberk)
+* [Phần 3: Bí quyết Cyberk](#phn-3-b-quyt-cyberk)
+  * [3.1. Bí Quyết 1: Chăm hay không bằng tay quen](#31-b-quyt-1-chm-hay-khng-bng-tay-quen)
+  * [3.2. Bí quyết 2: Dĩ bất biến, ứng vạn biến](#32-b-quyt-2-d-bt-bin-ng-vn-bin)
+  * [3.3. Bí quyết 3: Trăm nghe không bằng một thấy](#33-b-quyt-3-trm-nghe-khng-bng-mt-thy)
+* [Phần 4: Quy trình làm việc tại Cyberk](#phn-4-quy-trnh-lm-vic-ti-cyberk)
+  * [4.1. Quy trình tổng quan](#41-quy-trnh-tng-quan)
+  * [4.2. Các cuộc họp quan trọng](#42-cc-cuc-hp-quan-trng)
+* [Phần 5: Hướng đến một tổ chức tự học](#phn-5-hng-n-mt-t-chc-t-hc)
+  * [Xây Dựng Tổ Chức Tự Học](#xy-dng-t-chc-t-hc)
