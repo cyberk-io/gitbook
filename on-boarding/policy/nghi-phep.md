@@ -1,7 +1,7 @@
 ---
 title: "Nghỉ Phép"
-type: policy
-tags: [onboarding, policy, member]
+type: on-boarding
+tags: [policy]
 alias: [nghi-phep]
 ---
 

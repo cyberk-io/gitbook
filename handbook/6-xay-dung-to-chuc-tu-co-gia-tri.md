@@ -1,3 +1,8 @@
+---
+type: cyberk
+tags: [cyberk-way]
+---
+
 ## Hướng đến một tổ chức tự học
 
 Hàng ngày, chúng ta có các lớp học luôn sẵn sàng vào 5h30 ở sảnh tầng 1. Chúng được thiết kế để việc học trở nên cực kỳ thuận tiện, đến mức mọi người khó có thể cưỡng lại "cám dỗ" của việc học.

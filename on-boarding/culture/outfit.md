@@ -1,7 +1,7 @@
 ---
 title: "Trang Phục"
-type: policy
-tags: [onboarding, member, culture]
+type: on-boarding
+tags: [cyberk-way]
 alias: [outfit, trang-phuc]
 ---
 

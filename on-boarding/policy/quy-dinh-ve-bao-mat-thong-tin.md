@@ -1,7 +1,7 @@
 ---
 title: "Quy định về bảo mật thông tin"
-type: policy
-tags: [onboarding, member, security]
+type: on-boarding
+tags: [policy]
 alias: [quy-dinh-ve-bao-mat-thong-tin]
 ---
 

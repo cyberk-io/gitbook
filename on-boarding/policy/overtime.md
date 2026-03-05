@@ -1,7 +1,7 @@
 ---
 title: "Overtime"
-type: policy
-tags: [onboarding, policy, member]
+type: on-boarding
+tags: [policy]
 alias: [overtime]
 ---
 

@@ -1,83 +1,44 @@
 ---
-description: Tài liệu hướng dẫn chính thức của Cyberk - Nơi bạn tìm thấy mọi thông tin cần thiết
+description: Thư viện tri thức của Cyberk - Nơi lưu giữ mọi kiến thức, kinh nghiệm và phương pháp của chúng ta
 icon: book
 ---
 
-# 📚 Tổng quan về Cyberk GitBook
+# Thư viện Cyberk
 
-## 🎯 Giới thiệu
+Đây là thư viện tri thức của Cyberk. Mọi hiểu biết, kinh nghiệm, quy trình và bài học mà chúng ta tích lũy được đều được ghi lại tại đây.
 
-Chào mừng bạn đến với tài liệu GitBook chính thức của **Cyberk**! Đây là nơi tập trung mọi kiến thức, quy trình và quy định quan trọng mà bạn cần biết khi là một thành viên của đại gia đình Cyberk.
+Nếu bạn là thành viên của Cyberk, đây là nơi bạn tìm thấy câu trả lời. Nếu bạn là người mới, đây là nơi bạn bắt đầu.
 
-> 💡 **Lưu ý cho người mới:** GitBook này sẽ là người bạn đồng hành đắc lực trong hành trình của bạn tại Cyberk. Hãy dành thời gian khám phá từng phần để hiểu rõ về công ty, văn hóa và cách chúng ta làm việc.
+---
 
-## 🎯 Mục đích của tài liệu
+## Các khu vực trong thư viện
 
-1. **Chia sẻ thông tin** 📢
-   * Đảm bảo mọi thành viên đều được tiếp cận thông tin một cách bình đẳng
-   * Tạo môi trường làm việc minh bạch và hiệu quả
-   * Giúp việc onboarding nhân viên mới trở nên dễ dàng hơn
+**[The Cyberk Way](handbook/00.handbook-structure.md)** — Cẩm nang về triết lý, bí quyết và cách vận hành của Cyberk. Đây là cuốn sách nền tảng mà mọi thành viên nên đọc.
 
-2. **Hỗ trợ công việc** 💪
-   * Cung cấp hướng dẫn chi tiết cho các quy trình công việc
-   * Tài liệu tham khảo cho các công cụ và resources
-   * Giải đáp các câu hỏi thường gặp
+**[On-boarding](on-boarding/table-content.md)** — Tài liệu dành cho người mới: văn hóa công ty, chính sách, quyền lợi và những điều cần biết trong ngày đầu tiên.
 
-3. **Đồng nhất văn hoá & quy trình** 🤝
-   * Xây dựng tiêu chuẩn chung trong cách làm việc
-   * Duy trì tính nhất quán trong toàn bộ tổ chức
-   * Tăng cường sự gắn kết giữa các thành viên
+**[Solo-dev](solo-dev/solodev-way.md)** — Hướng dẫn cho developer tại Cyberk: quy trình phát triển, AI-driven development, bootstrap dự án.
 
-4. **Quyền lợi và trách nhiệm** ⚖️
-   * Thông tin về chế độ phúc lợi và chính sách nhân sự
-   * Quy định về trách nhiệm và nghĩa vụ của nhân viên
-   * Hướng dẫn phát triển nghề nghiệp
+**[Product Owner](product-owner/lesson-plans.md)** — Kiến thức dành cho quản lý dự án: giao việc, tiếp nhận yêu cầu, kick-off meeting.
 
-## 👥 Đối tượng sử dụng
+**[Quality Control](quality-control/how-to-be-a-cyberks-tester/editor.md)** — Quy trình và tiêu chuẩn kiểm thử tại Cyberk.
 
-### 1. Nhân viên mới
-* Tìm hiểu về văn hóa công ty và quy trình làm việc
-* Nắm bắt các công cụ và tài nguyên cần thiết
-* Hiểu rõ về quyền lợi và trách nhiệm
+**[Design Standard](design-standard/design-standard.md)** — Tiêu chuẩn thiết kế và các checklist cho bộ phận design.
 
-### 2. Nhân viên hiện tại
-* Tra cứu thông tin và quy trình khi cần
-* Cập nhật các chính sách và quy định mới
-* Tham khảo best practices
+**[Thinking](thinking/readme.md)** — Góc suy nghĩ của Anderson về các vấn đề vận hành, công nghệ và hướng đi.
 
-### 3. Quản lý & Lãnh đạo
-* Nắm bắt tổng quan về hoạt động công ty
-* Đảm bảo việc triển khai đồng bộ các quy định
-* Hỗ trợ team member hiệu quả
+---
 
-## 📖 Hướng dẫn sử dụng tài liệu
+## Quy ước phân loại tài liệu
 
-1. **Tra cứu có chủ đích**
-   * Sử dụng mục lục để điều hướng đến phần cần tìm
-   * Tận dụng tính năng tìm kiếm để tìm thông tin nhanh chóng
-   * Bookmark các trang thường xuyên sử dụng
+Thư viện này sử dụng hệ thống metadata để phân loại nội dung. Mỗi tài liệu được gắn nhãn `type` (phân loại theo mục đích) và `tags` (phân loại theo chủ đề) thông qua front matter.
 
-2. **Quy trình làm việc**
-   * Đọc kỹ tài liệu liên quan trước khi bắt đầu công việc mới
-   * Thực hiện theo các bước hướng dẫn một cách cẩn thận
-   * Liên hệ Anderson nếu có bất kỳ thắc mắc nào
+Chi tiết đầy đủ về hệ thống phân loại: **[Metadata Rule](metadata-rule.md)**
 
-## 🏗️ Nguyên tắc xây dựng tài liệu
+---
 
-1. **Tính cập nhật** 🔄
-   * Thông tin luôn được cập nhật mới nhất
-   * Các thay đổi được ghi chép và thông báo kịp thời
-   * Loại bỏ thông tin cũ không còn phù hợp
+## Tài liệu sống
 
-2. **Tính nhất quán** 🎯
-   * Định dạng và cấu trúc thống nhất
-   * Ngôn ngữ và thuật ngữ đồng bộ
-   * Tuân thủ các template và guidelines
+Thư viện này không phải là một bộ tài liệu tĩnh. Nó được cập nhật liên tục khi chúng ta học thêm điều mới, cải tiến quy trình, hoặc thay đổi cách làm việc. Nếu bạn thấy điều gì chưa đúng hoặc có thể tốt hơn, hãy nói ra. Đó cũng là tinh thần Cyberk.
 
-3. **Tính duy nhất** 💫
-   * Mỗi quy trình chỉ có một tài liệu hướng dẫn
-   * Tránh trùng lặp và mâu thuẫn thông tin
-   * Dễ dàng tìm kiếm và tham khảo
-
-> 💡 **Mẹo:** Bookmark trang này để dễ dàng quay lại khi cần. Đừng ngần ngại đóng góp ý kiến để chúng tôi có thể cải thiện tài liệu tốt hơn.
-
+> Thư viện đang trong quá trình sắp xếp và hoàn thiện. Một số tài liệu có thể chưa được phân loại đầy đủ.

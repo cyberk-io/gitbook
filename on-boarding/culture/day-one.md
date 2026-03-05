@@ -1,7 +1,8 @@
 ---
 title: "Day One"
-type: guide
-tags: [onboarding, member, rewrite]
+type: on-boarding
+tags: [cyberk-way]
+notes: rewrite
 alias: [day-one]
 ---
 
@@ -22,8 +23,4 @@ alias: [day-one]
 Việc cần làm sau khi có email
 
 - Tạo 1 profile Google Chrome mới và đăng nhập bằng mail công ty, bật thông báo gmail
-- Tải xuống [Discord](https://discord.com/download) và tạo tài khoản, sau đó liên hệ quản lý trực tiếp để được thêm vào server của công ty.
-
-#### Kênh chat
-
-- Telegram: tạo tài khoản telegram và nhờ quản lý trực tiếp add vào nhóm dự án, nhóm Cyberk All
+- Tải xuống Telegram và đăng nhập.

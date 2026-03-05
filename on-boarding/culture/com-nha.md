@@ -1,7 +1,7 @@
 ---
 title: "Cơm Nhà"
-type: policy
-tags: [onboarding, policy, member]
+type: on-boarding
+tags: [cyberk-way]
 alias: [com-nha]
 ---
 

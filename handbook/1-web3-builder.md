@@ -1,3 +1,8 @@
+---
+type: cyberk
+tags: [cyberk-way]
+---
+
 ## Web3 Builder
 
 **Builder:** Khách hàng của chúng ta, xuất thân họ là những nhà khởi nghiệp hoặc các doanh nhân đam mê về công nghệ, Quỹ đầu tư mạo hiểm, Innovation-hub của một bigtech. Cái họ mong muốn là được làm ra một sản phẩm có thể thay đổi thế giới.

@@ -1,7 +1,7 @@
 ---
 title: "Lương"
-type: policy
-tags: [onboarding, policy, member]
+type: on-boarding
+tags: [policy]
 alias: [luong]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Hướng dẫn đăng ký xin nghỉ"
-type: guide
-tags: [onboarding, member, process]
+type: on-boarding
+tags: [policy]
 alias: [quy-trinh-xin-nghi]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Work From Home"
-type: policy
-tags: [onboarding, policy, member]
+type: on-boarding
+tags: [policy]
 alias: [quickstart, wfh]
 ---
 
@@ -54,9 +54,9 @@ alias: [quickstart, wfh]
 
 **IV. Hướng dẫn thông báo WFH**
 
-*   **Thông báo trước:** Hãy đảm bảo mọi thành viên trong nhóm của bạn đều biết bạn sẽ làm việc tại nhà (work from home) một ngày trước khi nghỉ.
-*   **Kênh thông báo:** Sử dụng kênh Discord chung của dự án hoặc nhóm để thông báo.
-*   **Nội dung mẫu:** `@tên_nhóm Mai mình xin phép WFH nhé.`
+* **Thông báo trước:** Hãy đảm bảo mọi thành viên trong nhóm của bạn đều biết bạn sẽ làm việc tại nhà (work from home) một ngày trước khi nghỉ.
+* **Kênh thông báo:** Sử dụng kênh Discord chung của dự án hoặc nhóm để thông báo.
+* **Nội dung mẫu:** `@tên_nhóm Mai mình xin phép WFH nhé.`
 
 **V. Lưu ý khi làm việc WFH**
 

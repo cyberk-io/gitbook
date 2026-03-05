@@ -5,15 +5,8 @@ tags: [onboarding, cyberk]
 alias: [on-boarding-summary]
 ---
 
-# Onboarding — Table of Contents
 
-Tài liệu hướng dẫn hội nhập cho thành viên mới tại Cyberk. Xem quy ước metadata tại [[on-boarding-readme]].
-
----
-
-## The Cyberk Way (Handbook)
-
-Đọc handbook để hiểu tổng quan về công ty, triết lý và cách vận hành.
+## The Cyberk Way
 
 - [[0.1-loi-noi-dau|Lời Nói Đầu]]
 - [[0.2-cach-su-dung-cam-nang|Về Cuốn Cẩm Nang Này]]
@@ -28,7 +21,7 @@ Tài liệu hướng dẫn hội nhập cho thành viên mới tại Cyberk. Xem
 
 - [[day-one|Day One]]
 - [[horenso|Horenso: Nghệ thuật Giao tiếp]]
-- [[overviews|World Class Developer]]
+- [[personal-development|World Class Developer]]
 - [[outfit|Trang Phục]]
 - [[com-nha|Cơm Nhà]]
 
