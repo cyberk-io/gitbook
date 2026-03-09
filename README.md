@@ -25,6 +25,8 @@ Nếu bạn là thành viên của Cyberk, đây là nơi bạn tìm thấy câu
 
 **[Design Standard](design-standard/design-standard.md)** — Tiêu chuẩn thiết kế và các checklist cho bộ phận design.
 
+**[Services](services/readme.md)** — Các dịch vụ của Cyberk: MVP Development, Tech Labs, Kick-starter Marketing và Community Development.
+
 **[Thinking](thinking/readme.md)** — Góc suy nghĩ của Anderson về các vấn đề vận hành, công nghệ và hướng đi.
 
 ---
