@@ -238,7 +238,7 @@ Khi sản phẩm phát triển vượt ngưỡng, mô hình sẽ cần tiến ho
 ## Liên kết kiến thức
 
 - [[solo-dev]] — Cuộc đối thoại Socratic gốc — nơi mô hình Solo Dev được hình thành qua phản biện
-- [[context-engineering]] — Kỹ năng nền tảng xuyên suốt — "nhiên liệu" cho toàn bộ mô hình
+- [[context-engineering#Định nghĩa]] — Kỹ năng nền tảng xuyên suốt — "nhiên liệu" cho toàn bộ mô hình
 - [[cyberk-agentic]] — Chiến lược Agentic AI tại Cyberk — mở rộng Multi-Agent Flow ra tầm tổ chức
 
 ### Bản đồ khái niệm
