@@ -1,6 +1,6 @@
 ---
 type: mkt
-tags: [service]
+tags: [service, archived]
 ---
 
 # MVP Development Service
