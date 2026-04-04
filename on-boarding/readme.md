@@ -13,10 +13,13 @@ Tài liệu này quy định các giá trị **type**, **tags**, và quy ước 
 
 ## Cấu trúc thư mục
 
+Thư mục `on-boarding/` chỉ dùng để lưu trữ các hướng dẫn dành riêng cho việc nhận việc, hoà nhập vào công ty. Các tài liệu mang tính chất quy định thực thi (Văn hoá, Chính sách) đã được chuyển ra ngoài:
+
 ```
-on-boarding/
-├── culture/      ← Văn hoá, tinh thần, cách sống tại Cyberk
-└── policy/       ← Chính sách, quy định, chế độ phúc lợi
+gitbook/
+├── on-boarding/  ← Hướng dẫn người mới, quy trình hội nhập
+├── culture/      ← Văn hoá, tinh thần, cách làm việc thực thi của team
+└── policy/       ← Chính sách, quyền lợi chung
 ```
 
 ---

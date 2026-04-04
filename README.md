@@ -15,7 +15,7 @@ Nếu bạn là thành viên của Cyberk, đây là nơi bạn tìm thấy câu
 
 **[The Cyberk Way](handbook/00.handbook-structure.md)** — Cẩm nang về triết lý, bí quyết và cách vận hành của Cyberk. Đây là cuốn sách nền tảng mà mọi thành viên nên đọc.
 
-**[On-boarding](on-boarding/table-content.md)** — Tài liệu dành cho người mới: văn hóa công ty, chính sách, quyền lợi và những điều cần biết trong ngày đầu tiên.
+**[On-boarding](handbook/table-content.md)** — Tài liệu dành cho người mới: văn hóa công ty, chính sách, quyền lợi và những điều cần biết trong ngày đầu tiên.
 
 **[Solo-dev](solo-dev/solodev-way.md)** — Hướng dẫn cho developer tại Cyberk: quy trình phát triển, AI-driven development, bootstrap dự án.
 
