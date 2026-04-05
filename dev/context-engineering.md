@@ -1,129 +1,68 @@
 ---
-title: "Context-Engineering"
 type: dev
 tags: [agentic, cyberk-way]
 alias: [context-engineering]
 ---
 
-# Context-Engineering là gì
+# Context-Engineering: Quản lý ngữ cảnh
 
-## Định nghĩa
-
-Context-Engineering là kỹ năng **xây dựng, tổ chức và duy trì bối cảnh** (context) để AI có thể làm việc chính xác và hiệu quả. Bối cảnh ở đây bao gồm mọi thông tin mà AI cần để hiểu vấn đề và tạo ra output đúng: yêu cầu sản phẩm, kiến trúc kỹ thuật, quy tắc code, ràng buộc nghiệp vụ, lịch sử quyết định...
-
-Nói cách khác: nếu AI là một động cơ cực kỳ mạnh mẽ, thì context chính là nhiên liệu. Động cơ mạnh đến đâu cũng vô dụng nếu không có nhiên liệu đúng loại.
-
-## Tại sao Context-Engineering quan trọng
-
-AI không "biết" bất cứ điều gì về dự án của bạn cho đến khi bạn nói cho nó biết. Mỗi khi bạn mở một phiên làm việc với AI, nó bắt đầu từ con số không. Chất lượng output hoàn toàn phụ thuộc vào chất lượng input.
-
-- Tài liệu mơ hồ → AI tạo ra output mơ hồ.
-- Tài liệu chính xác → AI tạo ra output chính xác.
-- Không có tài liệu → AI đoán — và đoán sai.
-
-Đây là lý do context-engineering không phải "việc giấy tờ" — mà là **hành động quyết định hiệu năng của toàn bộ dự án**. *(Trong mô hình [[solodev-way|Solo Dev]], đây là năng lực nền tảng xuyên suốt.)*
-
-## Nguyên tắc cốt lõi: Không thừa, không thiếu
-
-Context-engineering là nghệ thuật cân bằng:
-
-| Trạng thái | Hệ quả |
-|---|---|
-| **Thiếu context** | AI phải đoán, output sai lệch so với mong đợi. Mất thời gian sửa đi sửa lại. |
-| **Thừa context** | AI bị nhiễu bởi thông tin không liên quan, mất focus. Kết quả dàn trải, không sắc nét. |
-| **Đúng context** | AI hiểu chính xác cần làm gì, tại sao, trong phạm vi nào. Output khớp với kỳ vọng ngay từ lần đầu. |
-
-Mục tiêu: cung cấp **đủ** thông tin để AI không phải đoán, nhưng **không nhiều hơn** mức cần thiết cho nhiệm vụ hiện tại.
-
-## Các loại context trong một dự án
-
-### 1. Context sản phẩm (Product Context)
-
-Trả lời câu hỏi: **"Sản phẩm này giải quyết vấn đề gì, cho ai?"**
-
-- **PRD (Product Requirements Document)** — mô tả sản phẩm tổng thể: mục tiêu, người dùng mục tiêu, tính năng chính, ưu tiên.
-- **BRD (Business Requirements Document)** — yêu cầu từ góc nhìn kinh doanh: bài toán cần giải, KPI, ràng buộc ngân sách/thời gian.
-- **User Stories / Use Cases** — mô tả cách người dùng tương tác với sản phẩm trong từng tình huống cụ thể.
-
-### 2. Context kỹ thuật (Technical Context)
-
-Trả lời câu hỏi: **"Hệ thống được xây dựng như thế nào?"**
-
-- **SRS (Software Requirements Specification)** — đặc tả kỹ thuật chi tiết: API, data model, business logic.
-- **Tài liệu kiến trúc (Architecture Document)** — mô tả cấu trúc hệ thống, tech stack, cách các thành phần giao tiếp.
-- **ADR (Architecture Decision Records)** — ghi lại các quyết định kiến trúc quan trọng và lý do đằng sau chúng.
-
-### 3. Context quy tắc (Rules Context)
-
-Trả lời câu hỏi: **"AI nên tuân theo quy tắc gì khi làm việc?"**
-
-- **Coding standards** — quy ước đặt tên, cấu trúc thư mục, design pattern được sử dụng.
-- **Cursor Rules / AI Rules** — các quy tắc cụ thể cho AI: cách viết commit message, cách tổ chức code, cách xử lý lỗi. *(Trong [[cyberk-agentic|chiến lược Agentic AI]], đây là cách "tiêm ADN Cyberk" vào AI.)*
-- **Definition of Done** — tiêu chuẩn để một tính năng được coi là "hoàn thành".
-
-### 4. Context lịch sử (Historical Context)
-
-Trả lời câu hỏi: **"Tại sao hệ thống trông như thế này?"**
-
-- **Changelog / Release notes** — lịch sử thay đổi của sản phẩm.
-- **Ghi chú quyết định** — tại sao chọn PostgreSQL thay vì MongoDB, tại sao dùng microservice thay vì monolith.
-- **Known issues / Tech debt log** — các vấn đề đã biết và nợ kỹ thuật đang tồn tại.
-
-## Context sống, không phải context chết
-
-Tài liệu đặc tả không phải viết một lần rồi bỏ. Khi sản phẩm phát triển, context phải được cập nhật liên tục:
-
-- **Cập nhật** PRD/SRS sau mỗi thay đổi yêu cầu.
-- **Ghi lại** các quyết định kiến trúc ngay khi chúng được đưa ra.
-- **Loại bỏ** context đã lỗi thời để tránh gây nhiễu cho AI.
-
-Context lỗi thời còn nguy hiểm hơn không có context — vì nó khiến AI tự tin làm sai.
-
-## Context-Engineering trong thực hành
-
-### Khi bắt đầu dự án mới
-
-1. Viết PRD/BRD — xác định rõ vấn đề, người dùng, tính năng cốt lõi.
-2. Viết SRS — đặc tả kỹ thuật cho tính năng đầu tiên.
-3. Thiết lập Cursor Rules / AI Rules — quy tắc chung cho AI trong dự án.
-4. Tạo Architecture Document — mô tả tech stack và cấu trúc ban đầu.
-
-### Khi phát triển tính năng
-
-1. Cập nhật PRD nếu yêu cầu thay đổi.
-2. Viết SRS chi tiết cho tính năng cần xây.
-3. Cung cấp context vừa đủ cho AI flow tương ứng — coding flow chỉ cần SRS + kiến trúc, không cần toàn bộ BRD.
-
-### Khi bàn giao dự án
-
-1. Đảm bảo toàn bộ context đã được cập nhật.
-2. Người tiếp nhận đọc tài liệu + cung cấp cho AI → có thể tiếp tục ngay mà không cần "ngồi cạnh người cũ hàng tuần". *(Đây là lý do [[solodev-way#8.3. Tri thức được tường minh hoá|bus factor của Solo Dev có thể cao hơn team truyền thống]].)*
-
-## Tóm lại
-
-Context-Engineering không chỉ là kỹ năng viết tài liệu — mà là kỹ năng **tư duy có hệ thống** về thông tin. Người giỏi context-engineering biết:
-
-- Thông tin nào cần thiết cho nhiệm vụ nào.
-- Mức độ chi tiết phù hợp cho từng loại tài liệu.
-- Khi nào cần cập nhật, khi nào cần loại bỏ.
-- Cách tổ chức context để AI truy cập nhanh và chính xác.
-
-Đây là kỹ năng nền tảng của mô hình [[solodev-way|Solo Dev]] — và cũng là kỹ năng phân biệt giữa một Solo Dev hiệu quả và một Solo Dev vật lộn với AI.
+Mục đích của tài liệu này là làm rõ khái niệm **Context-Engineering**. Nếu bạn đang làm việc chung với AI, đây là kỹ năng đầu tiên bạn cần nắm chắc.
 
 ---
 
-## Liên kết kiến thức
+## 1. Tại sao AI cần Context?
 
-- [[solodev-way]] — Tài liệu phương pháp Solo Dev — nơi context-engineering được định vị là năng lực cốt lõi (mục 5)
-- [[solo-dev]] — Cuộc đối thoại gốc — nơi nguyên tắc "không thừa, không thiếu" được xác lập
-- [[cyberk-agentic]] — Chiến lược Agentic AI — nơi context trở thành "ADN" được inject vào Agent
+Để AI viết code đúng, nó cần hiểu toàn bộ dự án. Tuy nhiên, mọi phiên làm việc với AI đều bắt đầu với bộ nhớ bằng 0.
 
-### Context-Engineering kết nối mọi thứ
+Nhiều người nghĩ lập trình với AI là nhắn một đoạn prompt ngắn và chờ copy code. Trò này chỉ dùng được khi bạn giải một bài toán thuật toán nhỏ. Khi làm một sản phẩm thực tế, máy móc cần biết cấu trúc database, logic nghiệp vụ, các file đang chia thư mục thế nào và dự án đang dùng thư viện gì.
 
-| Vai trò của Context | Trong ngữ cảnh nào |
-|---|---|
-| Nhiên liệu cho AI | [[solodev-way#4.4. Quản lý bối cảnh (Context Management)]] |
-| Giải quyết blind spot | [[solo-dev]] — Socrates hỏi về vòng lặp bias |
-| ADN tổ chức | [[cyberk-agentic]] — Inject chuẩn Cyberk vào Agent |
-| Tri thức tường minh hoá | [[solodev-way#8.3. Tri thức được tường minh hoá]] — Bus factor cao hơn |
-| Input cho Multi-Agent Flow | [[solodev-way#6. Multi-Agent Flow — Làm việc với nhiều "thực thể AI"]] |
+**Context-Engineering** là bước bạn hệ thống hóa các thông tin này thành văn bản để nạp cho AI trước khi yêu cầu nó chạy. Cung cấp ngữ cảnh chuẩn, AI sinh ra code cũng chuẩn. Để AI phải tự đoán, nó sẽ sinh ra bug.
+
+## 2. Nguyên tắc vàng: Đủ dùng, không dư thừa
+
+Chúng ta quản lý tài liệu theo nguyên tắc: **"Không thừa, không thiếu"**.
+
+- **Thiếu ngữ cảnh:** AI bắt đầu tự bịa ra logic (hallucination). Hậu quả là code chạy lỗi sai bét, bạn mất hàng giờ mò mẫm tự sửa lại theo cách thủ công.
+- **Thừa ngữ cảnh:** Bạn bắt AI đọc quá nhiều file không liên quan (nhét nguyên cả document của công ty vào một cái task nhỏ). AI bị nhiễu, làm sai yêu cầu xuất phát.
+- **Đúng ngữ cảnh:** Bạn chỉ chia sẻ đúng lượng tài liệu cần thiết. AI biết chính xác mục tiêu (Why) và giới hạn (Constraints).
+
+## 3. Cách chia lớp ngữ cảnh để quản lý
+
+Để máy móc làm việc tập trung, chúng ta chia Context thành 4 nhóm. Khi giao việc cho AI, tùy yêu cầu mà bạn quyết định đưa loại tài liệu nào vào.
+
+### A. Context Sản phẩm (Product Context)
+
+Tài liệu giải thích lý do làm tính năng này. Dùng để AI hiểu hướng đi.
+
+- **PRD (Product Requirements Document):** Mục tiêu của tính năng, vấn đề kinh doanh cần giải quyết.
+- **User Stories:** Người dùng sẽ bấm vào nút nào, mong đợi kết quả gì.
+
+### B. Context Kỹ thuật (Technical Context)
+
+Bản vẽ để AI dựa vào đó gõ code.
+
+- **SRS (Software Requirements Specification):** Ghi rõ logic tính toán, file schema database, và cấu trúc API.
+- **ADR (Architecture Decision Records):** Ghi chú lại lý do dùng một công nghệ (VD: tại sao lại dùng Redis thay vì trực tiếp gọi DB cho chức năng này).
+
+### C. Context Quy tắc (Rules Context)
+
+Dùng để bắt AI tuân thủ luật lệ, không làm càng.
+
+- **Skill files / Cursor Rules:** Các luật coding của team. Ví dụ: luôn thụt lề 2 spaces, bắt buộc phải viết unit test trước khi đổi logic, không tự ý sửa các file cấu hình.
+
+### D. Context Lịch sử (Historical Context)
+
+- **Changelogs / Tech Debt:** Những bản fix cũ. AI cần biết hệ thống đang vướng nợ kỹ thuật ở đâu để không vô ý xóa đi đoạn code sửa lỗi trước đó.
+
+## 4. Tài liệu phải luôn khớp với Code
+
+Bỏ viết Docs sau khi dự án Release là sai lầm lặp lại nhiều nhất của các kỹ sư. Quy tắc của chúng ta là: **Tài liệu phải luôn khớp với trạng thái Code hiện tại.**
+
+Khi có thay đổi logic từ khách hàng, bạn tuyệt đối không được tự ý sửa code bằng tay lắt nhắt. Cách xử lý chuẩn là:
+
+1. Mở file đặc tả (PRD/SRS) và viết lại logic mới vào văn bản.
+2. Bấm nạp file vừa sửa cho AI và yêu cầu nó đập đi code lại dựa trên ngữ cảnh vừa thay đổi.
+
+Cách làm này đảm bảo 100% logic của sản phẩm đều nằm trên mặt chữ. Nếu ngày mai dự án có người mới vào, hoặc bạn xin nghỉ phép, người tiếp theo chỉ cần mở file Docs là nắm được nguyên dự án và tiếp tục nhờ AI làm việc. Không ai phải hao tâm tổn trí ngồi đọc hiểu từng dòng code nữa.
+
+Tóm lại, kỹ năng Context-Engineering giúp chúng ta quản lý dự án bằng văn bản, giảm phụ thuộc vào trí nhớ cá nhân (Bus factor) và làm cho hệ thống AI hoạt động đều đặn, ít hỏng hóc.
