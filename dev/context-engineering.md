@@ -1,8 +1,8 @@
 ---
 title: "Context-Engineering"
-type: concept
-tags: [context-engineering, solo-dev, methodology, product-context, technical-context]
-alias: [context-engineering, context-management]
+type: dev
+tags: [agentic, cyberk-way]
+alias: [context-engineering]
 ---
 
 # Context-Engineering là gì

@@ -1,7 +1,7 @@
 ---
 title: "Junior trong kỷ nguyên AI"
-type: guide
-tags: [onboarding, developer, ai-driven]
+type: dev
+tags: [native-ai, cyberk-way]
 alias: [ai-driven-for-newbie]
 ---
 

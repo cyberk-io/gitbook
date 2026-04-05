@@ -1,8 +1,8 @@
 ---
 title: "AI-Driven Development"
-type: methodology
-tags: [onboarding, developer, ai-driven]
-alias: [ai-driven-development]
+type: dev
+tags: [native-ai, cyberk-way]
+alias: [ai-driven-development, ADD]
 ---
 
 # Phương pháp luận AI-Driven Development (ADD)
