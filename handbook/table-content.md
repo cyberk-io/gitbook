@@ -21,7 +21,7 @@ alias: [on-boarding-summary]
 
 - [[day-one|Day One]]
 - [[horenso|Horenso: Nghệ thuật Giao tiếp]]
-- [[personal-development|World Class Developer]]
+- [[dev/personal-development|World Class Developer]]
 - [[outfit|Trang Phục]]
 - [[com-nha|Cơm Nhà]]
 
