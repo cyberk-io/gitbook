@@ -5,10 +5,10 @@ const structureFilePath = path.join(
   __dirname,
   "..",
   "handbook",
-  "00.handbook-structure.md"
+  "0.0.handbook-structure.md"
 );
 const handbookDir = path.join(__dirname, "..", "handbook");
-const outputFilePath = path.join(__dirname, "..", "handbook.md");
+const outputFilePath = path.join(__dirname, "..", ".handbook", "handbook.md");
 
 const structureContent = fs.readFileSync(structureFilePath, "utf-8");
 const lines = structureContent.split("\n");
@@ -41,8 +41,12 @@ lines.forEach((line) => {
 
       if (fs.existsSync(filePath) && !includedFiles.has(filePath)) {
         let fileContent = fs.readFileSync(filePath, "utf-8");
-        // We remove the title from the sub-file as we already added it.
+        // Strip YAML frontmatter (--- ... ---) first
+        fileContent = fileContent.replace(/^---[\s\S]*?---\n*/g, "");
+        // Then remove the title heading from the sub-file as we already added it.
         fileContent = fileContent.replace(/^#+.*\n?/, "");
+        // Downgrade remaining headings by 2 levels so they nest under ### chapter headings
+        fileContent = fileContent.replace(/^(#+)/gm, (match) => match + "##");
         finalContent += fileContent + "\n\n";
         includedFiles.add(filePath);
       }
