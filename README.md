@@ -1,5 +1,7 @@
 ---
-description: Thư viện tri thức của Cyberk - Nơi lưu giữ mọi kiến thức, kinh nghiệm và phương pháp của chúng ta
+description: >-
+  Thư viện tri thức của Cyberk - Nơi lưu giữ mọi kiến thức, kinh nghiệm và
+  phương pháp của chúng ta
 icon: book
 ---
 
@@ -9,35 +11,35 @@ icon: book
 
 Nếu bạn là thành viên của Cyberk, đây là nơi bạn tìm thấy câu trả lời. Nếu bạn là người mới, đây là nơi bạn bắt đầu.
 
----
+***
 
 ## Các khu vực trong thư viện
 
-**[The Cyberk Way](handbook/0.0.handbook-structure.md)** — Cẩm nang về triết lý, bí quyết và cách vận hành của Cyberk. Đây là cuốn sách nền tảng mà mọi thành viên nên đọc.
+[**The Cyberk Way**](handbook/0.0.handbook-structure.md) — Cẩm nang về triết lý, bí quyết và cách vận hành của Cyberk. Đây là cuốn sách nền tảng mà mọi thành viên nên đọc.
 
-**[On-boarding](table-content.md)** — Tài liệu dành cho người mới: văn hóa công ty, chính sách, quyền lợi và những điều cần biết trong ngày đầu tiên.
+[**On-boarding**](table-content.md) — Tài liệu dành cho người mới: văn hóa công ty, chính sách, quyền lợi và những điều cần biết trong ngày đầu tiên.
 
-**[Solo-dev](solo-dev/solodev-way.md)** — Hướng dẫn cho developer tại Cyberk: quy trình phát triển, AI-driven development, bootstrap dự án.
+[**Solo-dev**](https://github.com/cyberk-io/gitbook/blob/main/solo-dev/solodev-way.md) — Hướng dẫn cho developer tại Cyberk: quy trình phát triển, AI-driven development, bootstrap dự án.
 
-**[Product Owner](product-owner/lesson-plans.md)** — Kiến thức dành cho quản lý dự án: giao việc, tiếp nhận yêu cầu, kick-off meeting.
+[**Product Owner**](https://github.com/cyberk-io/gitbook/blob/main/product-owner/lesson-plans.md) — Kiến thức dành cho quản lý dự án: giao việc, tiếp nhận yêu cầu, kick-off meeting.
 
-**[Quality Control](quality-control/how-to-be-a-cyberks-tester/editor.md)** — Quy trình và tiêu chuẩn kiểm thử tại Cyberk.
+[**Quality Control**](https://github.com/cyberk-io/gitbook/blob/main/quality-control/how-to-be-a-cyberks-tester/editor.md) — Quy trình và tiêu chuẩn kiểm thử tại Cyberk.
 
-**[Design Standard](design-standard/design-standard.md)** — Tiêu chuẩn thiết kế và các checklist cho bộ phận design.
+[**Design Standard**](https://github.com/cyberk-io/gitbook/blob/main/design-standard/design-standard.md) — Tiêu chuẩn thiết kế và các checklist cho bộ phận design.
 
-**[Services](services/readme.md)** — Các dịch vụ của Cyberk: MVP Development, Tech Labs, Kick-starter Marketing và Community Development.
+[**Services**](https://github.com/cyberk-io/gitbook/blob/main/services/readme.md) — Các dịch vụ của Cyberk: MVP Development, Tech Labs, Kick-starter Marketing và Community Development.
 
-**[Thinking](thinking/readme.md)** — Góc suy nghĩ của Anderson về các vấn đề vận hành, công nghệ và hướng đi.
+[**Thinking**](https://github.com/cyberk-io/gitbook/blob/main/thinking/readme.md) — Góc suy nghĩ của Anderson về các vấn đề vận hành, công nghệ và hướng đi.
 
----
+***
 
 ## Quy ước phân loại tài liệu
 
 Thư viện này sử dụng hệ thống metadata để phân loại nội dung. Mỗi tài liệu được gắn nhãn `type` (phân loại theo mục đích) và `tags` (phân loại theo chủ đề) thông qua front matter.
 
-Chi tiết đầy đủ về hệ thống phân loại: **[Metadata Rule](metadata-rule.md)**
+Chi tiết đầy đủ về hệ thống phân loại: [**Metadata Rule**](https://github.com/cyberk-io/gitbook/blob/main/metadata-rule.md)
 
----
+***
 
 ## Tài liệu sống
 
