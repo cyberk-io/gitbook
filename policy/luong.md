@@ -15,7 +15,6 @@ alias: [luong]
 
 * Lương có thể được nhận qua hai hình thức:
   * Chuyển khoản ngân hàng
-  * Thanh toán bằng tiền mặt (nếu có yêu cầu)
 
 **Bảo Hiểm (Bắt Buộc):**
 
