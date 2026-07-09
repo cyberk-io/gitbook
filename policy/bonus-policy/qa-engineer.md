@@ -69,7 +69,7 @@
 
 **Quyền lợi/Thu nhập**
 - Lương base: 20,000,000 VND - 30,000,000 VND.
-- Thưởng Sứ Mệnh (Responsibility Bonus): 5,000,000 VND/tháng (nếu kiêm nhiệm Lead đảm bảo chất lượng).
+- Thưởng Sứ Mệnh (Responsibility Bonus): 5,000,000 VND (nếu kiêm nhiệm Lead đảm bảo chất lượng).
 
 **Kết quả cần đạt**
 - Chịu trách nhiệm tối cao về chất lượng đầu ra của tất cả dự án trong công ty.
