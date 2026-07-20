@@ -9,7 +9,7 @@ alias: [onboarding-guide, huong-dan-onboarding]
 
 Chào mừng bạn đã chính thức gia nhập đội ngũ Cyberk! Để quá trình tiếp nhận công việc diễn ra suôn sẻ và bạn có thể nhanh chóng hòa nhập với môi trường, vui lòng làm theo các hướng dẫn dưới đây.
 
-## Day One (Ngày Đầu Tiên)
+## Day One
 
 Trong ngày đầu tiên, hãy dành thời gian xử lý các "thủ tục" cơ bản này:
 
@@ -17,7 +17,7 @@ Trong ngày đầu tiên, hãy dành thời gian xử lý các "thủ tục" cơ
 2. **Trang phục văn phòng:** Đọc qua nguyên tắc [[outfit]] để tự tin hơn khi tới văn phòng.
 3. **Cơm trưa:** Xem bài viết [[com-nha]] để biết cách đăng ký cơm trưa nếu bạn muốn dùng bữa cùng mọi người.
 
-## The Cyberk Way (Lý Luận & Đường Lối)
+## The Cyberk Way
 
 The Cyberk Way là cuốn sổ tay cốt lõi định hình tư duy của mọi thành viên, **rất ít khi bị thay đổi**. Bạn có thể nhẩn nha xem qua trong một đến hai tuần đầu tiên:
 
@@ -26,7 +26,7 @@ The Cyberk Way là cuốn sổ tay cốt lõi định hình tư duy của mọi 
 
 _Toàn bộ quy định nằm trong phần Handbook_
 
-## Culture & Policy (Thực Thi Hàng Ngày)
+## Culture & Policy
 
 Đây là những tài liệu "sống" sẽ thường xuyên cập nhật. Để hiểu cách bạn sẽ làm việc và các quyền lợi của mình ra sao, hãy đọc ngay:
 

@@ -10,15 +10,15 @@ alias: [horenso]
 Là một bộ quy tắc giao tiếp trong công sở, có nguồn gốc từ Nhật Bản.
 Chúng bao gồm: Báo cáo, Liên lạc, Thảo luận.
 
-### Báo cáo (報告 - Hōkoku)
+### Báo cáo
 
 Trong doanh nghiệp, đó là một hình thức văn bản, lời nói, hình ảnh nhằm mô tả, chuyển tiếp thông tin của hoàn cảnh, sự kiện. Báo cáo thường được sử dụng để thông tin cho cấp trên, tổng kết tình hình hoạt động, tường trình, khuyến nghị. Các báo cáo thường chứa thông tin đã được tuyển lọc và phân tích. Báo cáo thường mang tính văn phong, quy củ.
 
-### Liên lạc (連絡 - Renraku)
+### Liên lạc
 
 Là hình thức truyền tin cho nhau để giữ mối liên hệ và cập nhật tình hình. Giúp mọi người nắm được thông tin của nhau, làm việc nhịp nhàng và hỗ trợ được nhau khi cần thiết.
 
-### Thảo luận (相談 - Sōdan)
+### Thảo luận
 
 Dùng để tìm ra giải pháp để xử lý các vấn đề phức tạp, cần sự kết hợp suy nghĩ của nhiều người.
 Có nhiều kỹ thuật khác nhau trong thảo luận: Hero-base, brainstorming, mind map....
