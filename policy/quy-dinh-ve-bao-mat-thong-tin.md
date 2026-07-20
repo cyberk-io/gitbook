@@ -1,8 +1,10 @@
 ---
-title: "Quy định về bảo mật thông tin"
+title: Quy định về bảo mật thông tin
 type: on-boarding
-tags: [policy]
-alias: [quy-dinh-ve-bao-mat-thong-tin]
+alias:
+  - quy-dinh-ve-bao-mat-thong-tin
+tags:
+  - policy
 ---
 
 # Quy định về bảo mật thông tin
@@ -10,8 +12,6 @@ alias: [quy-dinh-ve-bao-mat-thong-tin]
 ### 1. Mục Đích
 
 Tài liệu này nhằm cung cấp cho nhân viên mới các kiến thức cơ bản về bảo mật thông tin, giúp họ hiểu rõ tầm quan trọng của việc bảo vệ thông tin và thực hiện các biện pháp bảo mật phù hợp trong quá trình làm việc tại công ty.
-
-![](../../.gitbook/assets/Se1.png)
 
 ### 2. Tầm Quan Trọng Của Bảo Mật Thông Tin
 
@@ -34,8 +34,6 @@ Trong môi trường công ty IT, thông tin là tài sản vô cùng quan trọ
 
 * **Bật 2FA trên tất cả các tài khoản**: Xác thực hai yếu tố giúp tăng cường bảo mật bằng cách yêu cầu một mã xác thực bổ sung ngoài mật khẩu.
 * **Sử dụng các ứng dụng xác thực**: Google Authenticator hoặc Authy là những ứng dụng phổ biến cho việc xác thực hai yếu tố.
-
-![](../../.gitbook/assets/se2.webp)
 
 #### 3.3. Cẩn Trọng Với Phishing
 
@@ -84,5 +82,4 @@ Sau khi sự cố xảy ra, công ty sẽ tiến hành các bước điều tra 
 
 ### 6. Kết Luận
 
-Bảo mật thông tin không chỉ là trách nhiệm của bộ phận IT mà còn là trách nhiệm của mỗi nhân viên trong công ty. Hy vọng tài liệu này giúp bạn hiểu rõ hơn về các quy định và biện pháp bảo mật cần thiết để bảo vệ thông tin công ty và dữ liệu khách hàng. Việc tuân thủ các nguyên tắc này sẽ giúp chúng ta xây dựng một môi trường làm việc an toàn và chuyên nghiệp.
-**Hãy luôn cảnh giác và bảo vệ thông tin một cách cẩn trọng!**
+Bảo mật thông tin không chỉ là trách nhiệm của bộ phận IT mà còn là trách nhiệm của mỗi nhân viên trong công ty. Hy vọng tài liệu này giúp bạn hiểu rõ hơn về các quy định và biện pháp bảo mật cần thiết để bảo vệ thông tin công ty và dữ liệu khách hàng. Việc tuân thủ các nguyên tắc này sẽ giúp chúng ta xây dựng một môi trường làm việc an toàn và chuyên nghiệp. **Hãy luôn cảnh giác và bảo vệ thông tin một cách cẩn trọng!**
