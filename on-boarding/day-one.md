@@ -21,7 +21,7 @@ Tài liệu này là checklist dành cho **Line Manager** hoặc **Buddy** (ngư
 
 - Đảm bảo khu vực làm việc, bàn ghế, thiết bị (nếu có) đã sạch sẽ và sẵn sàng.
 - Thông báo trước trên group chat nội bộ về sự gia nhập của nhân sự mới để team chuẩn bị tinh thần chào đón.
-- Chủ động liên hệ bộ phận liên quan (hoặc **NgocTQ - Nathan**) từ trước để tạo sẵn Email công ty và các account cần thiết.
+- Chủ động liên hệ bộ phận liên quan từ trước để tạo sẵn Email công ty và các account cần thiết.
 
 ## 2. Khi Newbie Đến Văn Phòng (Sáng)
 
